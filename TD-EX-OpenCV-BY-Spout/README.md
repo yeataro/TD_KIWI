@@ -13,3 +13,7 @@ https://pypi.python.org/pypi/PyOpenGL/3.1.1a1
 !!CAUTION!!
 ----
 It will easily crash your thread when doing color type conversion.
+
+Disclaimer
+----
+This method is very unstable and is not recommended for use in a production environment. I am not responsible for any project using this method.
