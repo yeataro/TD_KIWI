@@ -1,0 +1,18 @@
+Metadata-Version: 1.1
+Name: PyOpenGL
+Version: 3.1.1a1
+Summary: Standard OpenGL bindings for Python
+Home-page: http://pyopengl.sourceforge.net
+Author: Mike C. Fletcher
+Author-email: mcfletch@vrplumber.com
+License: BSD
+Download-URL: http://sourceforge.net/projects/pyopengl/files/PyOpenGL/
+Description: UNKNOWN
+Keywords: Graphics,3D,OpenGL,GLU,GLUT,GLE,GLX,EXT,ARB,Mesa,ctypes
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Topic :: Multimedia :: Graphics :: 3D Rendering
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Classifier: Intended Audience :: Developers
