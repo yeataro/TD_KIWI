@@ -2,7 +2,7 @@
 ![icon](https://raw.githubusercontent.com/yeataro/TD_KIWI/master/TD-EX-OpenCV-BY-Spout/shot/01.png)
 https://www.youtube.com/watch?v=9g6SBwNlw7E
 
-Use the following libraries:
+**Use the following libraries:**
 
 spiraltechnica/Spout-for-Python
 https://github.com/spiraltechnica/Spout-for-Python
