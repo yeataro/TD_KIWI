@@ -3,7 +3,7 @@
 Follow this article to implement:
 http://john-chapman-graphics.blogspot.com201301per-object-motion-blur.html
 
-![icon](https://raw.githubusercontent.com/yeataro/TD_KIWI/master/TD-ScreenSpaceMotionBlur/screenshot.jpg)
+![screenshots](https://raw.githubusercontent.com/yeataro/TD_KIWI/master/TD-ScreenSpaceMotionBlur/screenshot.jpg)
 https://www.youtube.com/watch?v=gl0y-sRHwHg
 
 ## Process
@@ -28,5 +28,6 @@ If the TD has a built-in series of Per-TDMatrix Uniforms
 (even the built-in Per-TDDeform() function, for instantiation),
 it will be easier to get the velocity map.
 
+---
 Yea Chen
 yeataro@gmail.com
