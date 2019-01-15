@@ -1,7 +1,10 @@
 # Screen Space Motion Blur in TouchDesigner
 
-Follow this article to implement
+Follow this article to implement:
 http://john-chapman-graphics.blogspot.com201301per-object-motion-blur.html
+
+![icon](https://raw.githubusercontent.com/yeataro/TD_KIWI/master/TD-ScreenSpaceMotionBlur/screenshot.jpg)
+https://www.youtube.com/watch?v=gl0y-sRHwHg
 
 ## Process
 Use Render Top and Shader below the target Geo Comp level to get 
