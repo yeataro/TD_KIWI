@@ -26,7 +26,8 @@ call this method to complete with the least custom nodes.
 
 If the TD has a built-in series of Per-TDMatrix Uniforms 
 (even the built-in Per-TDDeform() function, for instantiation)
-(And I think it should be an option in Geo Comp and Camera Comp - to reduce performance overhead),
+(And I think it should be an option in Goe Comp and Camera Comp - 
+in order to reduce unnecessary performance costs, if you don't need it),
 it will be easier to get the velocity map (Just need to use one Render Pass and GLSL Mat).
 
 ---
