@@ -1,7 +1,7 @@
 # Screen Space Motion Blur in TouchDesigner
 
 Follow this article to implement:
-http://john-chapman-graphics.blogspot.com201301per-object-motion-blur.html
+http://john-chapman-graphics.blogspot.com/201301per-object-motion-blur.html
 
 ![screenshots](https://raw.githubusercontent.com/yeataro/TD_KIWI/master/TD-ScreenSpaceMotionBlur/screenshot.jpg)
 https://www.youtube.com/watch?v=gl0y-sRHwHg
@@ -26,7 +26,7 @@ call this method to complete with the least custom nodes.
 
 If the TD has a built-in series of Per-TDMatrix Uniforms 
 (even the built-in Per-TDDeform() function, for instantiation)
-(And I think it should be an option in Goe Comp and Camera Comp - 
+(And I think it should be an option in Geo Comp and Camera Comp - 
 in order to reduce unnecessary performance costs, if you don't need it),
 it will be easier to get the velocity map (Just need to use one Render Pass and GLSL Mat).
 
