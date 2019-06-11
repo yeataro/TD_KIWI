@@ -1,0 +1,1 @@
+#TNTddc---**T**ouchDesigner's **N**otch like **T**ouchDesigner **d**irect **d**esign **c**reation environment.#***WIP***https://www.youtube.com/watch?v=whQQpwwvSh4
