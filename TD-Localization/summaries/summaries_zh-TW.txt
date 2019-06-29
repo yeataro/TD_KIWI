@@ -1,0 +1,418 @@
+﻿CHOP Analyze	查看通道的所有值的值，並將單個數字結果輸出到輸出中。
+CHOP Angle	是度，弧度，四元數和向量之間的通用轉換器。不同的格式假定輸入通道的特定順序。
+CHOP Attribute	添加，刪除或更新輸入CHOP的屬性。目前只有一種屬性類型，即“四元數”。
+CHOP Audio Device In	使用DirectSound或ASIO從任何連接的音頻輸入設備接收音頻。它總是輸出時間切片的音頻數據。
+CHOP Audio Dynamics	旨在控制音頻信號的動態範圍。動態範圍是指音頻在一段時間內的響度和安靜程度。
+CHOP Audio Filter	消除低頻，高頻，低頻和高頻，或消除中頻範圍。低通濾波器可消除較高頻率的聲音，而高通濾波器可降低聲音的低音。
+CHOP Audio Stream In	可以從任何rtsp服務器將音頻流傳輸到TouchDesigner。
+CHOP Audio Stream Out	可以將音頻流傳輸到任何rtsp客戶端，例如VideoLAN的VLC媒體播放器和Apple的Quicktime。要在其中一個播放器中訪問流，請在“文件”菜單下打開“網絡流”或“URL”。
+CHOP Audio Band EQ	是一個16波段均衡器，它以與傳統波段（圖形）均衡器使用一組滑塊來過濾固定頻率的聲音相同的方式過濾音頻輸入通道。
+CHOP Beat	生成各種斜坡，脈沖和計數器，這些斜坡，脈沖和計數器定時到每分鐘的節拍和由節拍對話或節拍命令產生的同步。
+CHOP Blend	通過在輸入1中使用一組混合通道，在輸入2,3等中組合兩個或更多個CHOP。混合通道導致CHOP的不同強度有助於CHOP的輸出。
+CHOP Clock	生成反映年，月，週，日，小時，分鐘，秒和毫秒時間的頻道。
+CHOP Composite	在另一個CHOP的通道上層疊（混合）一個CHOP的通道。第一個輸入是基本輸入，第二個是層輸入。
+CHOP Constant	創建多達40個新的恆定價值渠道。每個通道都可以命名並分配不同的值。
+CHOP Copy	沿第一個輸入的時間軸生成第二個輸入的多個副本。第一個輸入提供觸發信號或卷積電平。
+CHOP Count	計算通道越過觸發或釋放閾值的次數。它以靜態或實時（“Cook to Current Frame”）模式運行。
+CHOP Cross	是一個多輸入OP，一次混合2個輸入。這類似於Switch CHOP，但Cross CHOP允許在輸入之間進行插值。
+CHOP Cycle	創造週期。它可以在原始之前和之後重複多次通道。它還可以使單個循環從其結束到開始具有平滑過渡，因此它可以順利循環。
+CHOP DAT to	將使用從DAT派生的值創建一組CHOP通道。
+CHOP Delay	延遲輸入。可以饋入多個通道以分別延遲每個通道，並且每個通道可以具有單獨的延遲時間。
+CHOP Delete	刪除來自其輸入的頻道。第一種方法使用文本字符串按名稱或數字範圍選擇通道。
+CHOP DMX In	從DMX或Art-Net設備接收頻道。 DMX的通道值為0-255。注意：在TouchDesigner非商業用途中，DMX Out CHOP限制為32個通道。
+CHOP DMX Out	將頻道發送到DMX或Art-Net設備。 DMX的通道值為0-255。發送到DMX Out的第一個通道將對應第一個DMX地址（DMX通道）當您向DMX輸出添加通道時，您將按順序訪問下一個DMX通道。
+CHOP Envelope	輸出每個輸入樣本附近的最大幅度。它採用輸入的絕對值，並使用多個樣本的滑動窗口來查找每個樣本附近的最大幅度。
+CHOP EtherDream	最多5個通道輸入前5個通道中的X和Y（水平和垂直）位置值，以及接下來3個通道中的紅色，綠色和藍色值。
+CHOP Event	管理由MIDI鍵盤等設備觸發的重疊事件的誕生和生命。它可以看作是為MIDI鍵盤設計的簡單粒子系統。
+CHOP Expression	允許您使用數學表達式修改輸入通道。最多可提供六個表達式。每個輸入通道僅由一個表達式修改，表達式為多個通道循環。
+CHOP Extend	僅設置CHOP的“擴展條件”，它確定在間隔之前或之後對CHOP進行採樣時獲得的值。
+CHOP Fan	將一個通道轉換為多個通道，或將多個通道轉換為一個通道。它的第一個操作Fan Out需要一個通道並產生2個或更多通道。
+CHOP Feedback	存儲當前幀中的通道以在稍後的幀中使用，而不強制重新縮回一幀。
+CHOP File In	讀入通道和音頻文件以供CHOP使用。可以從磁盤或Web中讀取該文件。
+CHOP File Out	將CHOP通道數據寫入.chan文件。數據可以每幀或間隔（由Interval參數設置）寫入日誌文件。
+CHOP Filter	平滑或銳化輸入通道。它通過組合每個樣本及其相鄰樣本的範圍來進行過濾，以設置該樣本的新值。
+CHOP Function	提供比Math CHOP更複雜的數學函數：三角函數，對數函數和指數函數，以及音頻分貝（dB） - 功率 - 幅度轉換。
+CHOP Gesture	記錄第一個輸入的一小段，並使用手勢頁中指定的選項及時循環此段。
+CHOP Hog	吃CPU週期（即CPU耗水 - 哼！）。這可以用來模擬較慢機器上的性能，或者人為地減慢合成器的幀速率。
+CHOP Hold	在第二個輸入上等待0到1步，此時它從第一個輸入讀取當前值（每個通道一個值）。
+CHOP In	獲取連接到組件的其中一個輸入的通道。對於組件內的每個In CHOP，有一個輸入連接器添加到In CHOP的父組件中。
+CHOP Info	為您提供有關節點的額外信息。所有節點都包含額外的內部信息，不同類型的節點（TOP，CHOP等）包含不同的信息子集。
+CHOP Interpolate	將其多輸入視為關鍵幀並在它們之間進行插值。輸入通常是單幀CHOP通道，如Constant CHOP產生的通道。
+CHOP Join	獲取所有輸入並追加一個CHOP。預計他們都有相同的渠道。
+CHOP Keyboard In	從鍵盤接收ASCII輸入，並輸出指定鍵數的通道。它創建一個表示每個密鑰當前狀態的單幀通道。
+CHOP Kinect	從Kinect和Linect2傳感器讀取位置和骨架跟踪數據。最多可以跟踪6個人的完整骨架（原始Kinect上有2個），並且還會跟踪攝像機視圖中另外4個人的中心位置。
+CHOP Lag	為通道添加滯後和過衝。它還可以限制通道的速度和加速度。延遲減慢了輸入通道的快速變化。
+CHOP Leap Motion	從Leap Motion控制器讀取手，手指，工具和手勢數據。它輸出手，手指和工具位置，旋轉和“跟踪”通道，指示當前是否正在檢測和更新這些值。
+CHOP LFO	（低頻振盪器）以兩種方式實時產生波。它使用常見波形（如正弦波或脈衝波）選擇合成曲線，或重複準備的輸入曲線。
+CHOP Limit	可以將輸入通道的值限制在最小值和最大值之間，並且可以在時間和/或值上量化輸入通道，使得值隨時間步進。
+CHOP Logic	首先將其所有輸入CHOP的通道轉換為二進制（0 =關，1 =開）通道，然後使用各種邏輯運算組合通道。
+CHOP Lookup	從查找表輸出值。第一個輸入（索引通道）是第二個輸入（查找表）的索引。
+CHOP LTC In	讀取編碼為音頻信號的SMPTE時間碼數據。閱讀概述線性時間碼。首先使用CHOP中的音頻設備將音頻信號帶入CHOP。
+CHOP LTC Out	輸出“線性時間碼”，它是編碼為音頻信號的SMPTE時間碼數據。另請參見線性時間碼。
+CHOP Math	對通道執行算術運算。 CHOP的通道可以組合成一個通道，並且幾個CHOP可以組合成一個CHOP。
+CHOP Merge	獲取多個輸入並將它們合併到輸出中。輸入的所有通道都出現在輸出中。
+CHOP MIDI In	從MIDI設備和文件中讀取音符事件，控制器事件，程序變更事​​件，系統專用消息和定時事件。
+CHOP MIDI In Map	首先參見MIDI In DAT。 MIDI In Map CHOP從MIDI設備映射器讀取指定的通道，準備從s1，s2等開始的滑塊通道。
+CHOP MIDI Out	當MIDI輸入通道發生變化時，將MIDI事件發送到任何可用的MIDI設備。更靈活的是，Python MidioutCHOP Class可用於通過現有的MIDI Out CHOP將任何類型的MIDI事件發送到MIDI設備。
+CHOP Mouse In	輸出鼠標設備的X和Y屏幕值，並監視三個鼠標按鈕的上/下狀態。
+CHOP NatNet In	NatNet In CHOP。
+CHOP Noise	產生一個永不重複的不規則波，其值大約在-1到+1的範圍內。它產生平滑的曲線和每個樣本隨機的噪聲。
+CHOP Null	用作佔位符並且不會改變輸入的數據。它通常用於將通道導出到參數，這允許您試驗提供給Null的CHOP而無需從一個CHOP取消導出 - 從另一個出口。
+CHOP Oculus Rift	連接到Oculus Rift設備並輸出幾組有用的通道，可用於將Oculus Rift集成到項目中。
+CHOP Audio Oscillator	以三種方式生成聲音。它重複常見的波形（正弦波，三角波），產生白噪聲（每個樣本的隨機數），或重複任何持續時間的準備輸入音頻片段。
+CHOP Out	將CHOP數據從組件內部發送到其他組件或CHOP。它將通道發送到組件的其中一個輸出。
+CHOP Override	允許您從多個CHOP源獲取輸入，並使用最近更改的輸入通道來確定輸出。
+CHOP Parameter	從所有OP類型獲取參數值，包括自定義參數。 （在Build 46000或更高版本中。這將取代Fetch CHOP。
+CHOP Audio Para EQ	（參數均衡器）最多可為入射聲音應用3個參數濾波器。三個濾波器串聯，其中內部，第二個濾波器從第一個濾波器的輸出獲取其輸入，依此類推。
+CHOP Pattern	在通道中生成一系列樣本。與Wave CHOP不同，它的目的是生成不參考時間（秒或幀）的樣本數組。
+CHOP Perform	輸出許多通道，如每秒幀數，描述TouchDesigner進程的當前狀態。
+CHOP Pipe In	允許用戶從自定義設備輸入CHOP。它實現為TCP / IP網絡連接。
+CHOP Pipe Out	可用於使用網絡連接將數據從TouchDesigner傳輸到遠程計算機上運行的其他進程。
+CHOP Pulse	以固定間隔在一個通道中生成脈衝。可以使用CHOP滑塊或圖形上的手柄編輯每個脈衝的幅度。
+CHOP RealSense	從英特爾的RealSense相機接收位置數據。另請參見RealSense TOP適用於50000或更高版本。
+CHOP Record	使通道進入第一個（位置）輸入，在內部轉換並記錄它們，並將存儲的通道輸出為CHOP輸出。
+CHOP Rename	重命名頻道。輸入CHOP中的通道名稱使用From模式進行匹配，並在To模式中重命名為相應的名稱。
+CHOP Reorder	通過數字或字母模式重新排序第一個輸入CHOP的通道。通道模式指定新訂單，或數字序列指定新訂單。
+CHOP Replace	可用於非常快速地替換通道。如果Input2中存在匹配的通道，則Input1中的通道輸出將被Input2中的通道替換。
+CHOP Resample	將輸入通道重新採樣為新的採樣率和/或開始/結束間隔。在所有情況下，重新採樣整個輸入間隔以匹配輸出間隔。
+CHOP Script	每次Script CHOP烹飪時運行一個腳本。默認情況下，腳本CHOP是使用包含三種Python方法的停靠DAT創建的：cook，onPulse和setupParameters。
+CHOP Select	從任何CHOP網絡的其他CHOP中選擇和重命名頻道。您可以從控制面板小工具（如滑塊和按鈕）中選擇通道。
+CHOP Shared Mem In	僅適用於TouchDesigner Commercial和Pro。 CHOP中的共享內存從共享內存段接收CHOP，該共享內存段在另一個進程或同一進程中連接到共享內存CHOP。
+CHOP Shared Mem Out	Shared Mem Out TOP僅適用於TouchDesigner Commercial和Pro。共享內存CHOP將CHOP發送到共享內存段，該共享內存段在另一個進程或同一進程中連接到CHOP中的共享內存。
+CHOP Shift	時移CHOP，改變CHOP間隔的開始和結束。但是，頻道的內容保持不變。
+CHOP Shuffle	在一組通道中重新組織樣本。將SOP接收的數據轉換為CHOP和TOP轉換為CHOP到僅包含一行或一列的通道非常有用。
+CHOP Slope	計算輸入通道的斜率（或數學說話中的“導數”）。如果輸入CHOP表示位置，則斜率可以解釋為速度。
+CHOP Sort	按值或隨機重新排序輸入通道樣本。指定要排序的通道將根據新訂單重新排序所有剩餘通道樣本。
+CHOP Audio Spectrum	計算並顯示輸入通道的頻譜。在默認的可視化模式中，CHOP設置為通過強調較高頻率級別和較低頻率範圍以更易理解的方式顯示頻譜。
+CHOP Speed	在一個時間範圍內將速度（每秒單位）轉換為距離（單位）。更一般地說，你給它一個速率（CHOP輸入）並輸出一個累積值。
+CHOP Spring	產生受輸入通道影響的振動，就像質量附著在彈簧上一樣。對於每個通道，它的作用就像是彈簧末端有質量，受實際位置（前一幀通道輸出）到所需位置（當前輸入通道）的距離影響幀）。
+CHOP Stretch	保留通道的形狀和採樣率，但將通道重新採樣為新的間隔。
+CHOP Switch	允許您通過CHOPnet控制通道流。它按索引選擇一個輸入CHOP並完全複製它。
+CHOP Timer	是用於運行定時進程的引擎。它輸出定時分數，計數器，脈沖和定時器狀態等通道，並在發生各種定時事件時調用python函數（回調）。
+CHOP Timeline	輸出特定組件的基於時間的CHOP通道。時間通道由時間組件定義，其路徑可以使用表達式timepath（）來確定。
+CHOP Time Slice	輸出樣本的時間片。當TouchDesigner無法快速烹飪/繪製並且跟上每秒動畫的幀數時，它用於生成平滑的中間。
+CHOP Trail	及時顯示其輸入通道的歷史記錄。從當前幀開始顯示時間窗口，該窗口的大小由窗口長度參數設置。
+CHOP Transform	進行平移，旋轉和/或縮放通道，並使用CHOP中的變換參數對其進行變換。
+CHOP Trigger	為輸入通道中的所有觸發脈衝啟動音頻類型的攻擊/衰減/延音/釋放（ADSR）包絡。
+CHOP Trim	縮短或延長輸入通道。可以保留或刪除部分間隔。如果通道被延長，通道的擴展條件將用於獲取新值。
+CHOP Warp	使用第二個輸入（Warp曲線）中的一個變形通道對第一個輸入（Pre-Warp Channels）的通道進行時間扭曲。
+CHOP Wave	製作各種形狀的重複波浪。它默認為10秒的1秒正弦波，總共600幀。
+CHOP Audio Device Out	使用DirectSound或ASIO將音頻發送到任何連接的音頻輸出設備。音頻通道可以路由到任何揚聲器位置。
+CHOP Audio File In	從磁盤上的文件或http：//地址讀取音頻。支持文件類型.mp3，.aif，.aiff，.au和.wav文件。
+CHOP Audio Movie	播放用TOP中的電影文件播放的電影文件的音頻。通過電影文件在TOP參數中將音頻電影TOP指向TOP中的電影文件。
+CHOP Audio Play	使用DirectSound通過任何連接的音頻輸出設備播放聲音文件。它支持.aif ,.
+CHOP Audio SDI In	是僅限TouchDesigner Pro的操作員。音頻SDI在CHOP中可以從任何SDI IN TOP中捕獲音頻。
+CHOP Clip	是僅限TouchDesigner Pro的操作員。看到。
+CHOP Clip Blender	是僅限TouchDesigner Pro的操作員。它可以用作動畫系統，在不同的動畫片段之間進行融合，保持旋轉，改變目標位置等。
+CHOP CPlusPlus	允許您通過使用C ++編寫自己的.dll來創建自定義CHOP運算符。注意：CPlusPlus CHOP僅適用於TouchDesigner Commercial和TouchDesigner Pro。
+CHOP Handle	是使用Handle COMP驅動Inverse Kinematic解決方案的“引擎”。 Handle CHOP的作用是為骨骼生成旋轉值，使其附加的手柄盡可能靠近各自的目標。
+CHOP Inverse Curve	使用曲線對象計算骨骼對象的反向運動學模擬。反向曲線CHOP將拉伸和定位一組骨骼，以跟隨另一組對象（指南）定義的曲線。
+CHOP Inverse Kin	計算Bone對象的反向運動學模擬。
+CHOP Joystick	在任何遊戲控制器（操縱桿，遊戲控制器，驅動輪等）上輸出所有6個可能軸的值。
+CHOP Keyframe	使用動畫COMP中的通道和鍵數據，以可選擇的採樣率（每秒幀數）創建樣本通道。
+CHOP Mouse Out	強制使用傳入的CHOP通道從TouchDesigner驅動鼠標位置和按鈕狀態。
+CHOP Object	比較兩個對象並輸出包含其原始或相對位置和方向的通道。
+CHOP OSC In	用於接受開放聲音控制消息。 OSC In可用於接受來自符合Open Sound Control規範的第三方應用程序的消息（http：// www。
+CHOP OSC Out	將所有輸入通道發送到指定的網絡地址和端口。每個通道名稱和相關數據一起傳輸到指定位置。
+CHOP Panel	從Panel Components讀取面板值到CHOP通道。也可以使用panel（）表達式訪問面板值。
+CHOP Render Pick	對渲染進行採樣（從Render TOP或Render Pass TOP）並從該特定拾取位置處的幾何體返回3D信息。
+CHOP Scan	將SOP或TOP轉換為示波器或激光友好控制波。輸出通常在可聽範圍內，可通過音頻設備輸出CHOP直接聽到，或用於驅動示波器的X和Y偏轉器輸入，重新創建圖像。
+CHOP Serial	用於通過外部端口進行串行通信，使用R​​S-232協議。這些端口通常是9針連接器，或新機器上的USB端口。
+CHOP SOP to	使用幾何對象選擇將從中創建通道的SOP。通道是根據SOP的點屬性創建的，例如點位置的X，Y和Z.
+CHOP Sync In	並且同步輸出CHOP用於在兩個或更多個TouchDesigner進程中保持時間線在彼此的單個幀內。
+CHOP Sync Out	CHOP中的同步和同步輸出CHOP用於在兩個或更多個TouchDesigner進程內保持時間線在彼此的單個幀內。
+CHOP Tablet	獲取Wacom數位板X和Y值，還可獲得筆尖壓力，X傾斜和Y傾斜以及各種筆按鈕。
+CHOP TOP to	將TOP圖像中的像素轉換為CHOP通道。它在圖像和每個像素顏色元素（RGBA）中為每個掃描線（行）生成一個CHOP通道。
+CHOP Touch In	可用於通過CHOP在兩個TouchDesigner進程之間創建高速連接。數據通過TCP / IP發送。
+CHOP Touch Out	可用於在兩個TouchDesigner進程之間創建高速連接。數據通過TCP / IP發送。
+CHOP Oculus Audio	使用Oculus Audio SDK獲取單聲道聲道，並為該聲音創建空間化立體聲對或聲道。
+COMP Ambient Light	環境光組件控制給定場景中環境光的顏色和強度。
+COMP Base	基礎組件沒有面板參數，也沒有3D對象參數。您可以將它用於沒有與之關聯的面板的組件，也可以用於任何3D，例如將RGB通道轉換為HSV通道的組件。
+COMP Blend	混合組件允許各種效果，例如混合輸入，動畫組件的父級，排序，部分變換繼承，三點方向和其他效果。
+COMP Bone	Bone Component是所有Character Tools的基礎。它是具有幾何組件的大多數屬性的組件。
+COMP Camera	Camera Component是一個3D物體，其作用類似於真實世界的相機。您可以通過它查看場景並從它們的角度進行渲染。
+COMP Camera Blend	相機混合組件通過將多個組件混合在一起來實現各種效果。它為您提供了一些設置父子關係的額外靈活性。
+COMP Geometry	Geometry Component是一個3D表面，您可以在TouchDesigner中使用Render TOP查看和渲染。燈光，相機和其他組件會影響場景，但不是可見的曲面。
+COMP Handle	Handle Component是一個新的IK工具，用於操縱骨骼組。雖然之前的IK工具僅允許每個骨鏈使用一個末端效應器，但這種新方法允許每個骨骼使用多個末端效應器。
+COMP Light	燈光組件是將光投射到3D場景中的對象。使用燈光參數，您可以控制燈光照亮的幾何體的顏色，亮度和氛圍。
+COMP Null	Null組件充當場景中的佔位符。它可用於轉換（平移，旋轉，縮放）附加到其上的組件。
+COMP Shared Mem In	僅適用於TouchDesigner Commercial和Pro。 COMP中的Shared Mem將從共享內存塊中讀取轉換數據。
+COMP Shared Mem Out	TOP中的Shared Mem僅適用於TouchDesigner Commercial和Pro。 Shared Mem Out COMP將轉換數據寫入共享內存塊。
+COMP Animation	動畫組件是用於創建關鍵幀動畫通道的特殊組件。該組件包含一個預定義的網絡，利用Keyframe CHOP和許多表DAT來定義動畫CHOP通道。
+COMP Button	按鈕組件用於面板中以提供交互式開/關按鈕，包括切換按鈕，瞬時按鈕和單選按鈕組或專用按鈕。
+COMP Container	Container Component將任意數量的按鈕，滑塊，字段，容器和其他Panel Components組合在一起以構建界面。
+COMP Field	Field Component允許您輸入文本字符串並呈現使用Text TOP生成的文本。在內部，它包含一個Text TOP，它指向包含要呈現的文本的DAT的一個單元格。
+COMP List	List Component允許您通過List COMPs初始化和回調函數創建可高度自定義的大型列表。
+COMP OP Viewer	OP Viewer Component允許任何操作員查看器（CHOP Viewer，SOP Viewer等）成為具有完全交互性的面板的一部分。
+COMP Replicator	Replicator組件為表的每一行創建一個節點，創建節點（“replicants”）並在表更改時刪除它們。
+COMP Select	選擇組件從任何其他位置選擇面板組件。這允許面板出現在多個其他面板中。
+COMP Slider	滑塊組件允許您在X，Y和XY中構建滑塊，並從放置在Slider組件中的Panel CHOP輸出1或2個通道。
+COMP Table	表組件創建用戶界面小工具網格。這些面板以網格格式佈局，其中每個單元的內容由DAT表定義。
+COMP Time	時間組件允許每個組件具有自己的時間線（時鐘）。時間組件包含一個操作員網絡，可以驅動時間軸，在動畫COMP中驅動動畫，或用於驅動任何自定義的基於時間的系統。
+COMP Window	Window Component允許您創建和維護一個單獨的浮動窗口，顯示任何Panel或任何其他Node Viewer的內容。
+TOP Add	通過添加像素值將輸入圖像合成在一起。輸出= Input1 + Input2。如果總和超過1，它會箝制顏色通道。
+TOP Analyze	拍攝任何圖像並確定其各種特徵，例如平均像素顏色或具有最大亮度的像素。
+TOP Blob Track	使用OpenCV的源代碼實現，其中大部分都移植到GPU以獲得更快的性能。
+TOP Blur	使用各種內核過濾器和半徑模糊圖像。它可以進行多次通過模糊，並且可以進行僅水平或僅垂直模糊。
+TOP Cache	將一系列圖像存儲到GPU內存中。圖形卡可以比主存儲器中的圖像緩存快速讀取這些緩存的圖像，或者從磁盤讀取圖像。
+TOP Cache Select	根據索引參數從Cache TOP中獲取圖像。這樣可以直接隨機訪問存儲在Cache TOP中的任何圖像。
+TOP Channel Mix	允許將輸入RGBA通道混合到輸出的任何其他顏色通道。例如，輸入藍色通道中的像素可以添加到輸出的紅色通道中，加上或減去紅色參數藍色列中的數量。
+TOP CHOP to	將CHOP通道置於TOP圖像中。通過將TOP的像素格式設置為32位浮點數，CHOP的完整32位浮點數轉換為32位浮點像素值。
+TOP Chroma Key	使用“色相”，“飽和度”和“值”設置從圖像中拉出關鍵遮罩。如果像素落在所有三個設置的最小和最大參數之間，則它將包含在密鑰中。
+TOP Circle	可用於生成圓，橢圓和N邊多邊形。形狀可以定制不同的尺寸，旋轉和定位。
+TOP Composite	是一個多輸入TOP，它將為每個輸入執行複合操作。使用Composite參數頁面上的Operation參數選擇複合操作。
+TOP Constant	分別設置紅色，綠色，藍色和alpha（r，g，b和a）通道。它通常用於創建純色TOP圖像。
+TOP Convolve	使用包含數字係數的DAT表。對於每個像素，它通過將值乘以表中的相應係數，將其RGBA值與其相鄰像素的RGBA值組合，將結果相加。
+TOP Corner Pin	可以執行兩個操作。 “提取”頁面允許您通過移動4個點來指定要使用的圖像的子部分。
+TOP Crop	通過定義圖像左，右，底部和頂部邊緣的位置來裁剪圖像。圖像的裁剪部分被丟棄，從而降低了圖像的分辨率。
+TOP Cross	基於Cross參數的值在兩個輸入圖像之間進行混合（在下面稱為Cross_value）。
+TOP Cube Map	以立方體貼圖內部紋理格式構建紋理貼圖。它接受垂直交叉圖像，或立方體每側1個輸入。
+TOP Difference	在其兩個輸入圖像上執行差異合成。
+TOP Displace	將導致一個圖像被另一個圖像扭曲。 （Uo，Vo）的輸出圖像的像素通過使用第二輸入圖像（位移圖像）從源圖像的不同像素（Ui，Vi）獲得其RGBA值。
+TOP DirectX In	將其他應用程序的DirectX紋理帶入TouchDesigner。此功能僅適用於Windows 7或更高版本，可通過DirectX共享資源功能訪問。
+TOP DirectX Out	創建DirectX應用程序可以訪問的紋理，或者使用DirectX In TOP創建TouchDesigner的任何實例。
+TOP Edge	查找圖像中的邊緣並突出顯示它們。對於每個像素，它查看相鄰像素處的值，並且差異大於閾值時，輸出的值更高。
+TOP Emboss	創建圖像壓印在薄金屬片中的效果。圖像中的邊緣將顯示為凸起。
+TOP Feedback	可用於在TOP中創建反饋效果。每當反饋被反饋時（通過設置旁路反饋參數= 1），反饋TOP的輸入圖像將被傳遞。
+TOP Fit	使用Fit參數菜單中指定的方法將其輸入重新調整為在Common Page上設置的分辨率。
+TOP Flip	將在X和/或Y中翻轉圖像。它還提供翻轉選項，將每行像素轉換為一列。
+TOP GLSL	將GLSL著色器渲染為TOP圖像。使用Info DAT檢查著色器中的編譯錯誤。
+TOP GLSL Multi	將GLSL著色器渲染為TOP圖像。它的參數和功能與之相同。
+TOP HSV Adjust	使用色調，飽和度和值控制調整顏色值。如果更改Hue Offset，Saturation Multiplier和Value Multiplier而不更改任何其他參數，則將修改圖像中所有像素的顏色。
+TOP HSV to RGB	將圖像從HSV顏色通道轉換為RGB顏色通道。
+TOP Kinect	捕獲Kinect深度相機或RGB彩色相機的視頻。注意：此TOP適用於Kinect for Windows硬件並支持Kinect2。
+TOP In	用於在Component中創建TOP輸入。組件輸入以字母數字的形式定位在組件的左側。
+TOP Inside	將Input1'置於'Input2內。 Input2的alpha用於確定Input1圖像的哪些部分可見。
+TOP Level	調整圖像對比度，亮度，伽瑪，黑電平，顏色範圍，量化，不透明度等。
+TOP Leap Motion	從Leap Motion Controller的攝像頭獲取圖像。要啟用此功能，必須在Leap Motion控制面板中打開“允許圖像”選項。
+TOP Lookup	將連接到其第一個輸入的TOP圖像中的顏色值替換為從第二個輸入或使用CHOP參數創建的查找表創建的查找表派生的值。
+TOP Luma Blur	基於每個像素模糊圖像，取決於其第二輸入的亮度或灰度值。使用白色和黑色濾鏡尺寸的單獨參數模糊圖像，這些參數對應於第二輸入的白色和黑色亮度值。
+TOP Luma Level	調整圖像亮度，伽瑪，黑電平，量化，不透明度等。它具有與Level TOP類似的參數，但是當您使用Gamma和Black Level時，它可以更準確地保持色調和飽和度。
+TOP Math	對輸入圖像的像素執行特定的數學運算。
+TOP Matte	使用input3的alpha通道作為遮罩，在input2上複合輸入1。 input3的alpha通道中的白色（一個）像素將在input2上繪製input1，黑色（或零）將使input1透明，將input2圖像留在該像素處。
+TOP Monochrome	將圖像更改為灰度顏色。您可以選擇多種不同的方法，使用RGB和Alpha菜單將圖像轉換為灰度。
+TOP Movie File In	將電影，靜止圖像或一系列靜止圖像加載到TOP中。它將以.jpg，.gif ,.讀取圖像。
+TOP Multiply	對Input1和Input2執行乘法運算。
+TOP Noise	產生各種噪聲模式，包括稀疏，鱷魚和隨機。它目前在CPU上運行並將其圖像傳遞給GPU。
+TOP Normal Map	獲取輸入圖像並通過查找圖像中的邊緣來創建法線貼圖。然後可以將其用於凹凸貼圖（參見Phong MAT）。
+TOP Null	對圖像沒有影響。它是連接到其輸入的TOP的實例。 Null TOP通常在引用TOP網絡時使用，允許將新TOP添加到網絡（上游），而無需更新引用。
+TOP Out	用於在Component中創建TOP輸出。組件輸出以字母數字的形式定位在組件的右側。
+TOP Outside	將Input1'放在'Input2之外。只要Input2的alpha <1，Input1在輸出中可見。這是與Inside TOP相反的操作。
+TOP Over	將Input1'放在'Input2上。 Input1的alpha用於確定Input2圖像的哪些部分在結果中可見。
+TOP Pack	注意：僅在構建48000或更高版本中。
+TOP Photoshop In	可以將Photoshop CS6的輸出流式傳輸到TouchDesigner中。 Photoshop可以與TouchDesigner在同一台計算機上運行，也可以在網絡上的任何其他計算機上運行。
+TOP Projection	拍攝使用渲染TOP創建的立方體貼圖並將其轉換為適合圓頂的魚眼投影，以及“equirectangular”投影，其中u-v是緯度 - 經度，適用於球體。
+TOP Ramp	允許您以交互方式創建垂直，水平，徑向和圓形斜坡。使用漸變條和顏色選擇器，您可以根據需要為漸變添加任意數量的顏色選項卡，每個選項卡都有自己的顏色和alpha值。
+TOP RealSense	連接到RealSense設備並從中輸出顏色，深度和IR數據。另請參見RealSense CHOP。
+TOP Remap	使用第二個輸入扭曲第一個輸入。對於輸出的每個像素，它使用第二個輸入的紅色通道和綠色通道來選擇從第一個輸入中選擇哪個像素。
+TOP Rectangle	可用於生成帶圓角的矩形。形狀可以定制不同的尺寸，旋轉和定位。
+TOP Reorder	是一個多輸入TOP，可讓您選擇R，G，B和A輸出的任何輸入通道。它還提供了向任何輸出通道輸出一個，零或輸入亮度的選項。
+TOP Resolution	更改TOP圖像的分辨率。這也可以在大多數其他TOP的公共頁面上完成。
+TOP RGB to HSV	RGV到HSV TOP將圖像從RGB轉換為HSV色彩空間。 R通道變為Hue，G通道變為飽和，B通道變為Value。
+TOP RGB Key	使用紅色，綠色和藍色通道設置從圖像中拉出一個鍵。如果像素落在所有三個設置的最小和最大參數之間，則它將包含在密鑰中。
+TOP Screen	根據屏蔽層像素的亮度，使基礎圖層變亮。如果屏蔽像素為黑色，則看起來完全透明。
+TOP Screen Grab	將主屏幕輸出變為TOP圖像。它可以在您工作時實時捕獲。
+TOP SDI In	是僅限TouchDesigner Pro的操作員。 SDI In TOP使用NVIDIA的SDI採集卡將視頻幀直接捕獲到GPU內存中。
+TOP SDI Select	SDI In TOP是僅限TouchDesigner Pro的操作員。 SDI Select TOP用於從Nvidia SDI Capture卡上的SDI In TOP中的2-4個輸入中選擇視頻。
+TOP Select	允許您從TouchDesigner中的任何其他位置引用TOP。為了節省圖形內存，Select TOP創建TOP引用的實例。
+TOP Shared Mem In	僅適用於TouchDesigner Commercial和Pro。 TOP中的Shared Mem將從共享內存塊中讀取圖像數據。
+TOP Shared Mem Out	僅適用於TouchDesigner Commercial和Pro。 Shared Mem Out TOP將圖像數據寫入共享內存塊，供其他TouchDesigner進程或其他第三方應用程序使用。
+TOP Slope	生成表示其值與其相鄰像素值之間差異的像素。
+TOP Subtract	通過減去像素值將輸入圖像合成在一起。輸出=輸入1  - 輸入2。低於0的像素值被扼殺為0。
+TOP Video Stream In	創建RTSP客戶端以通過網絡接收視頻和音頻。連接到RTSP服務器的URL格式為：rtsp：// <ipaddress>：<port> / <streamName> e。
+TOP Spout Out	將與支持Spout框架的其他應用程序共享其輸入紋理。您可以在http：// spout下載Spout安裝包。
+TOP Spout In	將通過支持Spout框架的其他應用程序的共享內存獲取其紋理圖像。
+TOP Oculus Rift	注 - 自DK1以來，Oculus SDK已經發生了很大的變化。最初的DK1使用Oculus Rift TOP進行桶形失真。
+TOP Scalable Display	允許您加載從運行可擴展顯示校準軟件檢索到的校準數據。有關可伸縮顯示器SDK的TouchDesigners集成的完整指南，請參閱如何使用可擴展顯示器校準投影儀。
+TOP Switch	是一個多輸入操作符，它允許您使用Input參數切換傳遞的輸入。
+TOP Texture 3D	創建3D紋理貼圖。它將一系列圖像保存在一個像素陣列中。此TOP可與Time Machine TOP以及材料一起使用。
+TOP Threshold	對於低於閾值的像素，創建像素值設置為0的遮罩，對於大於或等於閾值的像素，創建1。
+TOP Tile	以重複模式平鋪圖像。它還有一個裁剪選項，通過定義圖像左，右，底部和頂部邊緣的位置來裁剪圖像。
+TOP Time Machine	合併存儲在紋理3D TOP中的圖像序列中的像素。 “變形”在空間上（在xy中）扭曲圖像，而Time Machine僅在時間上扭曲圖像。
+TOP Transform	將2D變換應用於TOP圖像，如平移，縮放，旋轉和多重複平鋪。背景可以填充純色和alpha。
+TOP Under	將Input1'置於'Input2下。 Input2的alpha用於確定Input1圖像的哪些部分在結果中可見。
+TOP CPlusPlus	允許您通過使用C ++編寫自己的.dll來製作自定義TOP運算符。注意：CPlusPlus TOP僅適用於TouchDesigner Commercial和TouchDesigner Pro。
+TOP CUDA	在NVIDIA GPU上運行CUDA程序（8000系列及更高版本，此處為完整列表）。使用CUDA TOP，你需要編寫一個CUDA DLL。
+TOP Depth	從指定的渲染TOP中描述的場景中讀取包含深度信息的圖像。在表面處於近深度值（攝像機參數“近”）的像素處，得到的圖像為黑色（0）。
+TOP Movie File Out	將TOP流保存為各種格式的QuickTime或MP4（.mp4）電影，以及動畫，Cineform和Hap Q視頻編解碼器。
+TOP OP Viewer	可以將任何其他運算符的節點查看器顯示為TOP圖像。如果操作員源是Panel Component，則還支持通過TOP圖像進行面板交互。
+TOP Render	用於在TouchDesigner中渲染所有3D場景。您需要至少為它提供一個Camera對象和一個Geometry對象。
+TOP Render Pass	與Render TOP一起使用以實現多通道渲染。它可以通過使用幀緩衝區中的現有深度/顏色信息來構建其輸入渲染，或者可以選擇在渲染之前清除一個或兩個深度/顏色緩衝區。
+TOP Render Select	允許您從任何渲染TOP中選擇一個顏色緩衝區。
+TOP SDI Out	是僅限TouchDesigner Pro的操作員。 SDI Out TOP使用Nvidia的SDI輸出卡將視頻幀直接輸出到輸出卡，避免任何涉及Windows的問題，如vsync，桌面撕裂等。
+TOP SSAO	在Render TOP或Render Pass TOP的輸出上執行屏幕空間環境光遮擋。由於此技術需要訪問深度緩衝區，因此Render / RenderPass TOP和SSAO TOP之間不能有其他TOP。
+TOP Anti Alias	Anti-Alias TOP使用屏幕空間抗鋸齒技術稱為“SMAA：增強的亞像素形態抗鋸齒”？
+TOP Text	顯示圖像中的文本字符串。它允許多種字體，大小，顏色，邊框，字符分隔和線條分離。
+TOP Touch In	讀取圖像數據將通過Touch Out TOP通過TCP / IP網絡連接發送。另一個TouchDesigner進程可以位於同一台計算機上，也可以位於連接網絡上任何位置的另一台計算機上。
+TOP Touch Out	通過TCP / IP將TOP圖像流發送到Touch In TOP。 Touch In TOP可以位於同一台計算機上的另一個TouchDesigner會話中，也可以位於連接網絡上任何位置的計算機上。
+TOP Video Device In	可用於從連接到系統的外部攝像頭，採集卡或DV解碼器捕獲視頻。
+TOP Video Device Out	使用本機驅動程序庫將視頻路由到輸出設備。目前支持的設備：Blackmagic Design設備Video Device Out TOP僅適用於Commercial和Pro。
+TOP Video Stream Out	創建RTSP服務器以通過網絡發送H.264視頻和MP3音頻。它使用Nvidia的硬件H264編碼器來實現低延遲編碼。
+MAT Constant	在材質上呈現恆定顏色。要應用紋理，請使用Phong MAT並將Diffuse和Specular參數的顏色設置為（0,0,0），然後使用Emit參數設置顏色，如果要應用紋理，則使用Color Map。
+MAT Depth	Depth Only MAT可用於通過在Z中製作隱形屏障來防止繪製對象。
+MAT GLSL	允許您在TouchDesigner中編寫或導入自定義材料。當GLSL著色器中存在編譯錯誤時，將顯示藍色/紅色棋盤錯誤著色器。
+MAT Null	做得不多，但在構建網絡時派上用場。
+MAT Phong	使用Phong Shading模型創建材質。它支持紋理，反射，凸起，錐形燈，邊緣燈，alpha貼圖等。
+MAT Point Sprite	允許您控制Point Sprites的某些屬性（使用粒子SOP或DAT到SOP可創建）。
+MAT Select	從項目中的任何位置抓取另一種材料。
+MAT Switch	允許在2個材料輸入之間切換。
+MAT Wireframe	將多邊形和曲線的邊緣渲染為線條。
+SOP Add	既可以自己創建新的點和多邊形，也可以用於將點和多邊形添加到現有輸入。
+SOP Align	通過沿任何軸點平移或旋轉每個圖元，將一組圖元彼此對齊或與輔助輸入對齊。
+SOP Attribute Create	允許您向幾何體添加法線或切線。
+SOP Attribute	允許您手動重命名和刪除點和基元屬性。
+SOP Basis	提供一組適用於樣條曲線和曲面的參數空間的操作。參數空間，也稱為NURBS或Bzier基元的“域”，在U方向上由一個基礎定義，如果基元是表面，則在V方向上定義另一個基礎。
+SOP Blend	在具有相同拓撲的形狀之間提供3D變形。它可以使用每個輸入的相應通道的平均權重在16個輸入SOP之間進行混合。
+SOP Bone Group	通過公共骨骼（共享骨骼）對基元進行分組。有關使用“骨骼組”來變形幾何體的更多信息，請參閱以下文章：Deforming_Geometry_（蒙皮）。
+SOP Boolean	採用兩個閉合的多邊形集合A和B.將這些源設置為具有您希望操作的3D形狀的SOP。
+SOP Box	創建長方體。這些可以單獨用作幾何形狀，或者可以細分它們以與萊迪思SOP一起使用。
+SOP Bridge	適用於修剪修剪過的表面，孔洞，在手臂和身體，樹枝或管道交叉點之間創建高度可控的連接。
+SOP Cache	在緩存中收集其輸入幾何，以便更快地隨機訪問多個SOP。當SOP鏈的烹飪時間很長並且需要更快的播放時，應該使用它。
+SOP Cap	用於封閉帶有扁平或圓形覆蓋物的開放區域。通過沿U或V方向延伸網格來限製網格（例如，
+SOP Carve	適用於任何面或表麵類型，即多邊形，Bzier或NURBS。它可用於切割基元，將其切割成多個部分，或從中提取點或橫截面。
+SOP CHOP to	採用CHOP通道並在SOP中生成3D多邊形。它從CHOP讀取樣本數據並將其轉換為點位置和點屬性。
+SOP Circle	創建開弧或閉弧，圓和橢圓。如果兩個非理性的NURBS圓（即它們的X和Y半徑不相等）被蒙皮，則可能產生比預期更多的等參線。
+SOP Clay	通過拉動直接位於其上的點來使面和表面變形。與操縱控制點（CV）的Point SOP或其他SOP相反，Clay SOP對原始輪廓本身進行操作，提供了一種直接，直觀且不受約束的重塑幾何形狀的方法。
+SOP Clip	使用平面切割和摺痕源幾何。
+SOP Convert	將幾何從一種幾何類型轉換為另一種類型。類型包括多邊形，網格，Bezier patche，粒子和球體基元。
+SOP Creep	允許您沿PathInput幾何體的曲面變形和動畫源輸入幾何體。
+SOP Capture Region	定義捕獲區域（cregion），這是一種原始類型，可以被認為是一個修改過的管基元（兩端都有半個球體的管）。
+SOP Curveclay	類似於Clay SOP，您不是通過修改CV而是通過直接操作曲面來變形樣條曲面。
+SOP Curvesect	查找兩個或多個面（多邊形，Bziers和NURBS曲線）之間或面與多邊形或樣條曲面之間的最小距離的交點或點。
+SOP Divide	分割輸入的多邊形幾何。它將使用Bricker選項平滑輸入多邊形，劃分多邊形以及細分輸入多邊形。
+SOP Extrude	可用於：擠出和斜切文本和其他幾何形狀斜切邊緣以獲得銳利邊緣使基本體更厚或更薄為了做到這一點，它使用表面法線來確定擠出方向。
+SOP Facet	允許您控制給定對象的刻面的平滑度。它還可以讓您合併點或曲面法線。
+SOP File In	允許您讀取以前在模型編輯器中創建的幾何文件，從SOP輸出幾何體或從其他軟件（如Houdini）生成的幾何體文件。
+SOP Fillet	用於在兩條曲線/多邊形或兩個曲面/網格之間創建平滑的橋接幾何體。 Filleting在每個輸入對之間創建一個新原語，並且永遠不會影響原始形狀。
+SOP Fit	使樣條曲線適合一系列點或樣條曲面到m X n網點。任何類型的面或表面都代表有效的輸入。
+SOP Font	允許您從Adobe Type 1 Postscript字體在模型中創建文本。要安裝字體，請將字體文件複製到安裝路徑的$ TFS / touch / fonts目錄中。
+SOP Force	將力屬性添加到輸入元球場，粒子SOP或Spring SOP將其用作吸引力或排斥力場。
+SOP Fractal	允許您創建輸入幾何體的鋸齒狀山狀分割。它將沿指定的法向量（方向xyz場）或輸入幾何的頂點法線創建隨機看起來的偏差和子劃分。
+SOP Grid	允許您使用多邊形，網格，Bzier和NURBS曲面或使用開放多邊形的多條線創建網格和矩形。
+SOP Hole	即使它們不在同一平面上，也可以在面被封閉的地方打洞。它還可以從輸入幾何體中刪除現有孔。
+SOP In	在Component中創建SOP輸入。組件輸入以字母數字的形式定位在節點的左側。
+SOP Iso Surface	使用隱式函數創建12年級函數和關係教科書中的等軸曲面的3D可視化。
+SOP Join	將一系列面或曲面連接到一個繼承其屬性的基元。不同類型的面可以連接在一起，表面也可以連接在一起。
+SOP Joint	通過在每對輸入圓之間創建一系列圓圈，有助於創建基於圓的骨架。
+SOP Lattice	允許您通過操作網格或包含輸入源幾何體的細分框來創建其輸入幾何體的動畫變形。
+SOP Line	創建直線。
+SOP LOD	這是不尋常的，因為它實際上並沒有改變任何幾何形狀。相反，它為輸入對象構建了一個詳細級別的緩存。
+SOP LSystem	Lsystem SOP實現L系統（Lindenmayer系統，以Aristid Lindenmayer（1925-1989）命名），允許通過使用迭代來定義復雜形狀。
+SOP Magnet	允許您使用由元球場定義的影響“磁場”來影響輸入幾何體的變形。
+SOP Material	允許在SOP級別將材料（MAT）分配給幾何體。注意：“對象組件”中的“材質”參數將覆蓋使用“材質SOP”指定給幾何體的材質屬性。
+SOP Merge	合併來自多個SOP的幾何體。
+SOP Metaball	創建metaballs和meta-superquadric曲面。 Metaballs可以被認為是球形力場，其表面是在力場密度等於某個閾值的任何點處定義的隱函數。
+SOP Model	在TouchDesigner中保存曲面建模器。它旨在保存使用SOP編輯器（aka Modeler）構建的原始模型幾何體。
+SOP Noise	使用噪聲模式替換幾何點。它使用與Noise CHOP相同的數學運算。
+SOP Null	對幾何體沒有影響。它是與其輸入相關的SOP實例。在參考SOP網絡時經常使用Null SOP，允許將新的SOP添加到網絡（上游）而無需更新參考。
+SOP Out	用於在Component中創建SOP輸出。組件輸出以字母數字的形式定位在組件的右側。
+SOP Particle	用於創建和控製粒子系統模擬的“粒子”運動。粒子系統通常用於創建自然事件的模擬，例如雨雪，或煙花和火花等效果。
+SOP Point	允許您直接進入幾何體並操縱源中的點的位置，顏色，紋理坐標和法線以及其他屬性。
+SOP Polyloft	通過連接（即放樣/縫合）開放或閉合面的點而不添加任何新點來生成三角形網格。
+SOP Polypatch	從網格圖元或一組面（多邊形，NURBS或貝塞爾曲線）創建平滑多邊形貼片。
+SOP Polyspline	使樣條曲線適合多邊形或外殼，並輸出該樣條曲線的多邊形近似值。您可以選擇在原始點之間創建分割，或者忽略原始點的位置，並將形狀劃分為相等長度的分段。
+SOP Polystitch	嘗試將多邊形表面縫合在一起，從而消除因在不同細節水平下評估表面而產生的裂縫。
+SOP Profile	啟用配置文件的提取和操作。在項目SOP之後，您通常需要Trim SOP，Bridge SOP或Profile SOP。
+SOP Project	通過將3D面投影到樣條曲面上來創建曲面上的曲線（也稱為修剪或輪廓曲線），就像光線將2D陰影投射到3D曲面上一樣。
+SOP Rails	通過拉伸兩個導軌之間的橫截面來生成曲面。這類似於Sweep SOP，但它可以更好地控制橫截面的方向和縮放。
+SOP Ray	用於將一個表面投影到另一個表面上。從輸入幾何的每個點沿其法線方向投射光線。
+SOP Refine	允許您在不更改其形狀的情況下增加任何NURBS，Bzier或多邊形曲面或面的CV數。
+SOP Resample	將一個或多個基元重新採樣為偶數段。它僅適用於多邊形，因此當呈現NURBS或Bzier曲線輸入時，它首先使用Level of Detail參數將其轉換為多邊形。
+SOP Revolve	旋轉面部以創造革命的表面。旋轉的方向和原點由引導幾何體表示，類似於粗線，中心有十字線。
+SOP Sequence Blend	允許您在形狀和插值點位置，顏色，點法線和形狀之間的紋理坐標之間進行3D變形。
+SOP Script	每次腳本SOP烹飪時運行腳本。默認情況下，腳本SOP是使用包含三個Python方法的停靠DAT創建的：cook，onPulse和setupParameters。
+SOP Select	允許您從TouchDesigner中的任何其他位置引用SOP。為了節省內存，Select SOP創建SOP引用的實例。
+SOP Skin	採取任意數量的面孔並在其上構建皮膚表面。但是，如果給定兩個或更多個曲面，則SOP構建四個蒙皮，每組邊界曲線一個。
+SOP Sphere	生成不同幾何類型的球形對象。它能夠創建所有幾何類型的非均勻可伸縮球體。
+SOP Spring	使用多邊形邊緣上的彈簧“力”和連接到每個點的質量來變形和移動輸入幾何體。
+SOP Stitch	用於拉伸兩條曲線或曲面以覆蓋平滑區域。它還可用於製造某些類型的軟墊面料，如靠墊和降落傘。
+SOP Subdivide	採用輸入多邊形曲面（可以通過管道輸入一個或兩個輸入），並使用Catmull-Clark細分算法劃分每個面以創建平滑的多邊形曲面。
+SOP Superquad	生成isoquadric表面。這產生了一個類似於元球的球形，不同之處在於它不會改變它的形狀以響應周圍的形狀。
+SOP Surfsect	使用NURBS和Bezier曲面執行布爾運算，或僅生成曲面相交的輪廓。
+SOP Sweep	沿著Backbone Source基元在橫截面輸入中掃描基元，創建帶狀和管狀形狀。
+SOP Switch	在最多9999個可能的輸入之間切換。此SOP的輸出由“選擇輸入”字段指定。
+SOP Torus	生成圓環形狀的完整或特定部分（如甜甜圈）。
+SOP Trace	讀取圖像文件並自動跟踪圖像文件，在超過特定亮度閾值的區域周圍生成一組面。
+SOP Trail	採用輸入SOP並在過去幾幀中對輸入SOP的每個點進行跟踪，並以不同方式連接路徑。
+SOP Trim	切除樣條曲面的一部分，或展開先前切割的碎片。當一部分錶面被修剪時，它實際上並未從表面上移除;相反，那部分是不可見的。
+SOP Tristrip	將幾何轉換為三角形條。三角形條帶比常規三角形或四邊形更快。
+SOP Tube	沿X，Y或Z軸生成開放或封閉的管，錐體或金字塔。它輸出為網格，多邊形或簡單的管基元。
+SOP Twist	執行非線性變形，如彎曲，線性錐度，剪切，擠壓和拉伸，錐度和扭曲。
+SOP Vertex	允許您在每個頂點（而不是每個點）的基礎上編輯/創建屬性。它在這方麵類似於Point SOP。
+SOP Wireframe	將邊緣轉換為管道並指向球體，從而在渲染中創建線框結構的外觀。
+SOP Arm	為手臂創建所有必需的幾何形狀，並提供平滑，無扭曲的皮膚，將手臂連接到身體。
+SOP Capture	用於對幾何體中的點進行加權以捕獲區域。加權方案將在下一節“捕獲區域SOP”中介紹。
+SOP Copy	允許您複製其他SOP的幾何圖形，並對每個副本應用轉換。它還允許您將幾何體複製到輸入模板上的點。
+SOP DAT to	可用於從DAT表創建幾何圖形，或者如果指定了SOP輸入，則可以修改現有幾何圖形上的屬性。
+SOP Deform	採用幾何點和點權重（由Capture SOP指定）並在移動捕獲區域時變形幾何體。
+SOP Delete	通過使用三個選項中的任意一個刪除由組規範或幾何選擇選擇的輸入幾何：按實體編號，按邊界體積和按實體（原始/點）法線。
+SOP Group	根據各種標準生成點或基元組，並允許您對這些組進行操作。
+SOP Inverse Curve	從逆向曲線CHOP中獲取數據並從中構建曲線。
+SOP Limit	通過CHOP為其提供樣品創建幾何體。它在樣本中的每個點創建幾何。
+SOP Line Thick	從曲線擠出表面。該線可以是多邊形，NURBS或Bezier幾何類型。
+SOP Object Merge	允許您合併跨越不同組件的多個SOP的幾何。
+SOP Polyreduce	將高細節多邊形模型減少為由較少多邊形組成的模型。第二個輸入的多邊形表示要素邊。
+SOP Primitive	就像Point SOP一樣，除了原始特定的屬性（如反轉原始法線）之外，還可以操縱基元的位置，大小，方向，顏色，alpha。
+SOP Rectangle	創建一個4邊多邊形。它是一個平面。
+SOP Sort	允許您以不同方式對點和基元進行排序。有時基元按所需順序排列，但點順序不是。
+SOP Sprite	在由XYZ CHOP參數中引用的CHOP定義的點位置處創建幾何（四精靈）。
+SOP Text	從系統上安裝的任何TrueType字體或磁盤上的任何TrueType字體文件創建文本幾何。
+SOP Texture	將紋理UV和W坐標指定給Source幾何體，以用於紋理和凹凸貼圖。它生成多層紋理坐標。
+SOP Transform	在“對象空間”中轉換，旋轉和縮放輸入幾何體或在SOP中本地縮放輸入幾何體。模型編輯器和變換SOP都在“對象空間”中工作，並更改點的X Y Z位置。
+DAT Convert	將文本格式從簡單文本更改為表格形式，反之亦然。
+DAT Evaluate	使用字符串編輯和數學表達式更改傳入DAT的單元格。它輸出一個具有相同行數和列數的表。
+DAT Examine	允許您檢查操作員的python存儲，本地，全局，表達式和擴展。
+DAT File In	讀入.txt文本文件和.dat表文件。它將嘗試將任何其他文件作為原始文本讀取。該文件可以位於磁盤上或Web上。
+DAT File Out	允許您將DAT內容寫入.dat文件或.txt文件。 .dat文件是TouchDesigner的文件類型之一，用於保存表DAT的數組。
+DAT Folder	列出文件系統文件夾中的文件和子文件夾，並監視所有更改。對於找到的每個項目，在表格中創建一行，其中包含以下信息的可選列：名稱擴展名類型大小深度文件夾路徑日期創建日期已修改。
+DAT In	用於在Component中創建DAT輸入。組件輸入以字母數字的形式定位在組件的左側。
+DAT Info	提供有關節點的字符串信息。只有一些節點包含可由Info DAT訪問的其他字符串信息。
+DAT Insert	允許您將行或列插入現有表。如果輸入DAT不是表，則將其轉換為表。
+DAT Merge	Merged DAT是一個多輸入DAT，它將來自輸入DAT的文本或表合併在一起。
+DAT Null	對數據沒有影響。它是連接到其輸入的DAT的實例。 Null DAT通常在引用DAT網絡時使用，允許將新DAT添加到網絡（上游），而無需更新引用。
+DAT OP Find	遍歷組件層次結構，從一個組件開始，查看該組件中的所有節點，並輸出一個表，每個節點有一行符合用戶選擇的條件。
+DAT Out	用於在Component中創建DAT輸出。組件輸出以字母數字的形式定位在組件的右側。
+DAT Perform	以表DAT格式記錄各種性能時間。這些基準測試與性能監視器報告的基準測試類似。
+DAT Reorder	允許您重新排序輸入表的行和列。您還可以使用“在指定順序”選項獲取行和列的重複副本。
+DAT Script	每次腳本DAT烹飪時運行腳本。默認情況下，腳本DAT是使用包含三種Python方法的停靠DAT創建的：cook，onPulse和setupParameters。
+DAT Select	允許您從TouchDesigner中的任何其他位置獲取DAT，並選擇行和列的任何子集（如果它是表）。
+DAT Sort	將按行或列對錶DAT數據進行排序。
+DAT Substitute	使用模式匹配和替換字符串更改傳入DAT的單元格。它輸出一個具有相同行數和列數的表。
+DAT Switch	是一個多輸入操作符，允許您使用Input參數選擇輸出哪個輸入。
+DAT Transpose	將行轉換為列。行數變為列數，反之亦然。
+DAT Art-Net	輪詢並列出網絡上的所有設備。
+DAT CHOP Execute	將在指定CHOP的值更改時運行其腳本。您可以指定要查看的通道，並根據其值以各種方式更改來觸發。
+DAT CHOP to	允許您以表格格式將CHOP通道值轉換為DAT。
+DAT Clip	包含有關由Clip CHOP和Clip Blender CHOP操縱的運動剪輯的信息。 Clip DAT可以保存任何命令或腳本文本，可以根據Execute參數頁面上的設置觸發（這是Clip DAT和Text DAT不同的地方）。
+DAT DAT Execute	監視另一個DAT的內容，並在這些內容髮生變化時運行腳本。另一個DAT通常是一張桌子。
+DAT Error	列出其FIFO（先進/先出）表中最新的TouchDesigner錯誤。您可以使用某些列上的模式匹配來過濾我們的消息，例如Severity，Type和包含錯誤的節點的路徑。
+DAT EtherDream	輪詢並列出所有連接的EtherDream設備。另請參見：EtherDream CHOP，掃描CHOP。
+DAT Execute	允許您編輯腳本並根據條件運行它們。它可以在每個幀的開始或結束時執行，也可以在TouchDesigner進程的開始或結束時執行。
+DAT FIFO	FIFO DAT維護表中用戶設置的最大行數。您可以使用DAT類中的appendRow（）方法添加行。達到其容量時，將刪除第一行。達到最大行數後，添加新行時將丟棄最舊的行。
+DAT Indices	在表中創建一系列數字，範圍在起始值和結束值之間。這些值適合沿圖表水平軸或垂直軸顯示。
+DAT Keyboard In	列出其FIFO（先進/先出）表中的最新關鍵事件。每按一次按鍵和每個按鍵都有一行，包括Shift，Ctrl和Alt，區分左右兩側。
+DAT MIDI Event	從所有MIDI設備記錄進入TouchDesigner的所有MIDI信息。它以表格格式輸出列：消息，類型，通道，索引，值。
+DAT MIDI In	從指定的MIDI設備記錄進入TouchDesigner的所有MIDI信息。它以表格格式輸出列 - 消息，類型，通道，索引，值。
+DAT Monitors	是關於所有當前檢測到的監視器的數據表，其中包含有關分辨率，屏幕定位，監視器名稱和描述的信息，以及指示其是否為主監視器的標誌。
+DAT Multi Touch In	用於從Windows 7+標準多點觸控API接收消息和事件。它捕獲所有消息，其中每個新消息更改其輸出的表。
+DAT OP Execute	運算符狀態更改時運行腳本。 OP Execute DAT是使用默認的python方法佔位符創建的。
+DAT OSC In	使用UDP接收和解析完整的Open Sound Control數據包。解析每個數據包並將其作為一行附加到DAT表中。
+DAT OSC Out	用於通過遠程計算機之間的OSC連接發送信息。使用send命令啟動數據輸出。
+DAT Panel Execute	將在指定面板組件的值更改時運行其腳本。您可以指定要監視的面板值，並根據其各種方式更改的值觸發腳本。
+DAT Parameter Execute	當任何節點的參數改變狀態時，Parm Execute DAT運行腳本。參數可以通過4種方式觸發腳本：如果其值，表達式，導出或啟用狀態發生更改。
+DAT Render Pick	允許您在3D渲染場景上進行多點觸控。它對渲染進行採樣（從Render TOP或Render Pass TOP）並從指定拾取位置的幾何體返回3D信息。
+DAT Serial	用於通過外部端口進行串行通信，使用R​​S-232協議。這些端口通常是9針連接器，或新機器上的USB端口。
+DAT SOP to	允許您提取點和基元數據和屬性。數據以列的形式輸出，第一列是索引。
+DAT TUIO In	接收並解析TUIO消息（通過網絡接收）到表中的列。 TUIO數據包OSC捆綁，因此TUIO數據也可以在OSC In DAT中以更原始的形式查看。
+DAT Table	允許您創建一個包含行和列單元格的表格，每個單元格包含一個文本字符串。 “表格”是兩種形式的DAT之一（另一種是通過文本DAT簡單地形成“自由形式”文本的行）。
+DAT TCP/IP	用於通過兩台遠程計算機之間的TCP / IP連接發送和接收信息。
+DAT Text	允許您編輯自由格式的多行ASCII文本。它用於腳本，GLSL著色器，註釋，XML和其他用途。
+DAT Touch In	通過Touch Out DAT接收整個網絡的完整表格，而不是使用其他基於網絡的DAT的消息。
+DAT Touch Out	通過網絡將完整的DAT表發送到另一個TouchDesigner進程中的Touch In DAT，而不是使用其他基於網絡的DAT的消息。
+DAT UDP In	用於通過兩個遠程計算機之間的UDP連接接收信息。它可以捕獲所有消息而無需任何排隊或緩衝，並允許您發送任何所需的消息。
+DAT UDP Out	用於通過UDP連接向遠程計算機發送信息或從遠程計算機發送信息。
+DAT UDT In	用於通過兩台遠程計算機之間的UDT連接接收信息。 它可以捕獲所有消息而無需任何排隊或緩衝，並允許您發送任何所需的消息。
+DAT UDT Out	用於通過遠程計算機之間的UDT連接發送信息。 使用udtoutDAT_Class發送消息。
+DAT Web	從Web連接獲取數據頁面。 數據應該是ASCII可讀的。 Web DAT將自動解壓縮任何gzip壓縮頁面傳輸。
+DAT WebSocket	接收和解析WebSocket消息。 WebSockets是Web服務器和客戶端使用的快速有效的雙向通信協議。
+DAT XML	可用於解析任意XML和SGML / HTML格式的數據。 格式化後，可以輸出文本的選定部分以供進一步處理。
