@@ -1,6 +1,6 @@
 TD_Elting_Wax
 ---
-![PVW](../img/TD_Elting_Wax.jpeg)
+![PVW](img/TD_Elting_Wax.jpeg)
 
 Author : Yea Chen
 
