@@ -20,6 +20,8 @@ Current function:
 
 使用提示：TD會自動修復自己的UI，每次啟動TD都會回復為英語介面，因此每次啟動都要翻譯一次。
 
+Tips: TD will automatically fix its own UI. Every time you start TD, it will reply to the English interface, so it will be translated once every time you start it.
+
 ----------
 
 Author : Yea Chen <yeataro@gmail.com>
