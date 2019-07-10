@@ -39,6 +39,8 @@ TDユーザーインターフェースをローカライズします。 作業�
 Update the translation text at any time with the editorial spreadsheet.
 
 
+----------
+
 
 
 > 使用提示：TD會自動修復它自己的UI，每次啟動TD都會復原為英語介面(實際上，任何的修改在"/ui"中都不會被儲存，它會重新在啟動時生成)，因此每次啟動都要翻譯一次。
@@ -47,6 +49,8 @@ Update the translation text at any time with the editorial spreadsheet.
 > 
 > Tips: TD will automatically fix its own UI, each time you start TD will be restored to English interface(actually, any changes will not be stored in "/ui", it will be re-created at startup), So every time you start, you have to translate it once.
 
+
+----------
 
 
 Author : Yea Chen <yeataro@gmail.com>
