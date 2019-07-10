@@ -1,0 +1,301 @@
+{
+	"items" :
+	{
+		"create" :
+		{
+			"label":  "Create Project Folder",
+			"command": "dialogs \"New Project\"",
+			"shortcuts" : "network.new.project"
+		},
+		"new" :
+		{
+			"label": "New",
+			"command": "run /ui/dialogs/mainmenu/menu/scripts/new",
+			"shortcuts" : "network.new"
+		},
+		"open" :
+		{
+			"label": "Open...",
+			"command": "run /ui/dialogs/mainmenu/menu/scripts/open",
+			"shortcuts" : "app.load"
+		},
+		"openrecent" :
+		{
+			"label": "Open Recent",
+			"command": "run /ui/dialogs/mainmenu/menu/scripts/openrecent"
+		},
+		"save" :
+		{
+			"label": "Save",
+			"command": "run /ui/dialogs/mainmenu/menu/scripts/save",
+			"shortcuts" : "app.save"
+		},
+		"saveas" :
+		{
+			"label": "Save As...",
+			"command": "toewrite -a",
+			"shortcuts" : "app.saveas"
+		},
+		"projectprivacy" :
+		{
+			"label": "Project Privacy... (Pro Only)",
+			"command": "dialogs privacy"
+		},
+		"importfile" :
+		{
+			"label": "Import File...",
+			"command": "dialogs \"Import File\"",
+			"shortcuts" : "network.import.file"
+		},
+		"exportmovie" :
+		{
+			"label": "Export Movie...",
+			"command": "dialogs \"Export Movie\"",
+			"shortcuts" : "network.export.movie"
+		},
+		"quit" :
+		{
+			"label": "Quit TouchDesigner",
+			"command": "quit",
+			"shortcuts" : "app.quit"
+		},
+		"undo" :
+		{
+			"label": "Undo",
+			"command": "undo -u",
+			"shortcuts" : "app.undo"
+		},
+		"redo" :
+		{
+			"label": "Redo",
+			"command": "undo -r",
+			"shortcuts" : "app.redo"
+		},
+		"search" :
+		{
+			"label": "Search",
+			"command": "dialogs search",
+			"shortcuts" : "network.search"
+		},
+		"preferences" :
+		{
+			"label": "Preferences",
+			"command": "dialogs preferences",
+			"shortcuts" : "network.edit.prefs"
+		},
+		"finder" :
+		{
+			"label": "Finder",
+			"command": "dialogs explorer",
+			"shortcuts" : "network.explorer"
+		},
+		"explorer" :
+		{
+			"label": "Explorer",
+			"command": "dialogs explorer",
+			"shortcuts" : "network.explorer"
+		},
+		"textport" :
+		{
+			"label": "Textport and DATs",
+			"command": "dialogs textport",
+			"shortcuts" : "app.textport"
+		},
+		"perfmonitor" :
+		{
+			"label": "Performance Monitor",
+			"command": "dialogs performance",
+			"shortcuts" : "app.performance"
+		},
+		"windowplacement" :
+		{
+			"label": "Window Placement",
+			"command": "dialogs window",
+			"shortcuts" : "network.winplacement"
+		},
+		"palettebrowser" :
+		{
+			"label": "Palette Browser",
+			"command": "dialogs palette",
+			"shortcuts" : "network.palette.browse"
+		},
+		"mididevicemapper" :
+		{
+			"label": "MIDI Device Mapper",
+			"command": "dialogs midi",
+			"shortcuts" : "network.midimapper"
+		},
+		"beat" :
+		{
+			"label": "Beat",
+			"command": "dialogs beat"
+		},
+		"variablesmacros" :
+		{
+			"label": "Variables/Macros",
+			"command": "controlpanel -f -o /ui/dialogs/dialog_legacy"
+		},
+		"console" :
+		{
+			"label": "Console",
+			"command": "dialogs console",
+			"shortcuts" : "network.console"
+		},
+		"errors" :
+		{
+			"label": "Errors",
+			"command": "dialogs errors"
+		},
+		"keymanager" :
+		{
+			"label": "Key Manager",
+			"command": "dialogs key",
+			"shortcuts" : "network.license.manager"
+		},
+		"help" :
+		{
+			"label": "TouchDesigner Help",
+			"command": "help -d Main_Page"
+		},
+		"forums" :
+		{
+			"label": "TouchDesigner Forums",
+			"command": "viewfile http://www.derivative.ca/forum"
+		},
+		"tutorials" :
+		{
+			"label": "Tutorials and Tips",
+			"command": "help -d Category:Tutorials"
+		},
+		"operatorhelp" :
+		{
+			"label": "Operator Help",
+			"command": "help -d Operator"
+		},
+		"operatorsnippets" :
+		{
+			"label": "Operator Snippets",
+			"command": "dialogs Snippets"
+		},
+		"pythonhelp" :
+		{
+			"label": "Python Help",
+			"command": "help -d Introduction_to_Python"
+		},
+		"pythonexamples" :
+		{
+			"label": "Python Examples",
+			"command": "viewfile \"$TFS/Samples/Learn/PythonExamples.toe\""
+		},
+		"offlinehelp" :
+		{
+			"label": "Offline Help",
+			"command": "viewfile \"$TFS/Samples/Learn/offlineHelp/Main_Page.htm\""
+		},
+		"releasenotes":
+		{
+			"label": "Release Notes",
+			"command": "help -d Release_Notes"
+		},
+		"about":
+		{
+			"label": "About TouchDesigner",
+			"command": "dialogs \"Version\"",
+			"shortcuts" : "network.show.version"
+		},
+		"samples":
+		{
+			"label": "Browse Samples",
+			"command": "viewfile \"$TFS/Samples\""
+		}
+	},
+	"menus" :
+	{
+		"MainMenu" :
+		[
+			{ "TouchDesigner" :
+				{
+					"items" :
+					[
+						{ "item" : "about" },
+						{ "item" : "preferences" },
+						{ "item" : "quit" }
+					],
+					"platforms" : [ "osx" ]
+				}
+			},
+			{ "File" :
+				{
+					"items" :
+					[
+						{ "item" : "create" },
+						{ "item" : "__separator__" },
+						{ "item" : "new" },
+						{ "item" : "open" },
+						{ "item" : "openrecent" },
+						{ "item" : "save" },
+						{ "item" : "saveas" },
+						{ "item" : "__separator__" },
+						{ "item" : "projectprivacy" },
+						{ "item" : "importfile"},
+						{ "item" : "exportmovie" },
+						{ "item" : "__separator__" },
+						{ "item" : "quit", "platforms" : [ "windows" ] }
+					]
+				}
+			},
+			{ "Edit" :
+				{
+					"items" :
+					[
+						{ "item" : "undo", "platforms" : [ "windows" ] },
+						{ "item" : "redo", "platforms" : [ "windows" ] },
+						{ "item" : "__separator__" },
+						{ "item" : "search" },
+						{ "item" : "preferences", "platforms" : [ "windows" ] }
+					]
+				}
+			},
+			{ "Dialogs" :
+				{
+					"items" :
+					[
+						{ "item" : "finder", "platforms" : [ "osx" ] },
+						{ "item" : "explorer", "platforms" : [ "windows" ] },
+						{ "item" : "textport" },
+						{ "item" : "perfmonitor" },
+						{ "item" : "windowplacement" },
+						{ "item" : "palettebrowser" },
+						{ "item" : "mididevicemapper" },
+						{ "item" : "beat" },
+						{ "item" : "variablesmacros" },
+						{ "item" : "console", "platforms" : [ "windows" ] },
+						{ "item" : "errors" },
+						{ "item" : "keymanager" }
+					]
+				}
+			},
+			{ "Help" :
+				{
+					"items" :
+					[
+						{ "item" : "help" },
+						{ "item" : "forums" },
+						{ "item" : "tutorials" },
+						{ "item" : "operatorhelp" },
+						{ "item" : "operatorsnippets" },
+						{ "item" : "pythonhelp" },
+						{ "item" : "pythonexamples" },
+						{ "item" : "samples"},
+						{ "item" : "offlinehelp" },
+						{ "item" : "__separator__" },
+						{ "item" : "releasenotes" },
+						{ "item" : "about", "platforms" : [ "windows" ] }
+					]
+				}
+			}
+		]
+	}
+}
+
+

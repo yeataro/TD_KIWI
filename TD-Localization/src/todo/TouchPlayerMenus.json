@@ -1,0 +1,68 @@
+{
+	"items" :
+	{
+		"open" :
+		{
+			"label": "Open...",
+			"command": "run /ui/dialogs/mainmenu/menu/scripts/open",
+			"shortcuts" : "app.load"
+		},
+		"openrecent" :
+		{
+			"label": "Open Recent",
+			"command": "run openrecent"
+		},
+		"quit" :
+		{
+			"label": "Quit TouchPlayer",
+			"command": "quit",
+			"shortcuts" : "app.quit"
+		},
+		"keymanager" :
+		{
+			"label": "Key Manager",
+			"command": "dialogs key",
+			"shortcuts" : "network.license.manager"
+		},
+		"help" :
+		{
+			"label": "TouchPlayer Help",
+			"command": "help -d TouchPlayer"
+		}
+	},
+	"menus" :
+	{
+		"MainMenu" :
+		[
+			{ "TouchPlayer" :
+				{
+					"items" :
+					[
+						{ "item" : "quit" }
+					],
+					"platforms" : [ "osx" ]
+				}
+			},
+			{ "File" :
+				{
+					"items" :
+					[
+						{ "item" : "open" },
+						{ "item" : "openrecent" },
+						{ "item" : "__separator__" },
+						{ "item" : "quit", "platforms" : [ "windows" ] }
+					]
+				}
+			},
+			{ "Help" :
+				{
+					"items" :
+					[
+						{ "item" : "help" },
+						{ "item" : "about", "platforms" : [ "windows" ] }
+					]
+				}
+			}
+		]
+	}
+}
