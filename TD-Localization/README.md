@@ -7,7 +7,7 @@ Localize the TD user interface. Work in progress.
 
 Current function: 
 
-- Translate the description text of OP Create Dialog to Traditional Chinese. (Google straight translation) #2019-07-10
+- Translate the description text of OP Create Dialog to Traditional Han. (Google straight translation) #2019-07-10
 
 目前功能： 
 
