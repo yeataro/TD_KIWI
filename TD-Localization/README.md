@@ -1,5 +1,7 @@
 TD-Localization
 ---
+![icon](img/icon.jpg)
+
 Localize the TD user interface. Work in progress.
 
 本地化TD使用者介面。工作進行中。
