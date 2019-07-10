@@ -8,4 +8,11 @@ Localize the TD user interface. Work in progress.
 
 ![summaries-zh-TW](img/summaries.png)
 
+
+----------
+
+使用提示：TD會自動修復自己的UI，因此每次啟動TD都會回復為英語介面，因此每次啟動都要翻譯一次。
+
+----------
+
 Author : Yea Chen <yeataro@gmail.com>
