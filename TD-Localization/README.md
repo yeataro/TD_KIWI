@@ -12,11 +12,11 @@ Localize the TD user interface. Work in progress.
 
 Current function: 
 
-- Translate the description text of OP Create Dialog to Traditional Han. (Google straight translation) #2019-07-10
+- Translate the description text of OP Create Dialog to Traditional Han(Google straight translation).  The spreadsheet used in the work is [here](https://docs.google.com/spreadsheets/d/1NJm6y2Eg9iyHv9mFdaBHJw_12bNU1CDQBGmgoTJVkHo/edit?usp=sharing) #2019-07-10
 
 目前功能： 
 
-- 翻譯OP Create Dialog的說明文字為繁體漢語。(Google直翻) #2019-07-10
+- 翻譯OP Create Dialog的說明文字為繁體漢語(Google直翻)。工作使用的試算表[在這](https://docs.google.com/spreadsheets/d/1NJm6y2Eg9iyHv9mFdaBHJw_12bNU1CDQBGmgoTJVkHo/edit?usp=sharing)。 #2019-07-10
 
 ![summaries-zh-TW](img/summaries.png)
 
