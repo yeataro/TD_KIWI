@@ -13,7 +13,7 @@ TDユーザーインターフェースをローカライズします。 作業�
 
 - Translate the description text of OP Create Dialog to Traditional Han(Google straight translation).  The spreadsheet used in the work is [here](https://docs.google.com/spreadsheets/d/1NJm6y2Eg9iyHv9mFdaBHJw_12bNU1CDQBGmgoTJVkHo/edit?usp=sharing) #2019-07-10
 
-- The description text of the translation OP Create Dialog is Traditional Han, Japanese, French, Russian, Spanish, Esperanto (Google Direct). The spreadsheet used for work is [here](https://docs.google.com/spreadsheets/d/1NJm6y2Eg9iyHv9mFdaBHJw_12bNU1CDQBGmgoTJVkHo/edit?usp=sharing) Welcome the language user to proofread the file together. (TD_Localization_beta.tox) #2019-07-11
+- The description text of the translation OP Create Dialog is Traditional Han, Japanese, French, Russian, Spanish, Esperanto (Google Direct). The spreadsheet used for work is [here](https://docs.google.com/spreadsheets/d/1NJm6y2Eg9iyHv9mFdaBHJw_12bNU1CDQBGmgoTJVkHo/edit?usp=sharing). Welcome the language user to proofread the file together. (TD_Localization_beta.tox) #2019-07-11
 
 ### 目前功能： 
 
