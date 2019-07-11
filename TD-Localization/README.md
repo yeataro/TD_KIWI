@@ -26,7 +26,7 @@ TDユーザーインターフェースをローカライズします。 作業�
 
 ### 現在の機能：
 
- -  OP Create Dialogのキャプションを台湾語と日本語、フランス語、ロシア語、スペイン語、エスペラント語で翻訳する（Google直接翻訳）。 仕事用スプレッドシート[こちら](https://docs.google.com/spreadsheets/d/1NJm6y2Eg9iyHv9mFdaBHJw_12bNU1CDQBGmgoTJVkHo/edit?usp=sharing)。テキスト校正歓迎 (TD_Localization_beta.tox) ＃2019-07-11
+ -  OP Create Dialogのキャプションを台湾語と日本語、フランス語、ロシア語、スペイン語、エスペラント語で翻訳する（Google直接翻訳）。 仕事用スプレッドシートは[こちら](https://docs.google.com/spreadsheets/d/1NJm6y2Eg9iyHv9mFdaBHJw_12bNU1CDQBGmgoTJVkHo/edit?usp=sharing)。テキスト校正歓迎 (TD_Localization_beta.tox) ＃2019-07-11
  
  ![summaries-ja-JP](img/summaries-jp.png)
  
