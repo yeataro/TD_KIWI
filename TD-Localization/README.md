@@ -13,20 +13,20 @@ TDユーザーインターフェースをローカライズします。 作業�
 
 - Translate the description text of OP Create Dialog to Traditional Han(Google straight translation).  The spreadsheet used in the work is [here](https://docs.google.com/spreadsheets/d/1NJm6y2Eg9iyHv9mFdaBHJw_12bNU1CDQBGmgoTJVkHo/edit?usp=sharing) #2019-07-10
 
-- The explanatory text of the translation OP Create Dialog is Traditional Chinese, Japanese, French, Russian, Spanish, Esperanto (Google Direct). The spreadsheet used for work is [here](https://docs.google.com/spreadsheets/d/1NJm6y2Eg9iyHv9mFdaBHJw_12bNU1CDQBGmgoTJVkHo/edit?usp=sharing) (beta) #2019-07-11
+- The description text of the translation OP Create Dialog is Traditional Han, Japanese, French, Russian, Spanish, Esperanto (Google Direct). The spreadsheet used for work is [here](https://docs.google.com/spreadsheets/d/1NJm6y2Eg9iyHv9mFdaBHJw_12bNU1CDQBGmgoTJVkHo/edit?usp=sharing). Welcome the language user to proofread the file together. (TD_Localization_beta.tox) #2019-07-11
 
 ### 目前功能： 
 
 - 翻譯OP Create Dialog的說明文字為繁體漢語(Google直翻)。工作使用的試算表[在這](https://docs.google.com/spreadsheets/d/1NJm6y2Eg9iyHv9mFdaBHJw_12bNU1CDQBGmgoTJVkHo/edit?usp=sharing)。 #2019-07-10
 
 - 翻譯OP Create Dialog的說明文字為繁體漢語、日文
-、法文、俄文、西班牙文、世界語(Google直翻)。工作使用的試算表[在這](https://docs.google.com/spreadsheets/d/1NJm6y2Eg9iyHv9mFdaBHJw_12bNU1CDQBGmgoTJVkHo/edit?usp=sharing)。 (beta) #2019-07-11
+、法文、俄文、西班牙文、世界語(Google直翻)。工作使用的試算表[在這](https://docs.google.com/spreadsheets/d/1NJm6y2Eg9iyHv9mFdaBHJw_12bNU1CDQBGmgoTJVkHo/edit?usp=sharing)。 (TD_Localization_beta.tox) #2019-07-11
 
 ![summaries-zh-TW](img/summaries.png)
 
 ### 現在の機能：
 
- -  OP Create Dialogのキャプションを台湾語と日本語、フランス語、ロシア語、スペイン語、エスペラント語で翻訳する（Google直接翻訳）。 仕事用スプレッドシート[こちら](https://docs.google.com/spreadsheets/d/1NJm6y2Eg9iyHv9mFdaBHJw_12bNU1CDQBGmgoTJVkHo/edit?usp=sharing)。テキスト校正歓迎 (beta) ＃2019-07-11
+ -  OP Create Dialogのキャプションを台湾語と日本語、フランス語、ロシア語、スペイン語、エスペラント語で翻訳する（Google直接翻訳）。 仕事用スプレッドシートは[こちら](https://docs.google.com/spreadsheets/d/1NJm6y2Eg9iyHv9mFdaBHJw_12bNU1CDQBGmgoTJVkHo/edit?usp=sharing)。テキスト校正歓迎 (TD_Localization_beta.tox) ＃2019-07-11
  
  ![summaries-ja-JP](img/summaries-jp.png)
  
