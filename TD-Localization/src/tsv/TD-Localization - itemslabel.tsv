@@ -1,0 +1,38 @@
+﻿items	en	zh-TW	ja	fr	ru	es	de	it	eo	th	vi	ko	ar
+about	About TouchDesigner	關於TouchDesigner	TouchDesignerについて	A propos TouchDesigner	О TouchDesigner	sobre TouchDesigner	Über Touch	A proposito di TouchDesigner	pri TouchDesigner	เกี่ยวกับ TouchDesigner	về TouchDesigner	TouchDesigner 소개	حول TouchDesigner
+exportmovie	Export Movie...	導出影片...	ムービー書き出し...	Exporter le film ...	Экспорт фильма ...	Exportar película ...	Film exportieren ...	Esporta filmato ...	Eksporti Filmo ...	ภาพยนตร์ส่งออก ...	Xuất khẩu Movie ...	동영상 내보내기 ...	تصدير الفيلم ...
+offlinehelp	Offline Help	離線幫助	オフラインヘルプ	Aide hors ligne	Offline Помощь	Ayuda en línea	offline-Hilfe	Aiuto in linea	Senkonekta Helpo	ช่วยเหลือออฟไลน์	Trợ giúp ẩn	오프라인 도움말	مساعدة متواجد حاليا
+open	Open...	開啟舊檔...	開いた...	Ouvrir...	Открыто...	Abierto...	Öffnen...	Aperto...	Malfermu ...	เปิด...	Mở...	열다...	افتح...
+mididevicemapper	MIDI Device Mapper	MIDI設備映射器	MIDIデバイスマッパー	MIDI Device Mapper	Mapper устройства MIDI	MIDI Device Mapper	MIDI Device Mapper	MIDI Device Mapper	MIDI Aparato Mapper	MIDI อุปกรณ์ Mapper	Mapper thiết bị MIDI	MIDI 장치 매퍼	MIDI مخطط جهاز
+openrecent	Open Recent	最近使用檔案	最近のオープン	Ouverte récente	Открыть недавние	Recientemente abierto	Zuletzt geöffnet	Aperto di recente	Malfermu Lastaj	เปิดล่าสุด	Mở gần đây	최근 오픈	مفتوحة آخر
+console	Console	控制台	コンソール	Console	Приставка	Consola	Konsole	consolle	konzolo	ปลอบใจ	Bảng điều khiển	콘솔	وحدة التحكم
+new	New	新增	新しい	Nouveau	новый	Nuevo	Neu	Nuovo	Novaj	ใหม่	Mới	새로운	الجديد
+finder	Finder	Finder	Finder	Chercheur	искатель	Descubridor	Finder	mirino	trovilo	Finder	người tìm ra	파인더	مكتشف
+releasenotes	Release Notes	發行說明	リリースノート	Notes de version	Примечания к выпуску	Notas de lanzamiento	Versionshinweise	Note di rilascio	Release Notoj	บันทึกประจำรุ่น	Ghi chú Phát hành	릴리즈 노트	ملاحظات الإصدار
+redo	Redo	重做	やり直し	Refaire	переделывать	Rehacer	Redo	Rifare	refari	ทำซ้ำ	redo	다시 하다	فعل ثانية
+save	Save	存檔	保存する	sauvegarder	Сохранить	Salvar	sparen	Salvare	Savi	บันทึก	Tiết kiệm	구하다	حفظ
+help	TouchDesigner Help	TouchDesigner幫助	TouchDesignerヘルプ	TouchDesigner Aide	TouchDesigner Помощь	TouchDesigner Ayuda	Touch Hilfe	TouchDesigner Aiuto	TouchDesigner Helpo	TouchDesigner ช่วยเหลือ	TouchDesigner Trợ giúp	TouchDesigner 도움말	TouchDesigner مساعدة
+operatorsnippets	Operator Snippets	OP使用範例集	オペレータスニペット	opérateur Snippets	Оператор Snippets	fragmentos de operador	Operator Snippets	Frammenti operator	Funkciigisto kodaĵoj	ผู้ประกอบการตัวอย่าง	điều hành Snippets	운영자 조각	مشغل القصاصات
+explorer	Explorer	檔案總管	Explorer	Explorateur	исследователь	Explorador	Forscher	Esploratore	Explorer	สำรวจ	nhà thám hiểm	탐침	مستكشف
+saveas	Save As...	另存為...	名前を付けて保存...	Enregistrer sous...	Сохранить как...	Guardar como...	Speichern als...	Salva come...	Konservi kiel...	บันทึกเป็น...	Lưu thành...	다른 이름으로 저장...	حفظ باسم ...
+perfmonitor	Performance Monitor	性能監視器	パフォーマンスモニター	Moniteur de performances	Монитор производительности	Monitor de rendimiento	Performance Monitor	Monitoraggio delle prestazioni	Performance Monitor	การตรวจสอบประสิทธิภาพ	Performance Monitor	퍼포먼스 모니터	مراقبة الأداء
+pythonhelp	Python Help	Python簡介	Pythonのヘルプ	Python Aide	Python Помощь	Ayuda Python	Python Hilfe	Python Aiuto	Python Helpo	งูหลามช่วยเหลือ	Python Trợ giúp	파이썬 도움말	بيثون مساعدة
+palettebrowser	Palette Browser	組件瀏覽器	パレットブラウザ	Navigateur Palette	Palette Browser	navegador de paleta	Palette Browser	palette Browser	Palette Foliumilo	Palette เบราว์เซอร์	Palette trình duyệt	팔레트 브라우저	متصفح لوحة
+create	Create Project Folder	創建項目文件夾	プロジェクトフォルダを作成	Créer le dossier du projet	Создать папку проекта	Crear carpeta de proyecto	Erstellen Sie Projektordner	Crea cartella di progetto	Krei Projekto Dosierujo	สร้างโครงการโฟลเดอร์	Tạo Dự án Thư mục	프로젝트 폴더 만들기	إنشاء مجلد مشروع
+variablesmacros	Variables/Macros	變量/快捷	変数/マクロ	Variables / macros	Переменные / Макросы	Variables / Macros	Variables / Makros	Variabili / Macro	Variabloj / Makrooj	ตัวแปร / แมโคร	Biến / Macros	변수 / 매크로	المتغيرات / وحدات الماكرو
+search	Search	搜尋	サーチ	Chercher	Поиск	Buscar	Suche	Ricerca	Serĉu	ค้นหา	Tìm kiếm	수색	بحث
+keymanager	Key Manager	密鑰管理器	キーマネージャ	Key Manager	Key Manager	Gestor de claves	Schlüsselmanager	Key manager	Key Manager	ผู้จัดการสำคัญ	quản lý chủ chốt	키 관리자	إدارة المفاتيح
+forums	TouchDesigner Forums	TouchDesigner論壇	TouchDesignerフォーラム	TouchDesigner Forums	TouchDesigner форум	TouchDesigner foros	Touch Foren	TouchDesigner Forum	TouchDesigner Forumoj	TouchDesigner ฟอรั่ม	TouchDesigner đàn	TouchDesigner 포럼	منتديات TouchDesigner
+beat	Beat	節拍	ビート	Battre	бить	Golpear	Schlagen	Battere	Beat	ตี	Tiết tấu	박자	تغلب
+operatorhelp	Operator Help	OP說明	オペレータヘルプ	Aide de l'opérateur	Оператор Помощь	Ayuda operador	Operator Hilfe	Aiuto operatore	Funkciigisto Helpo	ผู้ดำเนินการช่วยเหลือ	điều hành Trợ giúp	운영자 도움말	مساعدة المشغل
+windowplacement	Window Placement	視窗配置	ウィンドウ配置	fenêtre de placement	окно Размещение	la colocación de ventanas	Fenster Placement	Posizionamento finestra	fenestro Placement	ตำแหน่งหน้าต่าง	window Placement	창 배치	نافذة التنسيب
+textport	Textport and DATs	Textport和DAT文件	TextportとのDAT	Textport et DATs	Textport и DATs	Textport y DAT	Textport und DATs	Textport e DAT	Textport kaj DATs	Textport และ DATs	Textport và DATs	Textport 및 DATS	Textport وDATS
+preferences	Preferences	環境設置	環境設定	préférences	предпочтения	preferencias	Voreinstellungen	Preferenze	Agordoj	การตั้งค่า	Sở thích	환경 설정	تفضيلات
+projectprivacy	Project Privacy... (Pro Only)	項目隱私...（僅限專業版）	プロジェクトのプライバシー...（プロのみ）	Confidentialité du projet ... (Pro uniquement)	Проект конфиденциальности ... (Pro Only)	Proyecto de Privacidad ... (Pro)	Projektdatenschutz ... (Pro)	Progetto Privacy ... (Pro Only)	Projekto Privateco ... (Pro Nur)	โครงการความเป็นส่วนตัว ... (Pro เท่านั้น)	Dự án bảo mật ... (Pro Chỉ)	프로젝트 개인 정보 보호 (프로 전용)	مشروع الخصوصية ... (برو فقط)
+undo	Undo	復原	アンドゥ	annuler	расстегивать	Deshacer	Rückgängig machen	Disfare	malfari	แก้	Hủy bỏ	끄르다	فك
+tutorials	Tutorials and Tips	教程和技巧	チュートリアルとヒント	Tutoriels et astuces	Учебники и советы	Tutoriales y consejos	Tutorials und Tipps	Tutorial e suggerimenti	Tutorials kaj Konsiletoj	บทเรียนและเคล็ดลับ	Hướng dẫn và Mẹo	튜토리얼 및 팁	دروس ونصائح
+samples	Browse Samples	範例文件	サンプルを閲覧	Les échantillons Parcourir	Обзор Образцы	Recorrer las muestras	Durchsuchen Proben	Sfoglia campioni	Ĉiuj Specimenoj	เรียกดูตัวอย่าง	Duyệt mẫu	검색 샘플	استعراض عينات
+importfile	Import File...	匯入檔案...	インポートファイル...	Importer le fichier...	Импортировать файл...	Importar archivo...	Datei importieren...	Importare file...	Importi Dosiero ...	นำเข้าไฟล์ ...	Import File ...	파일 가져 오기 ...	استيراد ملف...
+errors	Errors	錯誤	エラー	les erreurs	ошибки	errores	Fehler	Errori	eraroj	ข้อผิดพลาด	lỗi	오류	أخطاء
+pythonexamples	Python Examples	Python示例	Pythonの例	Exemples Python	Примеры Python	Ejemplos de Python	Python Beispiele	Esempi Python	Python Ekzemploj	ตัวอย่างหลาม	Python Các ví dụ	파이썬 예	أمثلة بيثون
+quit	Quit TouchDesigner	退出TouchDesigner	TouchDesignerを終了します	quitter TouchDesigner	Выход TouchDesigner	Salir TouchDesigner	beenden Touch	Quit TouchDesigner	Ĉesu TouchDesigner	ออกจาก TouchDesigner	Quit TouchDesigner	TouchDesigner을 종료	إنهاء TouchDesigner
