@@ -11,18 +11,25 @@ TDユーザーインターフェースをローカライズします。 作業�
 ----------
 ### Current function: 
 
-- Translate the description text of OP Create Dialog to Traditional Han(Google straight translation).  The spreadsheet used in the work is [here](https://docs.google.com/spreadsheets/d/1NJm6y2Eg9iyHv9mFdaBHJw_12bNU1CDQBGmgoTJVkHo/edit?usp=sharing) #2019-07-10
+- Translatable menu. Move this thread to a separate [repository](https://github.com/yeataro/TD-Localization). There will be no updates here. (TD_Localization_omega.tox) #2019-07-22
 
 - The description text of the translation OP Create Dialog is Traditional Han, Japanese, French, Russian, Spanish, Esperanto (Google Direct). The spreadsheet used for work is [here](https://docs.google.com/spreadsheets/d/1NJm6y2Eg9iyHv9mFdaBHJw_12bNU1CDQBGmgoTJVkHo/edit?usp=sharing). Welcome the language user to proofread the file together. (TD_Localization_beta.tox) #2019-07-11
 
+- Translate the description text of OP Create Dialog to Traditional Han(Google straight translation).  The spreadsheet used in the work is [here](https://docs.google.com/spreadsheets/d/1NJm6y2Eg9iyHv9mFdaBHJw_12bNU1CDQBGmgoTJVkHo/edit?usp=sharing) #2019-07-10
+
+
 ### 目前功能： 
 
-- 翻譯OP Create Dialog的說明文字為繁體漢語(Google直翻)。工作使用的試算表[在這](https://docs.google.com/spreadsheets/d/1NJm6y2Eg9iyHv9mFdaBHJw_12bNU1CDQBGmgoTJVkHo/edit?usp=sharing)。 #2019-07-10
+- 可翻譯功能表。將此線程轉移至獨立的[存儲庫](https://github.com/yeataro/TD-Localization)。這邊不會再做更新。 (TD_Localization_omega.tox) #2019-07-22
+![summaries-zh-TW](img/menus.png)
 
 - 翻譯OP Create Dialog的說明文字為繁體漢語、日文
 、法文、俄文、西班牙文、世界語(Google直翻)。工作使用的試算表[在這](https://docs.google.com/spreadsheets/d/1NJm6y2Eg9iyHv9mFdaBHJw_12bNU1CDQBGmgoTJVkHo/edit?usp=sharing)。 (TD_Localization_beta.tox) #2019-07-11
 
+- 翻譯OP Create Dialog的說明文字為繁體漢語(Google直翻)。工作使用的試算表[在這](https://docs.google.com/spreadsheets/d/1NJm6y2Eg9iyHv9mFdaBHJw_12bNU1CDQBGmgoTJVkHo/edit?usp=sharing)。 #2019-07-10
+
 ![summaries-zh-TW](img/summaries.png)
+
 
 ### 現在の機能：
 
