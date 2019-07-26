@@ -1,0 +1,29 @@
+Expressions in the Evaluate DAT: Put an expression in the Expression parameter and see its results immediately. Even for doing calculator-type math like 25*9/5+32.
+Edit long parameter expressions: Click a parameter expression and Press Alt-e to bring up the expression in the text editor.
+Middle Mouse Button not available?: Alt+Right-click is a substitute for middle mouse button, letting you get info on nodes, and zoom network or viewers. Better yet, get a 3-button mouse.
+Delete Samples in a CHOP: Use the Delete CHOP's Samples page to delete samples based on values in one channel being in a specified range.
+Text DAT wraparound: The Text DAT's Word Wrap parameter lets you write long lines that dynamically fit the DAT viewer.
+Click where you want to paste nodes: When you chop/paste nodes, first click on the network where you want them to go. Otherwise it will be pasted directly under the copied nodes, which you may sometimes prefer.
+See inside a panel: Put your cursor over any UI element and press F10 or F9.
+Send your one-liner tips: Send to tips@derivative.ca
+CHOP Viewer dots: Press "d" over an active multi-sample CHOP viewer to show a dot at each sample. Zoom in see it in detail.
+CHOP graphs as sample number: The CHOP viewer X-axis is expressed in frames by default. To show X-axis as sample number, right-click -> Units -> Samples.
+Replicator COMP throttle: You can create one replicant per frame with Incremental Update.
+Replicator COMP without table: You can specify simply the number of replicants you want.
+Affect only one TOP color channel: Use a TOP's Channel Mask parameter to affect fewer than all four color channels.
+Edit DATs in the Textport: Put a DAT into a pane containing a Textport to watch/edit the DAT.
+Reference to a parameter in a parameter: On a parameter, rclick -> Copy Parameter, then rclick -> Paste Parameter on another parameter to create a reference.
+Show a message box: Show a message in a dialog with ui.messageBox('Title', 'Message')
+Turn on/off all Viewer Actives: Shift-A in a network turns on/off the viewer of all nodes. Alt-A does the same momentarily.
+Windows Explorer file extensions: In Windows Explorer, View -> File lets you turn on file name extensions, a better way to work.
+Fast path navigation: On the path bar at the top of any network, right-click on any of the parts of the path to get the component menu for that level. You can get View Parameters etc, without having to navigate up and back.
+Desktop in python: In python, app.desktopFolder gives your Desktop location. See other location shortcuts in the wiki App Class and Project Class.
+Network Table Mode: See your network as a table of operators using Shift-T, making nodes easier to find. Click the box in the first column to make it current.
+Hide your palette: Get more space by closing the palette when not in use.
+What's going through a wire: Left-click on a wire to view what's going through it.
+Use the Error DAT: to investigate intermittent Errors and Warnings on operators.
+Watch Operators cook: Use the Probe component in the Palette to watch a time-history of your nodes cooking.
+Help for parameters: Press alt and rollover a parameter name to get its help from the wiki.
+pause | play: Press shift-spacebar to pause and un-pause. When editing your networks, you can just press spacebar. It is common practice to use Shift-Spacebar to stop, but in Designer Mode, you can just press Spacebar.
+Animating wires between OPs: If a wire from is an animating dashed line, it means its source is cooking. Middle-click on the source node to see how much time it is taking.
+Go into Perform Mode: Press F1 to go into Perform Mode, and press Esc to leave Perform Mode.
