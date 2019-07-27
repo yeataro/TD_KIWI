@@ -6,7 +6,7 @@ Sometimes you will want multiple builds of TouchDesigner or TouchPlayer installe
 And this batch file makes it easy for you to do this. No need to enter any command line.
 ### How to use
 1. Download [`TD-Install-Experimental.bat`](https://github.com/yeataro/TD_KIWI/raw/master/Install-TD-Experimental-win/TD-Install-Experimental.bat). 
-2. Drag and drop your `TouchDesigner099.xxxx.xxxxx.exe` witch you want to install to that downloaded [`TD-Install-Experimental.bat`](https://github.com/yeataro/TD_KIWI/raw/master/Install-TD-Experimental-win/TD-Install-Experimental.bat).
+2. Drag and drop your `TouchDesigner099.xxxx.xxxxx.exe` which you want to install to that downloaded [`TD-Install-Experimental.bat`](https://github.com/yeataro/TD_KIWI/raw/master/Install-TD-Experimental-win/TD-Install-Experimental.bat).
 
 	![](img/drop.png)
 
