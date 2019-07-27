@@ -11,7 +11,7 @@ And this batch file makes it easy for you to do this. No need to enter any comma
 	![](img/drop.png)
 
 3. A window prompt appears to be extracting the file.
-The TD version will then be extracted to the folder named `TouchDesigner099.xxxx.xxxxx` in the folder where you placed `TouchDesigner099.xxxx.xxxxx.64-Bit.exe`.
+and that TD version will then be extracted to the folder named `TouchDesigner099.xxxx.xxxxx` in the folder where you placed `TouchDesigner099.xxxx.xxxxx.64-Bit.exe`.
 
 	![](img/exp.png)
 
