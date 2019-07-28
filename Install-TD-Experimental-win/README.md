@@ -19,7 +19,7 @@ and that TD version will then be extracted to the folder named `TouchDesigner099
 	
 	![](img/folder.png)
 ### Option
-Using [`TD-Install-Experimental-option.bat`](https://github.com/yeataro/TD_KIWI/raw/master/Install-TD-Experimental-win/TD-Install-Experimental-option.bat) will automatically delete the useless files, saving more time.
+- Using [`TD-Install-Experimental-option.bat`](https://github.com/yeataro/TD_KIWI/raw/master/Install-TD-Experimental-win/TD-Install-Experimental-option.bat) will automatically delete the useless files, saving more time.
 
 ----------
 Author : Yea Chen <yeataro@gmail.com>
