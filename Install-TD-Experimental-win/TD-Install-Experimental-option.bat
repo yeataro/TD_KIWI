@@ -1,4 +1,5 @@
 @Echo off
+IF "%~nx1" == "" GOTO NOdrag
 SET FOLDER=%~d1%~p1%~n1
 MD %FOLDER%_temp
 ECHO Extracting %~n1 ...
@@ -13,3 +14,9 @@ MOVE %FOLDER%_temp\%~n1 %~d1%~p1
 RD /Q %FOLDER%_temp
 ECHO Done.
 pause
+EXIT
+
+:NOdrag
+ECHO Did not drag a file to this batch file. Please drag a TD installation file to this batch file.
+pause
+EXIT
