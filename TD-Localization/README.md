@@ -1,5 +1,6 @@
 TD-Localization
 ---
+###  **Move this thread to a separate [repository](https://github.com/yeataro/TD-Localization). There will be no updates here.**
 ![icon](img/icon.jpg)
 
 Localize the TD user interface. Work in progress.
