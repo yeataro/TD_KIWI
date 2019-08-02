@@ -1,0 +1,2595 @@
+name	chr	tag
+access-point	0xF002	(No Tag 00)
+access-point-network	0xF003	(No Tag 00)
+account	0xF004	Home Automation , Account / User , 
+account-alert	0xF005	Account / User , 
+account-box	0xF006	Account / User , 
+account-box-multiple	0xF933	(No Tag 00)
+account-box-outline	0xF007	Account / User , 
+account-card-details	0xF5D2	Account / User , 
+account-check	0xF008	Account / User , 
+account-circle	0xF009	Account / User , 
+account-convert	0xF00A	Account / User , 
+account-edit	0xF6BB	Account / User , 
+account-group	0xF848	Account / User , 
+account-heart	0xF898	Account / User , 
+account-key	0xF00B	Account / User , 
+account-location	0xF00C	Account / User , 
+account-minus	0xF00D	Account / User , 
+account-multiple	0xF00E	Account / User , 
+account-multiple-check	0xF8C4	Account / User , 
+account-multiple-minus	0xF5D3	Account / User , 
+account-multiple-outline	0xF00F	Account / User , 
+account-multiple-plus	0xF010	Account / User , 
+account-multiple-plus-outline	0xF7FF	Account / User , 
+account-network	0xF011	Account / User , 
+account-off	0xF012	Account / User , 
+account-outline	0xF013	Account / User , 
+account-plus	0xF014	Home Automation , Account / User , 
+account-plus-outline	0xF800	Account / User , 
+account-remove	0xF015	Account / User , 
+account-search	0xF016	Account / User , 
+account-search-outline	0xF934	Account / User , 
+account-settings	0xF630	Settings , Account / User , 
+account-settings-variant	0xF631	Settings , Account / User , 
+account-star	0xF017	Account / User , 
+account-switch	0xF019	Account / User , 
+accusoft	0xF849	Brand / Logo , 
+adjust	0xF01A	(No Tag 00)
+adobe	0xF935	Brand / Logo , 
+air-conditioner	0xF01B	Home Automation , 
+airballoon	0xF01C	Transportation + Flying , Transportation + Other , 
+airplane	0xF01D	Navigation , Transportation + Flying , 
+airplane-landing	0xF5D4	Transportation + Flying , 
+airplane-off	0xF01E	Transportation + Flying , 
+airplane-takeoff	0xF5D5	Transportation + Flying , 
+airplay	0xF01F	Home Automation , 
+airport	0xF84A	Transportation + Flying , Places , 
+alarm	0xF020	(No Tag 00)
+alarm-bell	0xF78D	(No Tag 00)
+alarm-check	0xF021	(No Tag 00)
+alarm-light	0xF78E	(No Tag 00)
+alarm-multiple	0xF022	(No Tag 00)
+alarm-off	0xF023	(No Tag 00)
+alarm-plus	0xF024	(No Tag 00)
+alarm-snooze	0xF68D	(No Tag 00)
+album	0xF025	Audio , 
+alert	0xF026	Alert / Error , 
+alert-box	0xF027	Alert / Error , 
+alert-circle	0xF028	Alert / Error , 
+alert-circle-outline	0xF5D6	Alert / Error , 
+alert-decagram	0xF6BC	Alert / Error , 
+alert-octagon	0xF029	Alert / Error , 
+alert-octagram	0xF766	Alert / Error , 
+alert-outline	0xF02A	Alert / Error , 
+alien	0xF899	(No Tag 00)
+all-inclusive	0xF6BD	(No Tag 00)
+alpha	0xF02B	(No Tag 00)
+alphabetical	0xF02C	(No Tag 00)
+altimeter	0xF5D7	(No Tag 00)
+amazon	0xF02D	Brand / Logo , 
+amazon-alexa	0xF8C5	Brand / Logo , 
+amazon-drive	0xF02E	Brand / Logo , 
+ambulance	0xF02F	Medical / Hospital , Transportation + Road , 
+amplifier	0xF030	Home Automation , 
+anchor	0xF031	(No Tag 00)
+android	0xF032	Brand / Logo , 
+android-debug-bridge	0xF033	(No Tag 00)
+android-head	0xF78F	(No Tag 00)
+android-studio	0xF034	(No Tag 00)
+angle-acute	0xF936	(No Tag 00)
+angle-obtuse	0xF937	(No Tag 00)
+angle-right	0xF938	(No Tag 00)
+angular	0xF6B1	Brand / Logo , 
+angularjs	0xF6BE	Brand / Logo , 
+animation	0xF5D8	(No Tag 00)
+animation-play	0xF939	(No Tag 00)
+anvil	0xF89A	(No Tag 00)
+apple	0xF035	Brand / Logo , 
+apple-finder	0xF036	(No Tag 00)
+apple-icloud	0xF038	Brand / Logo , 
+apple-ios	0xF037	Brand / Logo , 
+apple-keyboard-caps	0xF632	(No Tag 00)
+apple-keyboard-command	0xF633	(No Tag 00)
+apple-keyboard-control	0xF634	(No Tag 00)
+apple-keyboard-option	0xF635	(No Tag 00)
+apple-keyboard-shift	0xF636	(No Tag 00)
+apple-safari	0xF039	Brand / Logo , 
+application	0xF614	(No Tag 00)
+approval	0xF790	(No Tag 00)
+apps	0xF03B	View , 
+arch	0xF8C6	Brand / Logo , 
+archive	0xF03C	(No Tag 00)
+arrange-bring-forward	0xF03D	Arrange , 
+arrange-bring-to-front	0xF03E	Arrange , 
+arrange-send-backward	0xF03F	Arrange , 
+arrange-send-to-back	0xF040	Arrange , 
+arrow-all	0xF041	Arrow , 
+arrow-bottom-left	0xF042	Arrow , 
+arrow-bottom-left-bold-outline	0xF9B6	(No Tag 00)
+arrow-bottom-left-thick	0xF9B7	(No Tag 00)
+arrow-bottom-right	0xF043	Arrow , 
+arrow-bottom-right-bold-outline	0xF9B8	(No Tag 00)
+arrow-bottom-right-thick	0xF9B9	(No Tag 00)
+arrow-collapse	0xF615	Arrow , 
+arrow-collapse-all	0xF044	Arrow , 
+arrow-collapse-down	0xF791	Arrow , 
+arrow-collapse-horizontal	0xF84B	Arrow , 
+arrow-collapse-left	0xF792	Arrow , 
+arrow-collapse-right	0xF793	Arrow , 
+arrow-collapse-up	0xF794	Arrow , 
+arrow-collapse-vertical	0xF84C	Arrow , 
+arrow-decision	0xF9BA	(No Tag 00)
+arrow-decision-auto	0xF9BB	(No Tag 00)
+arrow-decision-auto-outline	0xF9BC	(No Tag 00)
+arrow-decision-outline	0xF9BD	(No Tag 00)
+arrow-down	0xF045	Arrow , 
+arrow-down-bold	0xF72D	Arrow , 
+arrow-down-bold-box	0xF72E	Arrow , 
+arrow-down-bold-box-outline	0xF72F	Arrow , 
+arrow-down-bold-circle	0xF047	Arrow , 
+arrow-down-bold-circle-outline	0xF048	Arrow , 
+arrow-down-bold-hexagon-outline	0xF049	Arrow , 
+arrow-down-bold-outline	0xF9BE	(No Tag 00)
+arrow-down-box	0xF6BF	Arrow , 
+arrow-down-drop-circle	0xF04A	Arrow , 
+arrow-down-drop-circle-outline	0xF04B	Arrow , 
+arrow-down-thick	0xF046	Arrow , 
+arrow-expand	0xF616	Arrow , 
+arrow-expand-all	0xF04C	Arrow , 
+arrow-expand-down	0xF795	Arrow , 
+arrow-expand-horizontal	0xF84D	Arrow , 
+arrow-expand-left	0xF796	Arrow , 
+arrow-expand-right	0xF797	Arrow , 
+arrow-expand-up	0xF798	Arrow , 
+arrow-expand-vertical	0xF84E	Arrow , 
+arrow-left	0xF04D	Arrow , 
+arrow-left-bold	0xF730	Arrow , 
+arrow-left-bold-box	0xF731	Arrow , 
+arrow-left-bold-box-outline	0xF732	Arrow , 
+arrow-left-bold-circle	0xF04F	Arrow , 
+arrow-left-bold-circle-outline	0xF050	Arrow , 
+arrow-left-bold-hexagon-outline	0xF051	Arrow , 
+arrow-left-bold-outline	0xF9BF	(No Tag 00)
+arrow-left-box	0xF6C0	Arrow , 
+arrow-left-drop-circle	0xF052	Arrow , 
+arrow-left-drop-circle-outline	0xF053	Arrow , 
+arrow-left-right-bold-outline	0xF9C0	(No Tag 00)
+arrow-left-thick	0xF04E	Arrow , 
+arrow-right	0xF054	Arrow , 
+arrow-right-bold	0xF733	Arrow , 
+arrow-right-bold-box	0xF734	Arrow , 
+arrow-right-bold-box-outline	0xF735	Arrow , 
+arrow-right-bold-circle	0xF056	Arrow , 
+arrow-right-bold-circle-outline	0xF057	Arrow , 
+arrow-right-bold-hexagon-outline	0xF058	Arrow , 
+arrow-right-bold-outline	0xF9C1	(No Tag 00)
+arrow-right-box	0xF6C1	Arrow , 
+arrow-right-drop-circle	0xF059	Arrow , 
+arrow-right-drop-circle-outline	0xF05A	Arrow , 
+arrow-right-thick	0xF055	Arrow , 
+arrow-split-horizontal	0xF93A	(No Tag 00)
+arrow-split-vertical	0xF93B	(No Tag 00)
+arrow-top-left	0xF05B	Arrow , 
+arrow-top-left-bold-outline	0xF9C2	(No Tag 00)
+arrow-top-left-thick	0xF9C3	(No Tag 00)
+arrow-top-right	0xF05C	Arrow , 
+arrow-top-right-bold-outline	0xF9C4	(No Tag 00)
+arrow-top-right-thick	0xF9C5	(No Tag 00)
+arrow-up	0xF05D	Arrow , 
+arrow-up-bold	0xF736	Arrow , 
+arrow-up-bold-box	0xF737	Arrow , 
+arrow-up-bold-box-outline	0xF738	Arrow , 
+arrow-up-bold-circle	0xF05F	Arrow , 
+arrow-up-bold-circle-outline	0xF060	Arrow , 
+arrow-up-bold-hexagon-outline	0xF061	Arrow , 
+arrow-up-bold-outline	0xF9C6	(No Tag 00)
+arrow-up-box	0xF6C2	Arrow , 
+arrow-up-down-bold-outline	0xF9C7	(No Tag 00)
+arrow-up-drop-circle	0xF062	Arrow , 
+arrow-up-drop-circle-outline	0xF063	Arrow , 
+arrow-up-thick	0xF05E	Arrow , 
+artist	0xF802	(No Tag 00)
+assistant	0xF064	(No Tag 00)
+asterisk	0xF6C3	(No Tag 00)
+at	0xF065	(No Tag 00)
+atlassian	0xF803	Brand / Logo , 
+atom	0xF767	Science , 
+attachment	0xF066	(No Tag 00)
+audio-video	0xF93C	Home Automation , 
+audiobook	0xF067	Audio , 
+augmented-reality	0xF84F	(No Tag 00)
+auto-fix	0xF068	(No Tag 00)
+auto-upload	0xF069	(No Tag 00)
+autorenew	0xF06A	(No Tag 00)
+av-timer	0xF06B	Date / Time , 
+axe	0xF8C7	Hardware / Tools , 
+azure	0xF804	Brand / Logo , 
+baby	0xF06C	(No Tag 00)
+baby-buggy	0xF68E	(No Tag 00)
+backburger	0xF06D	(No Tag 00)
+backspace	0xF06E	(No Tag 00)
+backup-restore	0xF06F	(No Tag 00)
+badminton	0xF850	Sport , 
+ballot	0xF9C8	(No Tag 00)
+ballot-outline	0xF9C9	(No Tag 00)
+bandcamp	0xF674	Brand / Logo , 
+bank	0xF070	Places , Banking , 
+barcode	0xF071	(No Tag 00)
+barcode-scan	0xF072	(No Tag 00)
+barley	0xF073	Food / Drink , Agriculture , 
+barrel	0xF074	(No Tag 00)
+baseball	0xF851	Sport , 
+baseball-bat	0xF852	Sport , 
+basecamp	0xF075	Brand / Logo , 
+basket	0xF076	Shopping , 
+basket-fill	0xF077	Shopping , 
+basket-unfill	0xF078	Shopping , 
+basketball	0xF805	Sport , 
+battery	0xF079	Home Automation , Battery , 
+battery-10	0xF07A	Home Automation , Battery , 
+battery-10-bluetooth	0xF93D	(No Tag 00)
+battery-20	0xF07B	Home Automation , Battery , 
+battery-20-bluetooth	0xF93E	(No Tag 00)
+battery-30	0xF07C	Home Automation , Battery , 
+battery-30-bluetooth	0xF93F	(No Tag 00)
+battery-40	0xF07D	Home Automation , Battery , 
+battery-40-bluetooth	0xF940	(No Tag 00)
+battery-50	0xF07E	Home Automation , Battery , 
+battery-50-bluetooth	0xF941	(No Tag 00)
+battery-60	0xF07F	Home Automation , Battery , 
+battery-60-bluetooth	0xF942	(No Tag 00)
+battery-70	0xF080	Home Automation , Battery , 
+battery-70-bluetooth	0xF943	(No Tag 00)
+battery-80	0xF081	Home Automation , Battery , 
+battery-80-bluetooth	0xF944	(No Tag 00)
+battery-90	0xF082	Home Automation , Battery , 
+battery-90-bluetooth	0xF945	(No Tag 00)
+battery-alert	0xF083	Home Automation , Battery , 
+battery-alert-bluetooth	0xF946	(No Tag 00)
+battery-bluetooth	0xF947	(No Tag 00)
+battery-bluetooth-variant	0xF948	(No Tag 00)
+battery-charging	0xF084	Home Automation , Battery , 
+battery-charging-10	0xF89B	(No Tag 00)
+battery-charging-100	0xF085	Home Automation , Battery , 
+battery-charging-20	0xF086	Home Automation , Battery , 
+battery-charging-30	0xF087	Home Automation , Battery , 
+battery-charging-40	0xF088	Home Automation , Battery , 
+battery-charging-50	0xF89C	(No Tag 00)
+battery-charging-60	0xF089	Home Automation , Battery , 
+battery-charging-70	0xF89D	(No Tag 00)
+battery-charging-80	0xF08A	Home Automation , Battery , 
+battery-charging-90	0xF08B	Home Automation , Battery , 
+battery-charging-outline	0xF89E	(No Tag 00)
+battery-charging-wireless	0xF806	Home Automation , Battery , 
+battery-charging-wireless-10	0xF807	Home Automation , Battery , 
+battery-charging-wireless-20	0xF808	Home Automation , Battery , 
+battery-charging-wireless-30	0xF809	Home Automation , Battery , 
+battery-charging-wireless-40	0xF80A	Home Automation , Battery , 
+battery-charging-wireless-50	0xF80B	Home Automation , Battery , 
+battery-charging-wireless-60	0xF80C	Home Automation , Battery , 
+battery-charging-wireless-70	0xF80D	Home Automation , Battery , 
+battery-charging-wireless-80	0xF80E	Home Automation , Battery , 
+battery-charging-wireless-90	0xF80F	Home Automation , Battery , 
+battery-charging-wireless-alert	0xF810	Home Automation , Battery , 
+battery-charging-wireless-outline	0xF811	Home Automation , Battery , 
+battery-minus	0xF08C	Home Automation , Battery , 
+battery-negative	0xF08D	Home Automation , Battery , 
+battery-outline	0xF08E	Home Automation , Battery , 
+battery-plus	0xF08F	Home Automation , Battery , 
+battery-positive	0xF090	Home Automation , Battery , 
+battery-unknown	0xF091	Home Automation , Battery , 
+battery-unknown-bluetooth	0xF949	(No Tag 00)
+beach	0xF092	Places , 
+beaker	0xF68F	Science , 
+beats	0xF097	Brand / Logo , 
+bed-empty	0xF89F	Home Automation , 
+beer	0xF098	Food / Drink , 
+behance	0xF099	Brand / Logo , 
+bell	0xF09A	Home Automation , Notification , 
+bell-off	0xF09B	Notification , 
+bell-outline	0xF09C	Notification , 
+bell-plus	0xF09D	Notification , 
+bell-ring	0xF09E	Notification , 
+bell-ring-outline	0xF09F	Notification , 
+bell-sleep	0xF0A0	Notification , 
+beta	0xF0A1	(No Tag 00)
+betamax	0xF9CA	(No Tag 00)
+bible	0xF0A2	Religion , 
+bike	0xF0A3	Sport , Transportation + Other , 
+bing	0xF0A4	Brand / Logo , 
+binoculars	0xF0A5	(No Tag 00)
+bio	0xF0A6	(No Tag 00)
+biohazard	0xF0A7	Science , 
+bitbucket	0xF0A8	Brand / Logo , 
+bitcoin	0xF812	Brand / Logo , 
+black-mesa	0xF0A9	Brand / Logo , 
+blackberry	0xF0AA	Brand / Logo , 
+blender	0xF0AB	Brand / Logo , 
+blinds	0xF0AC	Home Automation , 
+block-helper	0xF0AD	(No Tag 00)
+blogger	0xF0AE	Brand / Logo , 
+bluetooth	0xF0AF	(No Tag 00)
+bluetooth-audio	0xF0B0	Audio , 
+bluetooth-connect	0xF0B1	(No Tag 00)
+bluetooth-off	0xF0B2	(No Tag 00)
+bluetooth-settings	0xF0B3	Settings , 
+bluetooth-transfer	0xF0B4	(No Tag 01)
+blur	0xF0B5	(No Tag 01)
+blur-linear	0xF0B6	(No Tag 01)
+blur-off	0xF0B7	(No Tag 01)
+blur-radial	0xF0B8	(No Tag 01)
+bomb	0xF690	(No Tag 01)
+bomb-off	0xF6C4	(No Tag 01)
+bone	0xF0B9	Animal , 
+book	0xF0BA	(No Tag 01)
+book-minus	0xF5D9	(No Tag 01)
+book-multiple	0xF0BB	(No Tag 01)
+book-multiple-variant	0xF0BC	(No Tag 01)
+book-open	0xF0BD	(No Tag 01)
+book-open-page-variant	0xF5DA	(No Tag 01)
+book-open-variant	0xF0BE	(No Tag 01)
+book-plus	0xF5DB	(No Tag 01)
+book-secure	0xF799	(No Tag 01)
+book-unsecure	0xF79A	(No Tag 01)
+book-variant	0xF0BF	(No Tag 01)
+bookmark	0xF0C0	(No Tag 01)
+bookmark-check	0xF0C1	(No Tag 01)
+bookmark-minus	0xF9CB	(No Tag 01)
+bookmark-minus-outline	0xF9CC	(No Tag 01)
+bookmark-music	0xF0C2	(No Tag 01)
+bookmark-off	0xF9CD	(No Tag 01)
+bookmark-off-outline	0xF9CE	(No Tag 01)
+bookmark-outline	0xF0C3	(No Tag 01)
+bookmark-plus	0xF0C5	(No Tag 01)
+bookmark-plus-outline	0xF0C4	(No Tag 01)
+bookmark-remove	0xF0C6	(No Tag 01)
+boombox	0xF5DC	Home Automation , 
+bootstrap	0xF6C5	Brand / Logo , 
+border-all	0xF0C7	Text / Content / Format , 
+border-all-variant	0xF8A0	(No Tag 01)
+border-bottom	0xF0C8	Text / Content / Format , 
+border-bottom-variant	0xF8A1	(No Tag 01)
+border-color	0xF0C9	Color , 
+border-horizontal	0xF0CA	Text / Content / Format , 
+border-inside	0xF0CB	Text / Content / Format , 
+border-left	0xF0CC	Text / Content / Format , 
+border-left-variant	0xF8A2	(No Tag 01)
+border-none	0xF0CD	Text / Content / Format , 
+border-none-variant	0xF8A3	(No Tag 01)
+border-outside	0xF0CE	Text / Content / Format , 
+border-right	0xF0CF	Text / Content / Format , 
+border-right-variant	0xF8A4	(No Tag 01)
+border-style	0xF0D0	Text / Content / Format , 
+border-top	0xF0D1	Text / Content / Format , 
+border-top-variant	0xF8A5	(No Tag 01)
+border-vertical	0xF0D2	Text / Content / Format , 
+bottle-wine	0xF853	(No Tag 01)
+bow-tie	0xF677	Clothing , 
+bowl	0xF617	Food / Drink , 
+bowling	0xF0D3	Sport , 
+box	0xF0D4	Brand / Logo , 
+box-cutter	0xF0D5	(No Tag 01)
+box-shadow	0xF637	(No Tag 01)
+braille	0xF9CF	(No Tag 01)
+brain	0xF9D0	(No Tag 01)
+bridge	0xF618	Places , 
+briefcase	0xF0D6	(No Tag 01)
+briefcase-check	0xF0D7	(No Tag 01)
+briefcase-download	0xF0D8	(No Tag 01)
+briefcase-outline	0xF813	(No Tag 01)
+briefcase-upload	0xF0D9	(No Tag 01)
+brightness-1	0xF0DA	(No Tag 01)
+brightness-2	0xF0DB	(No Tag 01)
+brightness-3	0xF0DC	(No Tag 01)
+brightness-4	0xF0DD	(No Tag 01)
+brightness-5	0xF0DE	(No Tag 01)
+brightness-6	0xF0DF	(No Tag 01)
+brightness-7	0xF0E0	Home Automation , 
+brightness-auto	0xF0E1	(No Tag 01)
+broom	0xF0E2	(No Tag 01)
+brush	0xF0E3	(No Tag 01)
+buddhism	0xF94A	Religion , 
+buffer	0xF619	Brand / Logo , 
+bug	0xF0E4	Nature , 
+bulletin-board	0xF0E5	(No Tag 01)
+bullhorn	0xF0E6	(No Tag 01)
+bullseye	0xF5DD	Sport , 
+bullseye-arrow	0xF8C8	Sport , 
+bus	0xF0E7	Transportation + Road , Navigation , 
+bus-articulated-end	0xF79B	Transportation + Road , 
+bus-articulated-front	0xF79C	Transportation + Road , 
+bus-clock	0xF8C9	Date / Time , 
+bus-double-decker	0xF79D	Transportation + Road , 
+bus-school	0xF79E	Transportation + Road , 
+bus-side	0xF79F	Transportation + Road , 
+cached	0xF0E8	(No Tag 01)
+cake	0xF0E9	Food / Drink , Holiday , 
+cake-layered	0xF0EA	Food / Drink , Holiday , 
+cake-variant	0xF0EB	Food / Drink , Holiday , 
+calculator	0xF0EC	Math , 
+calendar	0xF0ED	Date / Time , 
+calendar-blank	0xF0EE	Date / Time , 
+calendar-check	0xF0EF	Date / Time , 
+calendar-clock	0xF0F0	Date / Time , 
+calendar-edit	0xF8A6	Date / Time , 
+calendar-heart	0xF9D1	(No Tag 01)
+calendar-multiple	0xF0F1	Date / Time , 
+calendar-multiple-check	0xF0F2	Date / Time , 
+calendar-plus	0xF0F3	Date / Time , 
+calendar-question	0xF691	Date / Time , 
+calendar-range	0xF678	Date / Time , 
+calendar-remove	0xF0F4	Date / Time , 
+calendar-search	0xF94B	Date / Time , 
+calendar-star	0xF9D2	(No Tag 01)
+calendar-text	0xF0F5	Date / Time , 
+calendar-today	0xF0F6	Date / Time , 
+call-made	0xF0F7	Cellphone / Phone , 
+call-merge	0xF0F8	Cellphone / Phone , 
+call-missed	0xF0F9	Cellphone / Phone , 
+call-received	0xF0FA	Cellphone / Phone , 
+call-split	0xF0FB	Cellphone / Phone , 
+camcorder	0xF0FC	(No Tag 01)
+camcorder-box	0xF0FD	Video / Movie , 
+camcorder-box-off	0xF0FE	Video / Movie , 
+camcorder-off	0xF0FF	(No Tag 01)
+camera	0xF100	Home Automation , Photography , 
+camera-account	0xF8CA	Account / User , 
+camera-burst	0xF692	Photography , 
+camera-enhance	0xF101	Photography , 
+camera-front	0xF102	Photography , 
+camera-front-variant	0xF103	Photography , 
+camera-gopro	0xF7A0	Device / Tech , Photography , 
+camera-image	0xF8CB	(No Tag 01)
+camera-iris	0xF104	Photography , 
+camera-metering-center	0xF7A1	Photography , 
+camera-metering-matrix	0xF7A2	Photography , 
+camera-metering-partial	0xF7A3	Photography , 
+camera-metering-spot	0xF7A4	Photography , 
+camera-off	0xF5DF	Photography , 
+camera-party-mode	0xF105	Photography , 
+camera-rear	0xF106	Photography , 
+camera-rear-variant	0xF107	Photography , 
+camera-switch	0xF108	Photography , 
+camera-timer	0xF109	Photography , Date / Time , 
+cancel	0xF739	(No Tag 01)
+candle	0xF5E2	(No Tag 01)
+candycane	0xF10A	Food / Drink , Holiday , 
+cannabis	0xF7A5	Medical / Hospital , Nature , 
+car	0xF10B	Navigation , Transportation + Road , 
+car-battery	0xF10C	Battery , 
+car-connected	0xF10D	Transportation + Road , 
+car-convertible	0xF7A6	Transportation + Road , 
+car-estate	0xF7A7	Transportation + Road , 
+car-hatchback	0xF7A8	Transportation + Road , 
+car-limousine	0xF8CC	Transportation + Road , 
+car-pickup	0xF7A9	Transportation + Road , 
+car-side	0xF7AA	Transportation + Road , 
+car-sports	0xF7AB	Transportation + Road , 
+car-wash	0xF10E	Places , Transportation + Road , 
+caravan	0xF7AC	Home Automation , Transportation + Road , 
+cards	0xF638	(No Tag 01)
+cards-club	0xF8CD	(No Tag 01)
+cards-diamond	0xF8CE	(No Tag 01)
+cards-heart	0xF8CF	(No Tag 01)
+cards-outline	0xF639	(No Tag 01)
+cards-playing-outline	0xF63A	(No Tag 01)
+cards-spade	0xF8D0	(No Tag 01)
+cards-variant	0xF6C6	(No Tag 01)
+carrot	0xF10F	Food / Drink , Agriculture , 
+cart	0xF110	Shopping , 
+cart-off	0xF66B	Shopping , 
+cart-outline	0xF111	Shopping , 
+cart-plus	0xF112	Shopping , 
+case-sensitive-alt	0xF113	(No Tag 01)
+cash	0xF114	Banking , Currency , 
+cash-100	0xF115	Banking , Currency , 
+cash-multiple	0xF116	Banking , Currency , 
+cash-usd	0xF117	Banking , Currency , 
+cassette	0xF9D3	(No Tag 01)
+cast	0xF118	Home Automation , 
+cast-connected	0xF119	Home Automation , 
+cast-off	0xF789	Home Automation , 
+castle	0xF11A	Places , 
+cat	0xF11B	Animal , 
+cctv	0xF7AD	Home Automation , 
+ceiling-light	0xF768	Home Automation , 
+cellphone	0xF11C	Device / Tech , Cellphone / Phone , 
+cellphone-android	0xF11D	Device / Tech , Cellphone / Phone , 
+cellphone-arrow-down	0xF9D4	Cellphone / Phone , 
+cellphone-basic	0xF11E	Cellphone / Phone , 
+cellphone-dock	0xF11F	Cellphone / Phone , 
+cellphone-erase	0xF94C	Cellphone / Phone , 
+cellphone-iphone	0xF120	Device / Tech , Cellphone / Phone , 
+cellphone-key	0xF94D	Cellphone / Phone , 
+cellphone-link	0xF121	Cellphone / Phone , 
+cellphone-link-off	0xF122	Cellphone / Phone , 
+cellphone-lock	0xF94E	Cellphone / Phone , 
+cellphone-message	0xF8D2	Cellphone / Phone , 
+cellphone-off	0xF94F	Cellphone / Phone , 
+cellphone-settings	0xF123	Settings , Cellphone / Phone , 
+cellphone-settings-variant	0xF950	Cellphone / Phone , Settings , 
+cellphone-sound	0xF951	Cellphone / Phone , 
+cellphone-text	0xF8D1	Cellphone / Phone , 
+cellphone-wireless	0xF814	Cellphone / Phone , 
+certificate	0xF124	(No Tag 01)
+chair-school	0xF125	(No Tag 01)
+chart-arc	0xF126	(No Tag 01)
+chart-areaspline	0xF127	(No Tag 01)
+chart-bar	0xF128	(No Tag 01)
+chart-bar-stacked	0xF769	(No Tag 01)
+chart-bubble	0xF5E3	(No Tag 01)
+chart-donut	0xF7AE	(No Tag 01)
+chart-donut-variant	0xF7AF	(No Tag 01)
+chart-gantt	0xF66C	(No Tag 01)
+chart-histogram	0xF129	(No Tag 01)
+chart-line	0xF12A	(No Tag 01)
+chart-line-stacked	0xF76A	(No Tag 01)
+chart-line-variant	0xF7B0	(No Tag 01)
+chart-multiline	0xF8D3	(No Tag 01)
+chart-pie	0xF12B	(No Tag 01)
+chart-scatterplot-hexbin	0xF66D	(No Tag 01)
+chart-timeline	0xF66E	(No Tag 01)
+check	0xF12C	(No Tag 01)
+check-all	0xF12D	(No Tag 01)
+check-circle	0xF5E0	(No Tag 01)
+check-circle-outline	0xF5E1	(No Tag 01)
+check-outline	0xF854	(No Tag 01)
+checkbox-blank	0xF12E	(No Tag 01)
+checkbox-blank-circle	0xF12F	(No Tag 01)
+checkbox-blank-circle-outline	0xF130	(No Tag 01)
+checkbox-blank-outline	0xF131	(No Tag 02)
+checkbox-intermediate	0xF855	(No Tag 02)
+checkbox-marked	0xF132	(No Tag 02)
+checkbox-marked-circle	0xF133	(No Tag 02)
+checkbox-marked-circle-outline	0xF134	(No Tag 02)
+checkbox-marked-outline	0xF135	(No Tag 02)
+checkbox-multiple-blank	0xF136	(No Tag 02)
+checkbox-multiple-blank-circle	0xF63B	(No Tag 02)
+checkbox-multiple-blank-circle-outline	0xF63C	(No Tag 02)
+checkbox-multiple-blank-outline	0xF137	(No Tag 02)
+checkbox-multiple-marked	0xF138	(No Tag 02)
+checkbox-multiple-marked-circle	0xF63D	(No Tag 02)
+checkbox-multiple-marked-circle-outline	0xF63E	(No Tag 02)
+checkbox-multiple-marked-outline	0xF139	(No Tag 02)
+checkerboard	0xF13A	(No Tag 02)
+chemical-weapon	0xF13B	(No Tag 02)
+chess-bishop	0xF85B	(No Tag 02)
+chess-king	0xF856	(No Tag 02)
+chess-knight	0xF857	(No Tag 02)
+chess-pawn	0xF858	(No Tag 02)
+chess-queen	0xF859	(No Tag 02)
+chess-rook	0xF85A	(No Tag 02)
+chevron-double-down	0xF13C	Arrow , 
+chevron-double-left	0xF13D	Arrow , 
+chevron-double-right	0xF13E	Arrow , 
+chevron-double-up	0xF13F	Arrow , 
+chevron-down	0xF140	Arrow , 
+chevron-down-box	0xF9D5	(No Tag 02)
+chevron-down-box-outline	0xF9D6	(No Tag 02)
+chevron-left	0xF141	Arrow , 
+chevron-left-box	0xF9D7	(No Tag 02)
+chevron-left-box-outline	0xF9D8	(No Tag 02)
+chevron-right	0xF142	Arrow , 
+chevron-right-box	0xF9D9	(No Tag 02)
+chevron-right-box-outline	0xF9DA	(No Tag 02)
+chevron-up	0xF143	Arrow , 
+chevron-up-box	0xF9DB	(No Tag 02)
+chevron-up-box-outline	0xF9DC	(No Tag 02)
+chili-hot	0xF7B1	Food / Drink , 
+chili-medium	0xF7B2	Food / Drink , 
+chili-mild	0xF7B3	Food / Drink , 
+chip	0xF61A	(No Tag 02)
+christianity	0xF952	Religion , 
+church	0xF144	Places , Religion , 
+circle	0xF764	Shape , 
+circle-edit-outline	0xF8D4	(No Tag 02)
+circle-medium	0xF9DD	(No Tag 02)
+circle-outline	0xF765	Shape , 
+circle-small	0xF9DE	(No Tag 02)
+cisco-webex	0xF145	Brand / Logo , 
+city	0xF146	Places , 
+clipboard	0xF147	(No Tag 02)
+clipboard-account	0xF148	Account / User , 
+clipboard-alert	0xF149	(No Tag 02)
+clipboard-arrow-down	0xF14A	(No Tag 02)
+clipboard-arrow-left	0xF14B	(No Tag 02)
+clipboard-check	0xF14C	(No Tag 02)
+clipboard-check-outline	0xF8A7	(No Tag 02)
+clipboard-flow	0xF6C7	(No Tag 02)
+clipboard-outline	0xF14D	(No Tag 02)
+clipboard-plus	0xF750	(No Tag 02)
+clipboard-pulse	0xF85C	Medical / Hospital , 
+clipboard-pulse-outline	0xF85D	Medical / Hospital , 
+clipboard-text	0xF14E	(No Tag 02)
+clippy	0xF14F	(No Tag 02)
+clock	0xF953	Date / Time , 
+clock-alert	0xF954	Date / Time , 
+clock-alert-outline	0xF5CE	Date / Time , 
+clock-end	0xF151	Date / Time , 
+clock-fast	0xF152	Date / Time , 
+clock-in	0xF153	Date / Time , 
+clock-out	0xF154	Date / Time , 
+clock-outline	0xF150	Date / Time , 
+clock-start	0xF155	Date / Time , 
+close	0xF156	(No Tag 02)
+close-box	0xF157	(No Tag 02)
+close-box-outline	0xF158	(No Tag 02)
+close-circle	0xF159	(No Tag 02)
+close-circle-outline	0xF15A	(No Tag 02)
+close-network	0xF15B	(No Tag 02)
+close-octagon	0xF15C	(No Tag 02)
+close-octagon-outline	0xF15D	(No Tag 02)
+close-outline	0xF6C8	(No Tag 02)
+closed-caption	0xF15E	(No Tag 02)
+cloud	0xF15F	Weather , Cloud , 
+cloud-alert	0xF9DF	(No Tag 02)
+cloud-braces	0xF7B4	Cloud , 
+cloud-check	0xF160	Cloud , 
+cloud-circle	0xF161	Cloud , 
+cloud-download	0xF162	Cloud , 
+cloud-off-outline	0xF164	Cloud , 
+cloud-outline	0xF163	Cloud , 
+cloud-print	0xF165	Home Automation , Printer , Cloud , 
+cloud-print-outline	0xF166	Home Automation , Printer , Cloud , 
+cloud-search	0xF955	(No Tag 02)
+cloud-search-outline	0xF956	(No Tag 02)
+cloud-sync	0xF63F	Cloud , 
+cloud-tags	0xF7B5	Cloud , 
+cloud-upload	0xF167	Cloud , 
+clover	0xF815	Nature , 
+code-array	0xF168	Developer / Languages , 
+code-braces	0xF169	Developer / Languages , 
+code-brackets	0xF16A	Developer / Languages , 
+code-equal	0xF16B	Developer / Languages , 
+code-greater-than	0xF16C	Developer / Languages , 
+code-greater-than-or-equal	0xF16D	Developer / Languages , 
+code-less-than	0xF16E	Developer / Languages , 
+code-less-than-or-equal	0xF16F	Developer / Languages , 
+code-not-equal	0xF170	Developer / Languages , 
+code-not-equal-variant	0xF171	Developer / Languages , 
+code-parentheses	0xF172	Developer / Languages , 
+code-string	0xF173	Developer / Languages , 
+code-tags	0xF174	Developer / Languages , 
+code-tags-check	0xF693	Developer / Languages , 
+codepen	0xF175	Developer / Languages , Brand / Logo , 
+coffee	0xF176	Food / Drink , 
+coffee-outline	0xF6C9	Food / Drink , 
+coffee-to-go	0xF177	Food / Drink , 
+cogs	0xF8D5	Settings , 
+coin	0xF178	Banking , Currency , 
+coins	0xF694	Banking , Currency , 
+collage	0xF640	(No Tag 02)
+color-helper	0xF179	Color , Text / Content / Format , 
+comment	0xF17A	(No Tag 02)
+comment-account	0xF17B	Account / User , 
+comment-account-outline	0xF17C	Account / User , 
+comment-alert	0xF17D	(No Tag 02)
+comment-alert-outline	0xF17E	(No Tag 02)
+comment-arrow-left	0xF9E0	(No Tag 02)
+comment-arrow-left-outline	0xF9E1	(No Tag 02)
+comment-arrow-right	0xF9E2	(No Tag 02)
+comment-arrow-right-outline	0xF9E3	(No Tag 02)
+comment-check	0xF17F	(No Tag 02)
+comment-check-outline	0xF180	(No Tag 02)
+comment-multiple	0xF85E	(No Tag 02)
+comment-multiple-outline	0xF181	(No Tag 02)
+comment-outline	0xF182	(No Tag 02)
+comment-plus	0xF9E4	(No Tag 02)
+comment-plus-outline	0xF183	(No Tag 02)
+comment-processing	0xF184	(No Tag 02)
+comment-processing-outline	0xF185	(No Tag 02)
+comment-question	0xF816	(No Tag 02)
+comment-question-outline	0xF186	(No Tag 02)
+comment-remove	0xF5DE	(No Tag 02)
+comment-remove-outline	0xF187	(No Tag 02)
+comment-text	0xF188	(No Tag 02)
+comment-text-multiple	0xF85F	(No Tag 02)
+comment-text-multiple-outline	0xF860	(No Tag 02)
+comment-text-outline	0xF189	(No Tag 02)
+compare	0xF18A	(No Tag 02)
+compass	0xF18B	Navigation , 
+compass-outline	0xF18C	Navigation , 
+console	0xF18D	(No Tag 02)
+console-line	0xF7B6	(No Tag 02)
+console-network	0xF8A8	(No Tag 02)
+contact-mail	0xF18E	(No Tag 02)
+contacts	0xF6CA	(No Tag 02)
+content-copy	0xF18F	(No Tag 02)
+content-cut	0xF190	(No Tag 02)
+content-duplicate	0xF191	(No Tag 02)
+content-paste	0xF192	(No Tag 02)
+content-save	0xF193	(No Tag 02)
+content-save-all	0xF194	(No Tag 02)
+content-save-outline	0xF817	(No Tag 02)
+content-save-settings	0xF61B	Settings , 
+contrast	0xF195	(No Tag 02)
+contrast-box	0xF196	(No Tag 02)
+contrast-circle	0xF197	(No Tag 02)
+cookie	0xF198	Food / Drink , 
+copyright	0xF5E6	(No Tag 02)
+cordova	0xF957	Brand / Logo , 
+corn	0xF7B7	Food / Drink , Agriculture , 
+counter	0xF199	(No Tag 03)
+cow	0xF19A	Agriculture , Animal , 
+crane	0xF861	(No Tag 03)
+creation	0xF1C9	(No Tag 03)
+credit-card	0xF19B	Banking , Shopping , 
+credit-card-multiple	0xF19C	Banking , 
+credit-card-off	0xF5E4	Banking , 
+credit-card-plus	0xF675	Banking , 
+credit-card-scan	0xF19D	Banking , 
+credit-card-settings	0xF8D6	Settings , Banking , 
+crop	0xF19E	(No Tag 03)
+crop-free	0xF19F	(No Tag 03)
+crop-landscape	0xF1A0	(No Tag 03)
+crop-portrait	0xF1A1	(No Tag 03)
+crop-rotate	0xF695	(No Tag 03)
+crop-square	0xF1A2	(No Tag 03)
+crosshairs	0xF1A3	(No Tag 03)
+crosshairs-gps	0xF1A4	Navigation , 
+crown	0xF1A5	(No Tag 03)
+cryengine	0xF958	Brand / Logo , 
+cube	0xF1A6	Shape , 
+cube-outline	0xF1A7	Shape , 
+cube-send	0xF1A8	(No Tag 03)
+cube-unfolded	0xF1A9	(No Tag 03)
+cup	0xF1AA	Food / Drink , 
+cup-off	0xF5E5	Food / Drink , 
+cup-water	0xF1AB	Food / Drink , 
+cupcake	0xF959	Food / Drink , 
+curling	0xF862	Sport , 
+currency-bdt	0xF863	Currency , Banking , 
+currency-btc	0xF1AC	Brand / Logo , Currency , 
+currency-chf	0xF7B8	Banking , Currency , 
+currency-cny	0xF7B9	Banking , Currency , 
+currency-eth	0xF7BA	Brand / Logo , Currency , 
+currency-eur	0xF1AD	Banking , Currency , 
+currency-gbp	0xF1AE	Banking , Currency , 
+currency-inr	0xF1AF	Banking , Currency , 
+currency-jpy	0xF7BB	Banking , Currency , 
+currency-krw	0xF7BC	Banking , Currency , 
+currency-kzt	0xF864	Currency , Banking , 
+currency-ngn	0xF1B0	Banking , Currency , 
+currency-php	0xF9E5	(No Tag 03)
+currency-rub	0xF1B1	Banking , Currency , 
+currency-sign	0xF7BD	Banking , Currency , 
+currency-try	0xF1B2	Banking , Currency , 
+currency-twd	0xF7BE	Banking , Currency , 
+currency-usd	0xF1B3	Banking , Currency , 
+currency-usd-off	0xF679	Banking , Currency , 
+current-ac	0xF95A	(No Tag 03)
+current-dc	0xF95B	(No Tag 03)
+cursor-default	0xF1B4	(No Tag 03)
+cursor-default-outline	0xF1B5	(No Tag 03)
+cursor-move	0xF1B6	(No Tag 03)
+cursor-pointer	0xF1B7	(No Tag 03)
+cursor-text	0xF5E7	(No Tag 03)
+database	0xF1B8	(No Tag 03)
+database-export	0xF95D	(No Tag 03)
+database-import	0xF95C	(No Tag 03)
+database-minus	0xF1B9	(No Tag 03)
+database-plus	0xF1BA	(No Tag 03)
+database-search	0xF865	(No Tag 03)
+death-star	0xF8D7	(No Tag 03)
+death-star-variant	0xF8D8	(No Tag 03)
+debian	0xF8D9	Brand / Logo , 
+debug-step-into	0xF1BB	(No Tag 03)
+debug-step-out	0xF1BC	(No Tag 03)
+debug-step-over	0xF1BD	(No Tag 03)
+decagram	0xF76B	Shape , 
+decagram-outline	0xF76C	Shape , 
+decimal-decrease	0xF1BE	(No Tag 03)
+decimal-increase	0xF1BF	(No Tag 03)
+delete	0xF1C0	(No Tag 03)
+delete-circle	0xF682	(No Tag 03)
+delete-empty	0xF6CB	(No Tag 03)
+delete-forever	0xF5E8	(No Tag 03)
+delete-outline	0xF9E6	(No Tag 03)
+delete-restore	0xF818	(No Tag 03)
+delete-sweep	0xF5E9	(No Tag 03)
+delete-variant	0xF1C1	(No Tag 03)
+delta	0xF1C2	Math , 
+desk-lamp	0xF95E	(No Tag 03)
+deskphone	0xF1C3	Cellphone / Phone , 
+desktop-classic	0xF7BF	Home Automation , Device / Tech , 
+desktop-mac	0xF1C4	Home Automation , Device / Tech , 
+desktop-mac-dashboard	0xF9E7	(No Tag 03)
+desktop-tower	0xF1C5	Home Automation , Device / Tech , 
+details	0xF1C6	(No Tag 03)
+developer-board	0xF696	(No Tag 03)
+deviantart	0xF1C7	Brand / Logo , 
+dialpad	0xF61C	(No Tag 03)
+diamond	0xF1C8	(No Tag 03)
+dice-1	0xF1CA	(No Tag 03)
+dice-2	0xF1CB	(No Tag 03)
+dice-3	0xF1CC	(No Tag 03)
+dice-4	0xF1CD	(No Tag 03)
+dice-5	0xF1CE	(No Tag 03)
+dice-6	0xF1CF	(No Tag 03)
+dice-d10	0xF76E	(No Tag 03)
+dice-d12	0xF866	(No Tag 03)
+dice-d20	0xF5EA	(No Tag 03)
+dice-d4	0xF5EB	(No Tag 03)
+dice-d6	0xF5EC	(No Tag 03)
+dice-d8	0xF5ED	(No Tag 03)
+dice-multiple	0xF76D	(No Tag 03)
+dictionary	0xF61D	(No Tag 03)
+dip-switch	0xF7C0	(No Tag 03)
+directions	0xF1D0	(No Tag 03)
+directions-fork	0xF641	(No Tag 03)
+disc	0xF5EE	(No Tag 03)
+disc-alert	0xF1D1	(No Tag 03)
+disc-player	0xF95F	Home Automation , 
+discord	0xF66F	Brand / Logo , 
+disqus	0xF1D2	Brand / Logo , 
+disqus-outline	0xF1D3	Brand / Logo , 
+division	0xF1D4	Math , 
+division-box	0xF1D5	Math , 
+dna	0xF683	Science , 
+dns	0xF1D6	(No Tag 03)
+do-not-disturb	0xF697	(No Tag 03)
+do-not-disturb-off	0xF698	(No Tag 03)
+docker	0xF867	Brand / Logo , 
+dolby	0xF6B2	Home Automation , Brand / Logo , Audio , 
+domain	0xF1D7	Places , 
+donkey	0xF7C1	Animal , 
+door	0xF819	Home Automation , 
+door-closed	0xF81A	Home Automation , 
+door-open	0xF81B	Home Automation , 
+doorbell-video	0xF868	Home Automation , 
+dots-horizontal	0xF1D8	(No Tag 03)
+dots-horizontal-circle	0xF7C2	(No Tag 03)
+dots-vertical	0xF1D9	(No Tag 03)
+dots-vertical-circle	0xF7C3	(No Tag 03)
+douban	0xF699	Brand / Logo , 
+download	0xF1DA	(No Tag 03)
+download-multiple	0xF9E8	(No Tag 03)
+download-network	0xF6F3	(No Tag 03)
+drag	0xF1DB	(No Tag 03)
+drag-horizontal	0xF1DC	(No Tag 03)
+drag-vertical	0xF1DD	(No Tag 03)
+drawing	0xF1DE	Shape , Drawing / Art , 
+drawing-box	0xF1DF	Shape , Drawing / Art , 
+dribbble	0xF1E0	Brand / Logo , 
+dribbble-box	0xF1E1	Brand / Logo , 
+drone	0xF1E2	Transportation + Flying , 
+dropbox	0xF1E3	Brand / Logo , 
+drupal	0xF1E4	Brand / Logo , 
+duck	0xF1E5	(No Tag 03)
+dumbbell	0xF1E6	(No Tag 03)
+ear-hearing	0xF7C4	(No Tag 03)
+earth	0xF1E7	(No Tag 03)
+earth-box	0xF6CC	(No Tag 03)
+earth-box-off	0xF6CD	(No Tag 03)
+earth-off	0xF1E8	(No Tag 03)
+edge	0xF1E9	Brand / Logo , 
+eight-track	0xF9E9	(No Tag 03)
+eject	0xF1EA	(No Tag 03)
+elephant	0xF7C5	Animal , 
+elevation-decline	0xF1EB	(No Tag 03)
+elevation-rise	0xF1EC	(No Tag 03)
+elevator	0xF1ED	(No Tag 03)
+email	0xF1EE	(No Tag 03)
+email-alert	0xF6CE	(No Tag 03)
+email-open	0xF1EF	(No Tag 03)
+email-open-outline	0xF5EF	(No Tag 03)
+email-outline	0xF1F0	(No Tag 03)
+email-plus	0xF9EA	(No Tag 03)
+email-plus-outline	0xF9EB	(No Tag 03)
+email-search	0xF960	(No Tag 03)
+email-search-outline	0xF961	(No Tag 04)
+email-secure	0xF1F1	(No Tag 04)
+email-variant	0xF5F0	(No Tag 04)
+emby	0xF6B3	Brand / Logo , 
+emoticon	0xF1F2	Emoji , 
+emoticon-cool	0xF1F3	Emoji , 
+emoticon-dead	0xF69A	Emoji , 
+emoticon-devil	0xF1F4	Emoji , 
+emoticon-excited	0xF69B	Emoji , 
+emoticon-happy	0xF1F5	Emoji , 
+emoticon-neutral	0xF1F6	Emoji , 
+emoticon-poop	0xF1F7	Emoji , 
+emoticon-sad	0xF1F8	Emoji , 
+emoticon-tongue	0xF1F9	Emoji , 
+engine	0xF1FA	(No Tag 04)
+engine-outline	0xF1FB	(No Tag 04)
+equal	0xF1FC	Math , 
+equal-box	0xF1FD	Math , 
+eraser	0xF1FE	(No Tag 04)
+eraser-variant	0xF642	(No Tag 04)
+escalator	0xF1FF	(No Tag 04)
+ethereum	0xF869	Brand / Logo , 
+ethernet	0xF200	(No Tag 04)
+ethernet-cable	0xF201	(No Tag 04)
+ethernet-cable-off	0xF202	(No Tag 04)
+etsy	0xF203	Brand / Logo , 
+ev-station	0xF5F1	Places , 
+eventbrite	0xF7C6	Brand / Logo , 
+evernote	0xF204	Brand / Logo , 
+exclamation	0xF205	(No Tag 04)
+exit-to-app	0xF206	(No Tag 04)
+exponent	0xF962	(No Tag 04)
+exponent-box	0xF963	(No Tag 04)
+export	0xF207	(No Tag 04)
+eye	0xF208	(No Tag 04)
+eye-off	0xF209	(No Tag 04)
+eye-off-outline	0xF6D0	(No Tag 04)
+eye-outline	0xF6CF	(No Tag 04)
+eye-plus	0xF86A	(No Tag 04)
+eye-plus-outline	0xF86B	(No Tag 04)
+eye-settings	0xF86C	Settings , 
+eye-settings-outline	0xF86D	Settings , 
+eyedropper	0xF20A	Color , 
+eyedropper-variant	0xF20B	Color , 
+face	0xF643	(No Tag 04)
+face-profile	0xF644	(No Tag 04)
+facebook	0xF20C	Brand / Logo , 
+facebook-box	0xF20D	Brand / Logo , 
+facebook-messenger	0xF20E	Brand / Logo , 
+factory	0xF20F	Places , 
+fan	0xF210	Home Automation , 
+fan-off	0xF81C	Home Automation , 
+fast-forward	0xF211	(No Tag 04)
+fast-forward-outline	0xF6D1	(No Tag 04)
+fax	0xF212	(No Tag 04)
+feather	0xF6D2	Nature , 
+fedora	0xF8DA	Brand / Logo , 
+ferry	0xF213	Navigation , Transportation + Water , 
+file	0xF214	Files / Folders , 
+file-account	0xF73A	Files / Folders , Account / User , 
+file-chart	0xF215	Files / Folders , 
+file-check	0xF216	Files / Folders , 
+file-cloud	0xF217	Files / Folders , Cloud , 
+file-compare	0xF8A9	Files / Folders , 
+file-delimited	0xF218	Files / Folders , 
+file-document	0xF219	Files / Folders , 
+file-document-box	0xF21A	Files / Folders , 
+file-document-box-outline	0xF9EC	(No Tag 04)
+file-document-outline	0xF9ED	(No Tag 04)
+file-download	0xF964	Files / Folders , 
+file-download-outline	0xF965	Files / Folders , 
+file-excel	0xF21B	Files / Folders , 
+file-excel-box	0xF21C	Files / Folders , 
+file-export	0xF21D	Files / Folders , 
+file-find	0xF21E	Files / Folders , 
+file-hidden	0xF613	Files / Folders , 
+file-image	0xF21F	Files / Folders , 
+file-import	0xF220	Files / Folders , 
+file-lock	0xF221	Files / Folders , Lock , 
+file-multiple	0xF222	Files / Folders , 
+file-music	0xF223	Files / Folders , 
+file-outline	0xF224	Files / Folders , 
+file-pdf	0xF225	Files / Folders , 
+file-pdf-box	0xF226	Files / Folders , 
+file-percent	0xF81D	Files / Folders , 
+file-plus	0xF751	Files / Folders , 
+file-powerpoint	0xF227	Files / Folders , 
+file-powerpoint-box	0xF228	Files / Folders , 
+file-presentation-box	0xF229	Files / Folders , 
+file-question	0xF86E	Files / Folders , 
+file-restore	0xF670	Files / Folders , 
+file-send	0xF22A	Files / Folders , 
+file-tree	0xF645	Files / Folders , 
+file-undo	0xF8DB	Files / Folders , 
+file-video	0xF22B	Files / Folders , Video / Movie , 
+file-word	0xF22C	Files / Folders , 
+file-word-box	0xF22D	Files / Folders , 
+file-xml	0xF22E	Files / Folders , 
+film	0xF22F	Video / Movie , Photography , 
+filmstrip	0xF230	Video / Movie , 
+filmstrip-off	0xF231	Video / Movie , 
+filter	0xF232	(No Tag 04)
+filter-outline	0xF233	(No Tag 04)
+filter-remove	0xF234	(No Tag 04)
+filter-remove-outline	0xF235	(No Tag 04)
+filter-variant	0xF236	(No Tag 04)
+finance	0xF81E	Banking , 
+find-replace	0xF6D3	(No Tag 04)
+fingerprint	0xF237	(No Tag 04)
+fire	0xF238	(No Tag 04)
+fire-truck	0xF8AA	(No Tag 04)
+firebase	0xF966	Brand / Logo , 
+firefox	0xF239	Brand / Logo , 
+fish	0xF23A	Food / Drink , Animal , 
+flag	0xF23B	(No Tag 04)
+flag-checkered	0xF23C	(No Tag 04)
+flag-outline	0xF23D	(No Tag 04)
+flag-triangle	0xF23F	(No Tag 04)
+flag-variant	0xF240	(No Tag 04)
+flag-variant-outline	0xF23E	(No Tag 04)
+flash	0xF241	Weather , 
+flash-auto	0xF242	(No Tag 04)
+flash-circle	0xF81F	(No Tag 04)
+flash-off	0xF243	(No Tag 04)
+flash-outline	0xF6D4	Weather , 
+flash-red-eye	0xF67A	(No Tag 04)
+flashlight	0xF244	(No Tag 04)
+flashlight-off	0xF245	(No Tag 04)
+flask	0xF093	Science , 
+flask-empty	0xF094	Science , 
+flask-empty-outline	0xF095	Science , 
+flask-outline	0xF096	Science , 
+flattr	0xF246	Brand / Logo , 
+flip-to-back	0xF247	Arrange , 
+flip-to-front	0xF248	Arrange , 
+floor-lamp	0xF8DC	Home Automation , 
+floor-plan	0xF820	Home Automation , 
+floppy	0xF249	(No Tag 04)
+floppy-variant	0xF9EE	(No Tag 04)
+flower	0xF24A	Nature , 
+flower-outline	0xF9EF	(No Tag 04)
+flower-tulip	0xF9F0	(No Tag 04)
+flower-tulip-outline	0xF9F1	(No Tag 04)
+folder	0xF24B	Files / Folders , 
+folder-account	0xF24C	Account / User , 
+folder-download	0xF24D	Files / Folders , 
+folder-edit	0xF8DD	Files / Folders , 
+folder-google-drive	0xF24E	Files / Folders , 
+folder-image	0xF24F	Files / Folders , 
+folder-key	0xF8AB	Files / Folders , 
+folder-key-network	0xF8AC	Files / Folders , 
+folder-lock	0xF250	Files / Folders , Lock , 
+folder-lock-open	0xF251	Files / Folders , Lock , 
+folder-move	0xF252	Files / Folders , 
+folder-multiple	0xF253	Files / Folders , 
+folder-multiple-image	0xF254	Files / Folders , 
+folder-multiple-outline	0xF255	Files / Folders , 
+folder-network	0xF86F	Files / Folders , 
+folder-open	0xF76F	Files / Folders , 
+folder-outline	0xF256	Files / Folders , 
+folder-plus	0xF257	Files / Folders , 
+folder-remove	0xF258	Files / Folders , 
+folder-search	0xF967	(No Tag 04)
+folder-search-outline	0xF968	(No Tag 04)
+folder-star	0xF69C	Files / Folders , 
+folder-upload	0xF259	Files / Folders , 
+font-awesome	0xF03A	Brand / Logo , 
+food	0xF25A	Food / Drink , 
+food-apple	0xF25B	Food / Drink , Food / Drink , 
+food-croissant	0xF7C7	Food / Drink , 
+food-fork-drink	0xF5F2	Food / Drink , 
+food-off	0xF5F3	Food / Drink , 
+food-variant	0xF25C	Food / Drink , 
+football	0xF25D	Sport , 
+football-australian	0xF25E	Sport , 
+football-helmet	0xF25F	Sport , 
+forklift	0xF7C8	Transportation + Road , 
+format-align-bottom	0xF752	Text / Content / Format , 
+format-align-center	0xF260	Text / Content / Format , 
+format-align-justify	0xF261	Text / Content / Format , 
+format-align-left	0xF262	Text / Content / Format , 
+format-align-middle	0xF753	Text / Content / Format , 
+format-align-right	0xF263	Text / Content / Format , 
+format-align-top	0xF754	Text / Content / Format , 
+format-annotation-plus	0xF646	Text / Content / Format , 
+format-bold	0xF264	Text / Content / Format , 
+format-clear	0xF265	Text / Content / Format , 
+format-color-fill	0xF266	Color , Text / Content / Format , 
+format-color-text	0xF69D	Color , Text / Content / Format , 
+format-columns	0xF8DE	Text / Content / Format , 
+format-float-center	0xF267	Text / Content / Format , 
+format-float-left	0xF268	Text / Content / Format , 
+format-float-none	0xF269	Text / Content / Format , 
+format-float-right	0xF26A	Text / Content / Format , 
+format-font	0xF6D5	Text / Content / Format , 
+format-font-size-decrease	0xF9F2	(No Tag 04)
+format-font-size-increase	0xF9F3	(No Tag 04)
+format-header-1	0xF26B	Text / Content / Format , 
+format-header-2	0xF26C	Text / Content / Format , 
+format-header-3	0xF26D	Text / Content / Format , 
+format-header-4	0xF26E	Text / Content / Format , 
+format-header-5	0xF26F	Text / Content / Format , 
+format-header-6	0xF270	Text / Content / Format , 
+format-header-decrease	0xF271	Text / Content / Format , 
+format-header-equal	0xF272	Text / Content / Format , 
+format-header-increase	0xF273	Text / Content / Format , 
+format-header-pound	0xF274	Text / Content / Format , 
+format-horizontal-align-center	0xF61E	Text / Content / Format , 
+format-horizontal-align-left	0xF61F	Text / Content / Format , 
+format-horizontal-align-right	0xF620	Text / Content / Format , 
+format-indent-decrease	0xF275	Text / Content / Format , 
+format-indent-increase	0xF276	Text / Content / Format , 
+format-italic	0xF277	Text / Content / Format , 
+format-line-spacing	0xF278	Text / Content / Format , 
+format-line-style	0xF5C8	Drawing / Art , Text / Content / Format , 
+format-line-weight	0xF5C9	Drawing / Art , Text / Content / Format , 
+format-list-bulleted	0xF279	Text / Content / Format , 
+format-list-bulleted-type	0xF27A	Text / Content / Format , 
+format-list-checkbox	0xF969	(No Tag 04)
+format-list-checks	0xF755	Text / Content / Format , 
+format-list-numbers	0xF27B	Text / Content / Format , 
+format-page-break	0xF6D6	Text / Content / Format , 
+format-paint	0xF27C	Text / Content / Format , 
+format-paragraph	0xF27D	Text / Content / Format , 
+format-pilcrow	0xF6D7	Text / Content / Format , 
+format-quote-close	0xF27E	Text / Content / Format , 
+format-quote-open	0xF756	Text / Content / Format , 
+format-rotate-90	0xF6A9	Text / Content / Format , 
+format-section	0xF69E	Text / Content / Format , 
+format-size	0xF27F	Text / Content / Format , 
+format-strikethrough	0xF280	Text / Content / Format , 
+format-strikethrough-variant	0xF281	Text / Content / Format , 
+format-subscript	0xF282	Text / Content / Format , 
+format-superscript	0xF283	Math , Text / Content / Format , 
+format-text	0xF284	Text / Content / Format , 
+format-textdirection-l-to-r	0xF285	Text / Content / Format , 
+format-textdirection-r-to-l	0xF286	Text / Content / Format , 
+format-title	0xF5F4	Text / Content / Format , 
+format-underline	0xF287	Text / Content / Format , 
+format-vertical-align-bottom	0xF621	Text / Content / Format , 
+format-vertical-align-center	0xF622	Text / Content / Format , 
+format-vertical-align-top	0xF623	Text / Content / Format , 
+format-wrap-inline	0xF288	Text / Content / Format , 
+format-wrap-square	0xF289	Text / Content / Format , 
+format-wrap-tight	0xF28A	Text / Content / Format , 
+format-wrap-top-bottom	0xF28B	Text / Content / Format , 
+forum	0xF28C	(No Tag 04)
+forum-outline	0xF821	(No Tag 04)
+forward	0xF28D	(No Tag 04)
+fountain	0xF96A	(No Tag 04)
+foursquare	0xF28E	Brand / Logo , 
+freebsd	0xF8DF	Brand / Logo , 
+fridge	0xF28F	Home Automation , 
+fridge-filled	0xF290	Home Automation , 
+fridge-filled-bottom	0xF291	Home Automation , 
+fridge-filled-top	0xF292	Home Automation , 
+fuel	0xF7C9	(No Tag 04)
+fullscreen	0xF293	(No Tag 04)
+fullscreen-exit	0xF294	(No Tag 04)
+function	0xF295	(No Tag 04)
+function-variant	0xF870	(No Tag 04)
+gamepad	0xF296	Home Automation , 
+gamepad-variant	0xF297	(No Tag 04)
+garage	0xF6D8	Home Automation , 
+garage-alert	0xF871	Home Automation , 
+garage-open	0xF6D9	Home Automation , 
+gas-cylinder	0xF647	(No Tag 04)
+gas-station	0xF298	Places , 
+gate	0xF299	Home Automation , 
+gate-and	0xF8E0	(No Tag 04)
+gate-nand	0xF8E1	(No Tag 04)
+gate-nor	0xF8E2	(No Tag 04)
+gate-not	0xF8E3	(No Tag 04)
+gate-or	0xF8E4	(No Tag 04)
+gate-xnor	0xF8E5	(No Tag 04)
+gate-xor	0xF8E6	(No Tag 04)
+gauge	0xF29A	Home Automation , 
+gauge-empty	0xF872	(No Tag 04)
+gauge-full	0xF873	(No Tag 04)
+gauge-low	0xF874	(No Tag 04)
+gavel	0xF29B	(No Tag 04)
+gender-female	0xF29C	(No Tag 04)
+gender-male	0xF29D	(No Tag 04)
+gender-male-female	0xF29E	(No Tag 04)
+gender-transgender	0xF29F	(No Tag 04)
+gentoo	0xF8E7	Brand / Logo , 
+gesture	0xF7CA	Drawing / Art , 
+gesture-double-tap	0xF73B	(No Tag 04)
+gesture-swipe-down	0xF73C	(No Tag 04)
+gesture-swipe-left	0xF73D	(No Tag 04)
+gesture-swipe-right	0xF73E	(No Tag 04)
+gesture-swipe-up	0xF73F	(No Tag 04)
+gesture-tap	0xF740	(No Tag 04)
+gesture-two-double-tap	0xF741	(No Tag 04)
+gesture-two-tap	0xF742	(No Tag 04)
+ghost	0xF2A0	(No Tag 04)
+ghost-off	0xF9F4	(No Tag 04)
+gift	0xF2A1	Shopping , 
+git	0xF2A2	Brand / Logo , 
+github-box	0xF2A3	Brand / Logo , Developer / Languages , 
+github-circle	0xF2A4	Brand / Logo , Developer / Languages , 
+github-face	0xF6DA	Brand / Logo , Developer / Languages , 
+glass-cocktail	0xF356	Food / Drink , 
+glass-flute	0xF2A5	Food / Drink , 
+glass-mug	0xF2A6	Food / Drink , 
+glass-stange	0xF2A7	Food / Drink , 
+glass-tulip	0xF2A8	Food / Drink , 
+glass-wine	0xF875	Food / Drink , 
+glassdoor	0xF2A9	Brand / Logo , 
+glasses	0xF2AA	(No Tag 04)
+globe-model	0xF8E8	(No Tag 04)
+gmail	0xF2AB	Brand / Logo , 
+gnome	0xF2AC	Brand / Logo , 
+golf	0xF822	Sport , 
+gondola	0xF685	Transportation + Other , 
+google	0xF2AD	Brand / Logo , 
+google-allo	0xF801	Brand / Logo , 
+google-analytics	0xF7CB	Brand / Logo , 
+google-assistant	0xF7CC	Brand / Logo , 
+google-cardboard	0xF2AE	Brand / Logo , 
+google-chrome	0xF2AF	Brand / Logo , 
+google-circles	0xF2B0	(No Tag 04)
+google-circles-communities	0xF2B1	(No Tag 04)
+google-circles-extended	0xF2B2	(No Tag 05)
+google-circles-group	0xF2B3	(No Tag 05)
+google-controller	0xF2B4	(No Tag 05)
+google-controller-off	0xF2B5	(No Tag 05)
+google-drive	0xF2B6	Brand / Logo , 
+google-earth	0xF2B7	Brand / Logo , 
+google-fit	0xF96B	Brand / Logo , 
+google-glass	0xF2B8	Brand / Logo , 
+google-hangouts	0xF2C9	Brand / Logo , 
+google-home	0xF823	Device / Tech , 
+google-keep	0xF6DB	Brand / Logo , 
+google-lens	0xF9F5	(No Tag 05)
+google-maps	0xF5F5	Brand / Logo , Navigation , 
+google-nearby	0xF2B9	(No Tag 05)
+google-pages	0xF2BA	(No Tag 05)
+google-photos	0xF6DC	(No Tag 05)
+google-physical-web	0xF2BB	(No Tag 05)
+google-play	0xF2BC	Brand / Logo , 
+google-plus	0xF2BD	Brand / Logo , 
+google-plus-box	0xF2BE	Brand / Logo , 
+google-spreadsheet	0xF9F6	(No Tag 05)
+google-translate	0xF2BF	Brand / Logo , 
+google-wallet	0xF2C0	Brand / Logo , 
+gpu	0xF8AD	(No Tag 05)
+gradient	0xF69F	(No Tag 05)
+graphql	0xF876	Brand / Logo , 
+grease-pencil	0xF648	Drawing / Art , 
+greater-than	0xF96C	(No Tag 05)
+greater-than-or-equal	0xF96D	(No Tag 05)
+grid	0xF2C1	(No Tag 05)
+grid-large	0xF757	(No Tag 05)
+grid-off	0xF2C2	(No Tag 05)
+group	0xF2C3	(No Tag 05)
+guitar-acoustic	0xF770	(No Tag 05)
+guitar-electric	0xF2C4	(No Tag 05)
+guitar-pick	0xF2C5	(No Tag 05)
+guitar-pick-outline	0xF2C6	(No Tag 05)
+guy-fawkes-mask	0xF824	(No Tag 05)
+hackernews	0xF624	Brand / Logo , 
+hamburger	0xF684	Food / Drink , 
+hammer	0xF8E9	Hardware / Tools , 
+hand-pointing-right	0xF2C7	(No Tag 05)
+hanger	0xF2C8	(No Tag 05)
+hard-hat	0xF96E	(No Tag 05)
+harddisk	0xF2CA	(No Tag 05)
+headphones	0xF2CB	Device / Tech , Audio , 
+headphones-bluetooth	0xF96F	(No Tag 05)
+headphones-box	0xF2CC	Audio , 
+headphones-off	0xF7CD	Device / Tech , Audio , 
+headphones-settings	0xF2CD	Settings , Audio , 
+headset	0xF2CE	Device / Tech , Audio , 
+headset-dock	0xF2CF	Audio , 
+headset-off	0xF2D0	Device / Tech , Audio , 
+heart	0xF2D1	Shape , 
+heart-box	0xF2D2	(No Tag 05)
+heart-box-outline	0xF2D3	(No Tag 05)
+heart-broken	0xF2D4	(No Tag 05)
+heart-circle	0xF970	(No Tag 05)
+heart-circle-outline	0xF971	(No Tag 05)
+heart-half	0xF6DE	(No Tag 05)
+heart-half-full	0xF6DD	(No Tag 05)
+heart-half-outline	0xF6DF	(No Tag 05)
+heart-off	0xF758	(No Tag 05)
+heart-outline	0xF2D5	Shape , 
+heart-pulse	0xF5F6	Medical / Hospital , 
+help	0xF2D6	(No Tag 05)
+help-box	0xF78A	(No Tag 05)
+help-circle	0xF2D7	(No Tag 05)
+help-circle-outline	0xF625	(No Tag 05)
+help-network	0xF6F4	(No Tag 05)
+hexagon	0xF2D8	Shape , 
+hexagon-multiple	0xF6E0	Shape , 
+hexagon-outline	0xF2D9	Shape , 
+high-definition	0xF7CE	Video / Movie , 
+high-definition-box	0xF877	Video / Movie , 
+highway	0xF5F7	(No Tag 05)
+hinduism	0xF972	Religion , 
+history	0xF2DA	(No Tag 05)
+hockey-puck	0xF878	Sport , 
+hockey-sticks	0xF879	Sport , 
+hololens	0xF2DB	(No Tag 05)
+home	0xF2DC	Places , Home Automation , 
+home-account	0xF825	Home Automation , Account / User , 
+home-alert	0xF87A	Home Automation , 
+home-assistant	0xF7CF	Home Automation , Brand / Logo , 
+home-automation	0xF7D0	Home Automation , 
+home-circle	0xF7D1	Home Automation , 
+home-currency-usd	0xF8AE	(No Tag 05)
+home-heart	0xF826	Home Automation , 
+home-lock	0xF8EA	Lock , Home Automation , 
+home-lock-open	0xF8EB	Lock , Home Automation , 
+home-map-marker	0xF5F8	Navigation , Home Automation , 
+home-minus	0xF973	Home Automation , 
+home-modern	0xF2DD	Home Automation , 
+home-outline	0xF6A0	Home Automation , 
+home-plus	0xF974	Home Automation , 
+home-variant	0xF2DE	Home Automation , 
+hook	0xF6E1	(No Tag 05)
+hook-off	0xF6E2	(No Tag 05)
+hops	0xF2DF	Food / Drink , 
+hospital	0xF2E0	Medical / Hospital , 
+hospital-building	0xF2E1	Medical / Hospital , Places , 
+hospital-marker	0xF2E2	Medical / Hospital , 
+hot-tub	0xF827	(No Tag 05)
+hotel	0xF2E3	Home Automation , 
+houzz	0xF2E4	Brand / Logo , 
+houzz-box	0xF2E5	Brand / Logo , 
+hulu	0xF828	Brand / Logo , 
+human	0xF2E6	(No Tag 05)
+human-child	0xF2E7	(No Tag 05)
+human-female	0xF649	(No Tag 05)
+human-greeting	0xF64A	(No Tag 05)
+human-handsdown	0xF64B	(No Tag 05)
+human-handsup	0xF64C	(No Tag 05)
+human-male	0xF64D	(No Tag 05)
+human-male-female	0xF2E8	(No Tag 05)
+human-pregnant	0xF5CF	(No Tag 05)
+humble-bundle	0xF743	Brand / Logo , 
+ice-cream	0xF829	Food / Drink , 
+image	0xF2E9	(No Tag 05)
+image-album	0xF2EA	(No Tag 05)
+image-area	0xF2EB	(No Tag 05)
+image-area-close	0xF2EC	(No Tag 05)
+image-broken	0xF2ED	(No Tag 05)
+image-broken-variant	0xF2EE	(No Tag 05)
+image-filter	0xF2EF	(No Tag 05)
+image-filter-black-white	0xF2F0	(No Tag 05)
+image-filter-center-focus	0xF2F1	(No Tag 05)
+image-filter-center-focus-weak	0xF2F2	(No Tag 05)
+image-filter-drama	0xF2F3	(No Tag 05)
+image-filter-frames	0xF2F4	(No Tag 05)
+image-filter-hdr	0xF2F5	(No Tag 05)
+image-filter-none	0xF2F6	(No Tag 05)
+image-filter-tilt-shift	0xF2F7	(No Tag 05)
+image-filter-vintage	0xF2F8	(No Tag 05)
+image-move	0xF9F7	(No Tag 05)
+image-multiple	0xF2F9	(No Tag 05)
+image-off	0xF82A	(No Tag 05)
+image-outline	0xF975	(No Tag 05)
+image-plus	0xF87B	(No Tag 05)
+image-search	0xF976	(No Tag 05)
+image-search-outline	0xF977	(No Tag 05)
+import	0xF2FA	(No Tag 05)
+inbox	0xF686	(No Tag 05)
+inbox-arrow-down	0xF2FB	(No Tag 05)
+inbox-arrow-up	0xF3D1	(No Tag 05)
+inbox-multiple	0xF8AF	(No Tag 05)
+incognito	0xF5F9	(No Tag 05)
+infinity	0xF6E3	Math , 
+information	0xF2FC	(No Tag 05)
+information-outline	0xF2FD	(No Tag 05)
+information-variant	0xF64E	(No Tag 05)
+instagram	0xF2FE	Brand / Logo , 
+instapaper	0xF2FF	Brand / Logo , 
+internet-explorer	0xF300	Brand / Logo , 
+invert-colors	0xF301	Color , 
+islam	0xF978	Religion , 
+itunes	0xF676	Brand / Logo , 
+jeepney	0xF302	Transportation + Road , 
+jira	0xF303	Brand / Logo , 
+jquery	0xF87C	Brand / Logo , 
+jsfiddle	0xF304	Brand / Logo , 
+json	0xF626	(No Tag 05)
+judaism	0xF979	Religion , 
+karate	0xF82B	Sport , 
+keg	0xF305	Food / Drink , 
+kettle	0xF5FA	Food / Drink , Home Automation , 
+key	0xF306	(No Tag 05)
+key-change	0xF307	(No Tag 05)
+key-minus	0xF308	(No Tag 05)
+key-plus	0xF309	(No Tag 05)
+key-remove	0xF30A	(No Tag 05)
+key-variant	0xF30B	(No Tag 05)
+keyboard	0xF30C	(No Tag 05)
+keyboard-backspace	0xF30D	(No Tag 05)
+keyboard-caps	0xF30E	(No Tag 05)
+keyboard-close	0xF30F	(No Tag 06)
+keyboard-off	0xF310	(No Tag 06)
+keyboard-outline	0xF97A	(No Tag 06)
+keyboard-return	0xF311	(No Tag 06)
+keyboard-settings	0xF9F8	(No Tag 06)
+keyboard-settings-outline	0xF9F9	(No Tag 06)
+keyboard-tab	0xF312	(No Tag 06)
+keyboard-variant	0xF313	(No Tag 06)
+kickstarter	0xF744	Brand / Logo , 
+knife	0xF9FA	(No Tag 06)
+knife-military	0xF9FB	(No Tag 06)
+kodi	0xF314	Brand / Logo , 
+label	0xF315	(No Tag 06)
+label-outline	0xF316	(No Tag 06)
+ladybug	0xF82C	Nature , 
+lambda	0xF627	(No Tag 06)
+lamp	0xF6B4	Home Automation , 
+lan	0xF317	(No Tag 06)
+lan-connect	0xF318	(No Tag 06)
+lan-disconnect	0xF319	(No Tag 06)
+lan-pending	0xF31A	(No Tag 06)
+language-c	0xF671	Developer / Languages , 
+language-cpp	0xF672	Developer / Languages , 
+language-csharp	0xF31B	Developer / Languages , 
+language-css3	0xF31C	Developer / Languages , 
+language-go	0xF7D2	Developer / Languages , 
+language-html5	0xF31D	Developer / Languages , 
+language-javascript	0xF31E	Developer / Languages , 
+language-lua	0xF8B0	Developer / Languages , 
+language-php	0xF31F	Developer / Languages , 
+language-python	0xF320	Developer / Languages , 
+language-python-text	0xF321	Developer / Languages , 
+language-r	0xF7D3	Developer / Languages , 
+language-swift	0xF6E4	Developer / Languages , 
+language-typescript	0xF6E5	Developer / Languages , 
+laptop	0xF322	Home Automation , Device / Tech , 
+laptop-chromebook	0xF323	Home Automation , Device / Tech , 
+laptop-mac	0xF324	Home Automation , Device / Tech , 
+laptop-off	0xF6E6	Device / Tech , 
+laptop-windows	0xF325	Home Automation , Device / Tech , 
+lastfm	0xF326	Brand / Logo , 
+lastpass	0xF446	Brand / Logo , 
+launch	0xF327	(No Tag 06)
+lava-lamp	0xF7D4	Home Automation , 
+layers	0xF328	(No Tag 06)
+layers-off	0xF329	(No Tag 06)
+layers-off-outline	0xF9FC	(No Tag 06)
+layers-outline	0xF9FD	(No Tag 06)
+lead-pencil	0xF64F	Drawing / Art , 
+leaf	0xF32A	Nature , 
+led-off	0xF32B	Home Automation , 
+led-on	0xF32C	Home Automation , 
+led-outline	0xF32D	Home Automation , 
+led-strip	0xF7D5	Home Automation , 
+led-variant-off	0xF32E	Home Automation , 
+led-variant-on	0xF32F	Home Automation , 
+led-variant-outline	0xF330	Home Automation , 
+less-than	0xF97B	(No Tag 06)
+less-than-or-equal	0xF97C	(No Tag 06)
+library	0xF331	Places , 
+library-books	0xF332	(No Tag 06)
+library-music	0xF333	(No Tag 06)
+library-plus	0xF334	(No Tag 06)
+lifebuoy	0xF87D	(No Tag 06)
+light-switch	0xF97D	Home Automation , 
+lightbulb	0xF335	Home Automation , 
+lightbulb-on	0xF6E7	Home Automation , 
+lightbulb-on-outline	0xF6E8	Home Automation , 
+lightbulb-outline	0xF336	Home Automation , 
+lighthouse	0xF9FE	(No Tag 06)
+lighthouse-on	0xF9FF	(No Tag 06)
+link	0xF337	(No Tag 06)
+link-off	0xF338	(No Tag 06)
+link-variant	0xF339	(No Tag 06)
+link-variant-off	0xF33A	(No Tag 06)
+linkedin	0xF33B	Brand / Logo , 
+linkedin-box	0xF33C	Brand / Logo , 
+linux	0xF33D	Brand / Logo , Animal , 
+linux-mint	0xF8EC	Brand / Logo , 
+loading	0xF771	(No Tag 06)
+lock	0xF33E	Home Automation , Lock , 
+lock-alert	0xF8ED	Lock , 
+lock-clock	0xF97E	Date / Time , Lock , 
+lock-open	0xF33F	Home Automation , Lock , 
+lock-open-outline	0xF340	Home Automation , Lock , 
+lock-outline	0xF341	Home Automation , Lock , 
+lock-pattern	0xF6E9	(No Tag 06)
+lock-plus	0xF5FB	Lock , 
+lock-question	0xF8EE	Lock , 
+lock-reset	0xF772	Lock , 
+lock-smart	0xF8B1	Home Automation , 
+locker	0xF7D6	(No Tag 06)
+locker-multiple	0xF7D7	(No Tag 06)
+login	0xF342	(No Tag 06)
+login-variant	0xF5FC	(No Tag 06)
+logout	0xF343	(No Tag 06)
+logout-variant	0xF5FD	(No Tag 06)
+looks	0xF344	Weather , 
+loop	0xF6EA	(No Tag 06)
+loupe	0xF345	(No Tag 06)
+lumx	0xF346	Brand / Logo , 
+magnet	0xF347	(No Tag 06)
+magnet-on	0xF348	(No Tag 06)
+magnify	0xF349	(No Tag 06)
+magnify-close	0xF97F	(No Tag 06)
+magnify-minus	0xF34A	(No Tag 06)
+magnify-minus-outline	0xF6EB	(No Tag 06)
+magnify-plus	0xF34B	(No Tag 06)
+magnify-plus-outline	0xF6EC	(No Tag 06)
+mail-ru	0xF34C	Brand / Logo , 
+mailbox	0xF6ED	(No Tag 06)
+map	0xF34D	Navigation , 
+map-legend	0xFA00	(No Tag 06)
+map-marker	0xF34E	Navigation , 
+map-marker-circle	0xF34F	(No Tag 06)
+map-marker-distance	0xF8EF	(No Tag 06)
+map-marker-minus	0xF650	(No Tag 06)
+map-marker-multiple	0xF350	(No Tag 06)
+map-marker-off	0xF351	(No Tag 06)
+map-marker-outline	0xF7D8	(No Tag 06)
+map-marker-plus	0xF651	(No Tag 06)
+map-marker-radius	0xF352	(No Tag 06)
+map-minus	0xF980	Navigation , 
+map-outline	0xF981	Navigation , 
+map-plus	0xF982	Navigation , 
+map-search	0xF983	Navigation , 
+map-search-outline	0xF984	Navigation , 
+margin	0xF353	(No Tag 06)
+markdown	0xF354	(No Tag 06)
+marker	0xF652	(No Tag 06)
+marker-check	0xF355	(No Tag 06)
+material-design	0xF985	(No Tag 06)
+material-ui	0xF357	Brand / Logo , 
+math-compass	0xF358	Math , 
+matrix	0xF628	(No Tag 06)
+maxcdn	0xF359	Brand / Logo , 
+medal	0xF986	(No Tag 06)
+medical-bag	0xF6EE	Medical / Hospital , 
+medium	0xF35A	Brand / Logo , 
+memory	0xF35B	(No Tag 06)
+menu	0xF35C	(No Tag 06)
+menu-down	0xF35D	Arrow , 
+menu-down-outline	0xF6B5	Arrow , 
+menu-left	0xF35E	Arrow , 
+menu-left-outline	0xFA01	(No Tag 06)
+menu-right	0xF35F	Arrow , 
+menu-right-outline	0xFA02	(No Tag 06)
+menu-up	0xF360	Arrow , 
+menu-up-outline	0xF6B6	Arrow , 
+message	0xF361	(No Tag 06)
+message-alert	0xF362	(No Tag 06)
+message-alert-outline	0xFA03	(No Tag 06)
+message-bulleted	0xF6A1	(No Tag 06)
+message-bulleted-off	0xF6A2	(No Tag 06)
+message-draw	0xF363	(No Tag 06)
+message-image	0xF364	(No Tag 06)
+message-outline	0xF365	(No Tag 06)
+message-plus	0xF653	(No Tag 06)
+message-processing	0xF366	(No Tag 06)
+message-reply	0xF367	(No Tag 06)
+message-reply-text	0xF368	(No Tag 06)
+message-settings	0xF6EF	Settings , 
+message-settings-variant	0xF6F0	Settings , 
+message-text	0xF369	(No Tag 06)
+message-text-outline	0xF36A	(No Tag 06)
+message-video	0xF36B	Video / Movie , 
+meteor	0xF629	Brand / Logo , 
+metronome	0xF7D9	(No Tag 06)
+metronome-tick	0xF7DA	(No Tag 06)
+micro-sd	0xF7DB	(No Tag 06)
+microphone	0xF36C	(No Tag 06)
+microphone-minus	0xF8B2	(No Tag 06)
+microphone-off	0xF36D	(No Tag 06)
+microphone-outline	0xF36E	(No Tag 06)
+microphone-plus	0xF8B3	(No Tag 06)
+microphone-settings	0xF36F	Settings , 
+microphone-variant	0xF370	(No Tag 06)
+microphone-variant-off	0xF371	(No Tag 06)
+microscope	0xF654	Science , 
+microsoft	0xF372	Brand / Logo , 
+microsoft-dynamics	0xF987	Brand / Logo , 
+midi	0xF8F0	Brand / Logo , 
+midi-port	0xF8F1	(No Tag 06)
+minecraft	0xF373	Brand / Logo , 
+mini-sd	0xFA04	(No Tag 06)
+minidisc	0xFA05	(No Tag 06)
+minus	0xF374	Math , 
+minus-box	0xF375	Math , 
+minus-box-outline	0xF6F1	Math , 
+minus-circle	0xF376	(No Tag 07)
+minus-circle-outline	0xF377	(No Tag 07)
+minus-network	0xF378	(No Tag 07)
+mixcloud	0xF62A	Brand / Logo , 
+mixed-reality	0xF87E	(No Tag 07)
+mixer	0xF7DC	Brand / Logo , 
+monitor	0xF379	Device / Tech , 
+monitor-cellphone	0xF988	Cellphone / Phone , 
+monitor-cellphone-star	0xF989	Cellphone / Phone , 
+monitor-dashboard	0xFA06	(No Tag 07)
+monitor-multiple	0xF37A	Device / Tech , 
+more	0xF37B	(No Tag 07)
+motorbike	0xF37C	Sport , Transportation + Road , 
+mouse	0xF37D	(No Tag 07)
+mouse-bluetooth	0xF98A	(No Tag 07)
+mouse-off	0xF37E	(No Tag 07)
+mouse-variant	0xF37F	(No Tag 07)
+mouse-variant-off	0xF380	(No Tag 07)
+move-resize	0xF655	(No Tag 07)
+move-resize-variant	0xF656	(No Tag 07)
+movie	0xF381	Video / Movie , 
+movie-roll	0xF7DD	Video / Movie , 
+muffin	0xF98B	Food / Drink , 
+multiplication	0xF382	Math , 
+multiplication-box	0xF383	Math , 
+mushroom	0xF7DE	Food / Drink , Nature , 
+mushroom-outline	0xF7DF	Food / Drink , Nature , 
+music	0xF759	Audio , 
+music-box	0xF384	Audio , 
+music-box-outline	0xF385	Audio , 
+music-circle	0xF386	Audio , 
+music-note	0xF387	Audio , 
+music-note-bluetooth	0xF5FE	Audio , 
+music-note-bluetooth-off	0xF5FF	Audio , 
+music-note-eighth	0xF388	Audio , 
+music-note-half	0xF389	Audio , 
+music-note-off	0xF38A	Audio , 
+music-note-quarter	0xF38B	Audio , 
+music-note-sixteenth	0xF38C	Audio , 
+music-note-whole	0xF38D	Audio , 
+music-off	0xF75A	Audio , 
+nas	0xF8F2	(No Tag 07)
+nativescript	0xF87F	Brand / Logo , 
+nature	0xF38E	Nature , 
+nature-people	0xF38F	Account / User , 
+navigation	0xF390	Navigation , 
+near-me	0xF5CD	(No Tag 07)
+needle	0xF391	Medical / Hospital , 
+netflix	0xF745	Brand / Logo , 
+network	0xF6F2	(No Tag 07)
+network-strength-1	0xF8F3	Cellphone / Phone , 
+network-strength-1-alert	0xF8F4	Cellphone / Phone , 
+network-strength-2	0xF8F5	Cellphone / Phone , 
+network-strength-2-alert	0xF8F6	Cellphone / Phone , 
+network-strength-3	0xF8F7	Cellphone / Phone , 
+network-strength-3-alert	0xF8F8	Cellphone / Phone , 
+network-strength-4	0xF8F9	Cellphone / Phone , 
+network-strength-4-alert	0xF8FA	Cellphone / Phone , 
+network-strength-off	0xF8FB	Cellphone / Phone , 
+network-strength-off-outline	0xF8FC	Cellphone / Phone , 
+network-strength-outline	0xF8FD	Cellphone / Phone , 
+new-box	0xF394	(No Tag 07)
+newspaper	0xF395	(No Tag 07)
+nfc	0xF396	(No Tag 07)
+nfc-tap	0xF397	(No Tag 07)
+nfc-variant	0xF398	(No Tag 07)
+ninja	0xF773	(No Tag 07)
+nintendo-switch	0xF7E0	Brand / Logo , 
+nodejs	0xF399	Brand / Logo , 
+not-equal	0xF98C	(No Tag 07)
+not-equal-variant	0xF98D	(No Tag 07)
+note	0xF39A	(No Tag 07)
+note-multiple	0xF6B7	(No Tag 07)
+note-multiple-outline	0xF6B8	(No Tag 07)
+note-outline	0xF39B	(No Tag 07)
+note-plus	0xF39C	(No Tag 07)
+note-plus-outline	0xF39D	(No Tag 07)
+note-text	0xF39E	(No Tag 07)
+notebook	0xF82D	(No Tag 07)
+notification-clear-all	0xF39F	Notification , 
+npm	0xF6F6	Brand / Logo , 
+npm-variant	0xF98E	Brand / Logo , 
+npm-variant-outline	0xF98F	Brand / Logo , 
+nuke	0xF6A3	(No Tag 07)
+null	0xF7E1	(No Tag 07)
+numeric	0xF3A0	(No Tag 07)
+numeric-0-box	0xF3A1	(No Tag 07)
+numeric-0-box-multiple-outline	0xF3A2	(No Tag 07)
+numeric-0-box-outline	0xF3A3	(No Tag 07)
+numeric-1-box	0xF3A4	(No Tag 07)
+numeric-1-box-multiple-outline	0xF3A5	(No Tag 07)
+numeric-1-box-outline	0xF3A6	(No Tag 07)
+numeric-2-box	0xF3A7	(No Tag 07)
+numeric-2-box-multiple-outline	0xF3A8	(No Tag 07)
+numeric-2-box-outline	0xF3A9	(No Tag 07)
+numeric-3-box	0xF3AA	(No Tag 07)
+numeric-3-box-multiple-outline	0xF3AB	(No Tag 07)
+numeric-3-box-outline	0xF3AC	(No Tag 07)
+numeric-4-box	0xF3AD	(No Tag 07)
+numeric-4-box-multiple-outline	0xF3AE	(No Tag 07)
+numeric-4-box-outline	0xF3AF	(No Tag 07)
+numeric-5-box	0xF3B0	(No Tag 07)
+numeric-5-box-multiple-outline	0xF3B1	(No Tag 07)
+numeric-5-box-outline	0xF3B2	(No Tag 07)
+numeric-6-box	0xF3B3	(No Tag 07)
+numeric-6-box-multiple-outline	0xF3B4	(No Tag 07)
+numeric-6-box-outline	0xF3B5	(No Tag 07)
+numeric-7-box	0xF3B6	(No Tag 07)
+numeric-7-box-multiple-outline	0xF3B7	(No Tag 07)
+numeric-7-box-outline	0xF3B8	(No Tag 07)
+numeric-8-box	0xF3B9	(No Tag 07)
+numeric-8-box-multiple-outline	0xF3BA	(No Tag 07)
+numeric-8-box-outline	0xF3BB	(No Tag 07)
+numeric-9-box	0xF3BC	(No Tag 07)
+numeric-9-box-multiple-outline	0xF3BD	(No Tag 07)
+numeric-9-box-outline	0xF3BE	(No Tag 07)
+numeric-9-plus-box	0xF3BF	(No Tag 07)
+numeric-9-plus-box-multiple-outline	0xF3C0	(No Tag 07)
+numeric-9-plus-box-outline	0xF3C1	(No Tag 07)
+nut	0xF6F7	Hardware / Tools , 
+nutrition	0xF3C2	Food / Drink , 
+oar	0xF67B	(No Tag 07)
+octagon	0xF3C3	Shape , 
+octagon-outline	0xF3C4	Shape , 
+octagram	0xF6F8	Shape , 
+octagram-outline	0xF774	Shape , 
+odnoklassniki	0xF3C5	Brand / Logo , 
+office	0xF3C6	Brand / Logo , 
+office-building	0xF990	Places , 
+oil	0xF3C7	(No Tag 07)
+oil-temperature	0xF3C8	(No Tag 07)
+omega	0xF3C9	(No Tag 07)
+onedrive	0xF3CA	Brand / Logo , 
+onenote	0xF746	Brand / Logo , 
+onepassword	0xF880	Brand / Logo , 
+opacity	0xF5CC	(No Tag 07)
+open-in-app	0xF3CB	(No Tag 07)
+open-in-new	0xF3CC	(No Tag 07)
+openid	0xF3CD	Brand / Logo , 
+opera	0xF3CE	Brand / Logo , 
+orbit	0xF018	Science , 
+ornament	0xF3CF	Holiday , 
+ornament-variant	0xF3D0	Holiday , 
+owl	0xF3D2	Animal , 
+package	0xF3D3	(No Tag 07)
+package-down	0xF3D4	(No Tag 07)
+package-up	0xF3D5	(No Tag 07)
+package-variant	0xF3D6	(No Tag 07)
+package-variant-closed	0xF3D7	(No Tag 07)
+page-first	0xF600	(No Tag 07)
+page-last	0xF601	(No Tag 07)
+page-layout-body	0xF6F9	(No Tag 07)
+page-layout-footer	0xF6FA	(No Tag 07)
+page-layout-header	0xF6FB	(No Tag 07)
+page-layout-sidebar-left	0xF6FC	(No Tag 07)
+page-layout-sidebar-right	0xF6FD	(No Tag 07)
+palette	0xF3D8	Color , 
+palette-advanced	0xF3D9	Color , 
+palette-swatch	0xF8B4	(No Tag 07)
+panda	0xF3DA	Animal , 
+pandora	0xF3DB	Brand / Logo , 
+panorama	0xF3DC	(No Tag 07)
+panorama-fisheye	0xF3DD	(No Tag 07)
+panorama-horizontal	0xF3DE	(No Tag 07)
+panorama-vertical	0xF3DF	(No Tag 07)
+panorama-wide-angle	0xF3E0	(No Tag 07)
+paper-cut-vertical	0xF3E1	(No Tag 07)
+paperclip	0xF3E2	(No Tag 07)
+parking	0xF3E3	Places , 
+passport	0xF7E2	(No Tag 07)
+patreon	0xF881	Brand / Logo , 
+pause	0xF3E4	Home Automation , 
+pause-circle	0xF3E5	(No Tag 07)
+pause-circle-outline	0xF3E6	(No Tag 07)
+pause-octagon	0xF3E7	(No Tag 07)
+pause-octagon-outline	0xF3E8	(No Tag 07)
+paw	0xF3E9	Nature , Animal , 
+paw-off	0xF657	Animal , 
+paypal	0xF882	Brand / Logo , 
+peace	0xF883	(No Tag 08)
+pen	0xF3EA	(No Tag 08)
+pencil	0xF3EB	Edit / Modify , Drawing / Art , 
+pencil-box	0xF3EC	Drawing / Art , 
+pencil-box-outline	0xF3ED	Drawing / Art , 
+pencil-circle	0xF6FE	Drawing / Art , 
+pencil-circle-outline	0xF775	Drawing / Art , 
+pencil-lock	0xF3EE	(No Tag 08)
+pencil-off	0xF3EF	(No Tag 08)
+pentagon	0xF6FF	Shape , 
+pentagon-outline	0xF700	Shape , 
+percent	0xF3F0	Math , 
+periodic-table	0xF8B5	(No Tag 08)
+periodic-table-co2	0xF7E3	Home Automation , Science , 
+periscope	0xF747	Brand / Logo , 
+pharmacy	0xF3F1	Medical / Hospital , 
+phone	0xF3F2	Cellphone / Phone , 
+phone-bluetooth	0xF3F3	Cellphone / Phone , 
+phone-classic	0xF602	Cellphone / Phone , 
+phone-forward	0xF3F4	Cellphone / Phone , 
+phone-hangup	0xF3F5	Cellphone / Phone , 
+phone-in-talk	0xF3F6	Cellphone / Phone , 
+phone-incoming	0xF3F7	Cellphone / Phone , 
+phone-locked	0xF3F8	Cellphone / Phone , 
+phone-log	0xF3F9	Cellphone / Phone , 
+phone-minus	0xF658	Cellphone / Phone , 
+phone-missed	0xF3FA	Cellphone / Phone , 
+phone-outgoing	0xF3FB	Cellphone / Phone , 
+phone-paused	0xF3FC	Cellphone / Phone , 
+phone-plus	0xF659	Cellphone / Phone , 
+phone-return	0xF82E	Cellphone / Phone , 
+phone-rotate-landscape	0xF884	Cellphone / Phone , 
+phone-rotate-portrait	0xF885	Cellphone / Phone , 
+phone-settings	0xF3FD	Cellphone / Phone , Settings , 
+phone-voip	0xF3FE	Cellphone / Phone , 
+pi	0xF3FF	Math , 
+pi-box	0xF400	Math , 
+piano	0xF67C	(No Tag 08)
+pickaxe	0xF8B6	(No Tag 08)
+pier	0xF886	Places , 
+pier-crane	0xF887	(No Tag 08)
+pig	0xF401	Agriculture , Animal , 
+pill	0xF402	Medical / Hospital , 
+pillar	0xF701	(No Tag 08)
+pin	0xF403	(No Tag 08)
+pin-off	0xF404	(No Tag 08)
+pin-off-outline	0xF92F	(No Tag 08)
+pin-outline	0xF930	(No Tag 08)
+pine-tree	0xF405	Nature , Holiday , 
+pine-tree-box	0xF406	Nature , Holiday , 
+pinterest	0xF407	Brand / Logo , 
+pinterest-box	0xF408	Brand / Logo , 
+pipe	0xF7E4	Home Automation , 
+pipe-disconnected	0xF7E5	Home Automation , 
+pipe-leak	0xF888	Home Automation , 
+pirate	0xFA07	(No Tag 08)
+pistol	0xF702	(No Tag 08)
+piston	0xF889	(No Tag 08)
+pizza	0xF409	Places , Food / Drink , 
+plane-shield	0xF6BA	Transportation + Flying , 
+play	0xF40A	Home Automation , 
+play-box-outline	0xF40B	(No Tag 08)
+play-circle	0xF40C	(No Tag 08)
+play-circle-outline	0xF40D	(No Tag 08)
+play-network	0xF88A	(No Tag 08)
+play-pause	0xF40E	Home Automation , 
+play-protected-content	0xF40F	(No Tag 08)
+play-speed	0xF8FE	(No Tag 08)
+playlist-check	0xF5C7	(No Tag 08)
+playlist-edit	0xF8FF	(No Tag 08)
+playlist-minus	0xF410	(No Tag 08)
+playlist-play	0xF411	(No Tag 08)
+playlist-plus	0xF412	(No Tag 08)
+playlist-remove	0xF413	(No Tag 08)
+playstation	0xF414	Brand / Logo , 
+plex	0xF6B9	Brand / Logo , 
+plus	0xF415	Math , 
+plus-box	0xF416	Math , 
+plus-box-outline	0xF703	Math , 
+plus-circle	0xF417	(No Tag 08)
+plus-circle-multiple-outline	0xF418	(No Tag 08)
+plus-circle-outline	0xF419	(No Tag 08)
+plus-minus	0xF991	(No Tag 08)
+plus-minus-box	0xF992	(No Tag 08)
+plus-network	0xF41A	(No Tag 08)
+plus-one	0xF41B	(No Tag 08)
+plus-outline	0xF704	(No Tag 08)
+pocket	0xF41C	Brand / Logo , 
+podcast	0xF993	(No Tag 08)
+pokeball	0xF41D	(No Tag 08)
+pokemon-go	0xFA08	(No Tag 08)
+poker-chip	0xF82F	(No Tag 08)
+polaroid	0xF41E	(No Tag 08)
+poll	0xF41F	(No Tag 08)
+poll-box	0xF420	(No Tag 08)
+polymer	0xF421	Brand / Logo , 
+pool	0xF606	Places , 
+popcorn	0xF422	Food / Drink , 
+pot	0xF65A	Food / Drink , 
+pot-mix	0xF65B	Food / Drink , 
+pound	0xF423	(No Tag 08)
+pound-box	0xF424	(No Tag 08)
+power	0xF425	Home Automation , 
+power-cycle	0xF900	(No Tag 08)
+power-off	0xF901	(No Tag 08)
+power-on	0xF902	(No Tag 08)
+power-plug	0xF6A4	Home Automation , 
+power-plug-off	0xF6A5	Home Automation , 
+power-settings	0xF426	Settings , 
+power-sleep	0xF903	(No Tag 08)
+power-socket	0xF427	Home Automation , 
+power-socket-au	0xF904	(No Tag 08)
+power-socket-eu	0xF7E6	Home Automation , 
+power-socket-uk	0xF7E7	Home Automation , 
+power-socket-us	0xF7E8	Home Automation , 
+power-standby	0xF905	(No Tag 08)
+powershell	0xFA09	(No Tag 08)
+prescription	0xF705	Medical / Hospital , 
+presentation	0xF428	(No Tag 08)
+presentation-play	0xF429	(No Tag 08)
+printer	0xF42A	Home Automation , Printer , 
+printer-3d	0xF42B	Home Automation , Printer , 
+printer-alert	0xF42C	Home Automation , Printer , 
+printer-settings	0xF706	Printer , Settings , 
+printer-wireless	0xFA0A	(No Tag 08)
+priority-high	0xF603	(No Tag 08)
+priority-low	0xF604	(No Tag 08)
+professional-hexagon	0xF42D	(No Tag 08)
+progress-check	0xF994	(No Tag 08)
+progress-clock	0xF995	Date / Time , 
+progress-download	0xF996	(No Tag 08)
+progress-upload	0xF997	(No Tag 08)
+projector	0xF42E	Home Automation , Device / Tech , 
+projector-screen	0xF42F	Home Automation , Device / Tech , 
+publish	0xF6A6	(No Tag 08)
+pulse	0xF430	Medical / Hospital , 
+puzzle	0xF431	(No Tag 08)
+qi	0xF998	(No Tag 08)
+qqchat	0xF605	Brand / Logo , 
+qrcode	0xF432	(No Tag 08)
+qrcode-edit	0xF8B7	(No Tag 08)
+qrcode-scan	0xF433	(No Tag 08)
+quadcopter	0xF434	(No Tag 08)
+quality-high	0xF435	Video / Movie , 
+quality-low	0xFA0B	(No Tag 08)
+quality-medium	0xFA0C	(No Tag 08)
+quicktime	0xF436	Brand / Logo , 
+rabbit	0xF906	Animal , 
+radar	0xF437	(No Tag 08)
+radiator	0xF438	Home Automation , 
+radio	0xF439	Audio , 
+radio-handheld	0xF43A	(No Tag 08)
+radio-tower	0xF43B	(No Tag 08)
+radioactive	0xF43C	Science , 
+radiobox-blank	0xF43D	(No Tag 08)
+radiobox-marked	0xF43E	(No Tag 08)
+raspberrypi	0xF43F	(No Tag 08)
+ray-end	0xF440	(No Tag 08)
+ray-end-arrow	0xF441	(No Tag 08)
+ray-start	0xF442	(No Tag 08)
+ray-start-arrow	0xF443	(No Tag 08)
+ray-start-end	0xF444	(No Tag 08)
+ray-vertex	0xF445	(No Tag 08)
+react	0xF707	Brand / Logo , 
+read	0xF447	(No Tag 08)
+receipt	0xF449	(No Tag 08)
+record	0xF44A	Home Automation , 
+record-player	0xF999	Home Automation , 
+record-rec	0xF44B	Home Automation , 
+recycle	0xF44C	(No Tag 08)
+reddit	0xF44D	Brand / Logo , Social Media , 
+redo	0xF44E	(No Tag 08)
+redo-variant	0xF44F	(No Tag 08)
+reflect-horizontal	0xFA0D	(No Tag 08)
+reflect-vertical	0xFA0E	(No Tag 08)
+refresh	0xF450	(No Tag 08)
+regex	0xF451	(No Tag 08)
+relative-scale	0xF452	(No Tag 08)
+reload	0xF453	(No Tag 08)
+reminder	0xF88B	(No Tag 08)
+remote	0xF454	Home Automation , 
+remote-desktop	0xF8B8	(No Tag 08)
+rename-box	0xF455	(No Tag 08)
+reorder-horizontal	0xF687	(No Tag 08)
+reorder-vertical	0xF688	(No Tag 08)
+repeat	0xF456	(No Tag 08)
+repeat-off	0xF457	(No Tag 08)
+repeat-once	0xF458	(No Tag 09)
+replay	0xF459	(No Tag 09)
+reply	0xF45A	(No Tag 09)
+reply-all	0xF45B	(No Tag 09)
+reproduction	0xF45C	(No Tag 09)
+resize-bottom-right	0xF45D	(No Tag 09)
+responsive	0xF45E	(No Tag 09)
+restart	0xF708	(No Tag 09)
+restore	0xF99A	(No Tag 09)
+restore-clock	0xF6A7	(No Tag 09)
+rewind	0xF45F	(No Tag 09)
+rewind-outline	0xF709	(No Tag 09)
+rhombus	0xF70A	Shape , 
+rhombus-medium	0xFA0F	(No Tag 09)
+rhombus-outline	0xF70B	Shape , 
+rhombus-split	0xFA10	(No Tag 09)
+ribbon	0xF460	(No Tag 09)
+rice	0xF7E9	Food / Drink , 
+ring	0xF7EA	(No Tag 09)
+road	0xF461	(No Tag 09)
+road-variant	0xF462	(No Tag 09)
+robot	0xF6A8	(No Tag 09)
+robot-vacuum	0xF70C	Home Automation , Device / Tech , 
+robot-vacuum-variant	0xF907	Home Automation , 
+rocket	0xF463	Transportation + Flying , 
+room-service	0xF88C	(No Tag 09)
+rotate-3d	0xF464	(No Tag 09)
+rotate-left	0xF465	Arrow , 
+rotate-left-variant	0xF466	(No Tag 09)
+rotate-right	0xF467	Arrow , 
+rotate-right-variant	0xF468	(No Tag 09)
+rounded-corner	0xF607	(No Tag 09)
+router-wireless	0xF469	(No Tag 09)
+routes	0xF46A	(No Tag 09)
+rowing	0xF608	Sport , 
+rss	0xF46B	(No Tag 09)
+rss-box	0xF46C	(No Tag 09)
+ruler	0xF46D	(No Tag 09)
+run	0xF70D	Sport , 
+run-fast	0xF46E	Sport , Home Automation , 
+sale	0xF46F	(No Tag 09)
+salesforce	0xF88D	Brand / Logo , 
+sass	0xF7EB	Brand / Logo , 
+satellite	0xF470	(No Tag 09)
+satellite-uplink	0xF908	(No Tag 09)
+satellite-variant	0xF471	(No Tag 09)
+sausage	0xF8B9	Food / Drink , 
+saxophone	0xF609	(No Tag 09)
+scale	0xF472	Food / Drink , 
+scale-balance	0xF5D1	(No Tag 09)
+scale-bathroom	0xF473	Home Automation , 
+scanner	0xF6AA	Device / Tech , 
+scanner-off	0xF909	Device / Tech , 
+school	0xF474	(No Tag 09)
+screen-rotation	0xF475	(No Tag 09)
+screen-rotation-lock	0xF476	(No Tag 09)
+screwdriver	0xF477	Hardware / Tools , 
+script	0xF478	(No Tag 09)
+sd	0xF479	(No Tag 09)
+seal	0xF47A	(No Tag 09)
+search-web	0xF70E	(No Tag 09)
+seat-flat	0xF47B	(No Tag 09)
+seat-flat-angled	0xF47C	(No Tag 09)
+seat-individual-suite	0xF47D	(No Tag 09)
+seat-legroom-extra	0xF47E	(No Tag 09)
+seat-legroom-normal	0xF47F	(No Tag 09)
+seat-legroom-reduced	0xF480	(No Tag 09)
+seat-recline-extra	0xF481	(No Tag 09)
+seat-recline-normal	0xF482	(No Tag 09)
+security	0xF483	(No Tag 09)
+security-account	0xF88E	Account / User , 
+security-account-outline	0xFA11	(No Tag 09)
+security-close	0xF99B	(No Tag 09)
+security-home	0xF689	Home Automation , 
+security-lock	0xF99C	Lock , 
+security-network	0xF484	(No Tag 09)
+security-off	0xF99D	(No Tag 09)
+select	0xF485	(No Tag 09)
+select-all	0xF486	(No Tag 09)
+select-inverse	0xF487	(No Tag 09)
+select-off	0xF488	(No Tag 09)
+selection	0xF489	(No Tag 09)
+selection-off	0xF776	(No Tag 09)
+send	0xF48A	(No Tag 09)
+send-secure	0xF7EC	(No Tag 09)
+serial-port	0xF65C	(No Tag 09)
+server	0xF48B	(No Tag 09)
+server-minus	0xF48C	(No Tag 09)
+server-network	0xF48D	(No Tag 09)
+server-network-off	0xF48E	(No Tag 09)
+server-off	0xF48F	(No Tag 09)
+server-plus	0xF490	(No Tag 09)
+server-remove	0xF491	(No Tag 09)
+server-security	0xF492	(No Tag 09)
+set-all	0xF777	(No Tag 09)
+set-center	0xF778	(No Tag 09)
+set-center-right	0xF779	(No Tag 09)
+set-left	0xF77A	(No Tag 09)
+set-left-center	0xF77B	(No Tag 09)
+set-left-right	0xF77C	(No Tag 09)
+set-none	0xF77D	(No Tag 09)
+set-right	0xF77E	(No Tag 09)
+set-top-box	0xF99E	Home Automation , 
+settings	0xF493	Settings , 
+settings-box	0xF494	Settings , 
+settings-outline	0xF8BA	Settings , 
+shape	0xF830	Shape , 
+shape-circle-plus	0xF65D	Shape , 
+shape-outline	0xF831	Shape , 
+shape-plus	0xF495	Shape , 
+shape-polygon-plus	0xF65E	Shape , 
+shape-rectangle-plus	0xF65F	Shape , 
+shape-square-plus	0xF660	Shape , 
+share	0xF496	(No Tag 09)
+share-outline	0xF931	(No Tag 09)
+share-variant	0xF497	(No Tag 09)
+shield	0xF498	(No Tag 09)
+shield-half-full	0xF77F	(No Tag 09)
+shield-outline	0xF499	(No Tag 09)
+ship-wheel	0xF832	Transportation + Water , 
+shopping	0xF49A	Shopping , 
+shopping-music	0xF49B	Shopping , 
+shovel	0xF70F	Hardware / Tools , 
+shovel-off	0xF710	Hardware / Tools , 
+shower	0xF99F	Home Automation , 
+shower-head	0xF9A0	Home Automation , 
+shredder	0xF49C	(No Tag 09)
+shuffle	0xF49D	(No Tag 09)
+shuffle-disabled	0xF49E	(No Tag 09)
+shuffle-variant	0xF49F	(No Tag 09)
+sigma	0xF4A0	Math , 
+sigma-lower	0xF62B	(No Tag 09)
+sign-caution	0xF4A1	(No Tag 09)
+sign-direction	0xF780	(No Tag 09)
+sign-text	0xF781	(No Tag 09)
+signal	0xF4A2	(No Tag 09)
+signal-2g	0xF711	(No Tag 09)
+signal-3g	0xF712	(No Tag 09)
+signal-4g	0xF713	(No Tag 09)
+signal-cellular-1	0xF8BB	(No Tag 09)
+signal-cellular-2	0xF8BC	(No Tag 09)
+signal-cellular-3	0xF8BD	(No Tag 10)
+signal-cellular-outline	0xF8BE	(No Tag 10)
+signal-hspa	0xF714	(No Tag 10)
+signal-hspa-plus	0xF715	(No Tag 10)
+signal-off	0xF782	(No Tag 10)
+signal-variant	0xF60A	(No Tag 10)
+silverware	0xF4A3	Food / Drink , 
+silverware-fork	0xF4A4	Food / Drink , 
+silverware-spoon	0xF4A5	Food / Drink , 
+silverware-variant	0xF4A6	Places , Food / Drink , 
+sim	0xF4A7	(No Tag 10)
+sim-alert	0xF4A8	(No Tag 10)
+sim-off	0xF4A9	Cellphone / Phone , 
+sitemap	0xF4AA	(No Tag 10)
+skip-backward	0xF4AB	Home Automation , 
+skip-forward	0xF4AC	Home Automation , 
+skip-next	0xF4AD	Home Automation , 
+skip-next-circle	0xF661	(No Tag 10)
+skip-next-circle-outline	0xF662	(No Tag 10)
+skip-previous	0xF4AE	Home Automation , 
+skip-previous-circle	0xF663	(No Tag 10)
+skip-previous-circle-outline	0xF664	(No Tag 10)
+skull	0xF68B	(No Tag 10)
+skype	0xF4AF	Brand / Logo , 
+skype-business	0xF4B0	Brand / Logo , 
+slack	0xF4B1	Brand / Logo , 
+slackware	0xF90A	Brand / Logo , 
+sleep	0xF4B2	(No Tag 10)
+sleep-off	0xF4B3	(No Tag 10)
+smoke-detector	0xF392	Home Automation , Device / Tech , 
+smoking	0xF4B4	(No Tag 10)
+smoking-off	0xF4B5	(No Tag 10)
+snapchat	0xF4B6	Brand / Logo , 
+snowflake	0xF716	Holiday , Weather , 
+snowman	0xF4B7	Holiday , 
+soccer	0xF4B8	Sport , 
+soccer-field	0xF833	Sport , 
+sofa	0xF4B9	(No Tag 10)
+solid	0xF68C	(No Tag 10)
+sort	0xF4BA	(No Tag 10)
+sort-alphabetical	0xF4BB	(No Tag 10)
+sort-ascending	0xF4BC	(No Tag 10)
+sort-descending	0xF4BD	(No Tag 10)
+sort-numeric	0xF4BE	(No Tag 10)
+sort-variant	0xF4BF	(No Tag 10)
+soundcloud	0xF4C0	Brand / Logo , 
+source-branch	0xF62C	(No Tag 10)
+source-commit	0xF717	(No Tag 10)
+source-commit-end	0xF718	(No Tag 10)
+source-commit-end-local	0xF719	(No Tag 10)
+source-commit-local	0xF71A	(No Tag 10)
+source-commit-next-local	0xF71B	(No Tag 10)
+source-commit-start	0xF71C	(No Tag 10)
+source-commit-start-next-local	0xF71D	(No Tag 10)
+source-fork	0xF4C1	(No Tag 10)
+source-merge	0xF62D	(No Tag 10)
+source-pull	0xF4C2	(No Tag 10)
+soy-sauce	0xF7ED	Food / Drink , 
+speaker	0xF4C3	Home Automation , Audio , 
+speaker-bluetooth	0xF9A1	(No Tag 10)
+speaker-off	0xF4C4	Home Automation , Audio , 
+speaker-wireless	0xF71E	Home Automation , Audio , 
+speedometer	0xF4C5	(No Tag 10)
+spellcheck	0xF4C6	(No Tag 10)
+spotify	0xF4C7	Brand / Logo , 
+spotlight	0xF4C8	Home Automation , 
+spotlight-beam	0xF4C9	Home Automation , 
+spray	0xF665	(No Tag 10)
+square	0xF763	Shape , 
+square-edit-outline	0xF90B	(No Tag 10)
+square-inc	0xF4CA	Brand / Logo , 
+square-inc-cash	0xF4CB	Brand / Logo , 
+square-medium	0xFA12	(No Tag 10)
+square-medium-outline	0xFA13	(No Tag 10)
+square-outline	0xF762	Shape , 
+square-root	0xF783	Math , 
+square-root-box	0xF9A2	(No Tag 10)
+square-small	0xFA14	(No Tag 10)
+ssh	0xF8BF	(No Tag 10)
+stack-exchange	0xF60B	Brand / Logo , 
+stack-overflow	0xF4CC	Brand / Logo , 
+stadium	0xF71F	Sport , Places , 
+stairs	0xF4CD	(No Tag 10)
+standard-definition	0xF7EE	Video / Movie , 
+star	0xF4CE	Shape , 
+star-circle	0xF4CF	(No Tag 10)
+star-circle-outline	0xF9A3	(No Tag 10)
+star-face	0xF9A4	(No Tag 10)
+star-half	0xF4D0	(No Tag 10)
+star-off	0xF4D1	(No Tag 10)
+star-outline	0xF4D2	Shape , 
+steam	0xF4D3	Brand / Logo , 
+steam-box	0xF90C	Brand / Logo , 
+steering	0xF4D4	(No Tag 10)
+steering-off	0xF90D	(No Tag 10)
+step-backward	0xF4D5	(No Tag 10)
+step-backward-2	0xF4D6	(No Tag 10)
+step-forward	0xF4D7	(No Tag 10)
+step-forward-2	0xF4D8	(No Tag 10)
+stethoscope	0xF4D9	Medical / Hospital , 
+sticker	0xF5D0	(No Tag 10)
+sticker-emoji	0xF784	Emoji , 
+stocking	0xF4DA	Holiday , 
+stop	0xF4DB	(No Tag 10)
+stop-circle	0xF666	(No Tag 10)
+stop-circle-outline	0xF667	(No Tag 10)
+store	0xF4DC	Places , 
+store-24-hour	0xF4DD	Places , 
+stove	0xF4DE	Home Automation , Food / Drink , 
+subdirectory-arrow-left	0xF60C	Arrow , 
+subdirectory-arrow-right	0xF60D	Arrow , 
+subtitles	0xFA15	(No Tag 10)
+subtitles-outline	0xFA16	(No Tag 10)
+subway	0xF6AB	Transportation + Other , 
+subway-variant	0xF4DF	Transportation + Other , 
+summit	0xF785	(No Tag 10)
+sunglasses	0xF4E0	(No Tag 10)
+surround-sound	0xF5C5	Audio , 
+surround-sound-2-0	0xF7EF	Audio , 
+surround-sound-3-1	0xF7F0	Audio , 
+surround-sound-5-1	0xF7F1	Audio , 
+surround-sound-7-1	0xF7F2	Audio , 
+svg	0xF720	(No Tag 10)
+swap-horizontal	0xF4E1	(No Tag 10)
+swap-horizontal-variant	0xF8C0	(No Tag 10)
+swap-vertical	0xF4E2	(No Tag 10)
+swap-vertical-variant	0xF8C1	(No Tag 10)
+swim	0xF4E3	Sport , 
+switch	0xF4E4	(No Tag 10)
+sword	0xF4E5	(No Tag 10)
+sword-cross	0xF786	(No Tag 10)
+sync	0xF4E6	(No Tag 10)
+sync-alert	0xF4E7	(No Tag 10)
+sync-off	0xF4E8	(No Tag 10)
+tab	0xF4E9	(No Tag 10)
+tab-plus	0xF75B	(No Tag 10)
+tab-unselected	0xF4EA	(No Tag 10)
+table	0xF4EB	(No Tag 10)
+table-border	0xFA17	(No Tag 10)
+table-column	0xF834	(No Tag 10)
+table-column-plus-after	0xF4EC	(No Tag 10)
+table-column-plus-before	0xF4ED	(No Tag 10)
+table-column-remove	0xF4EE	(No Tag 10)
+table-column-width	0xF4EF	(No Tag 10)
+table-edit	0xF4F0	(No Tag 10)
+table-large	0xF4F1	(No Tag 10)
+table-merge-cells	0xF9A5	(No Tag 10)
+table-of-contents	0xF835	(No Tag 10)
+table-row	0xF836	(No Tag 10)
+table-row-height	0xF4F2	(No Tag 10)
+table-row-plus-after	0xF4F3	(No Tag 10)
+table-row-plus-before	0xF4F4	(No Tag 10)
+table-row-remove	0xF4F5	(No Tag 10)
+table-search	0xF90E	(No Tag 10)
+table-settings	0xF837	Settings , 
+tablet	0xF4F6	Device / Tech , 
+tablet-android	0xF4F7	Device / Tech , 
+tablet-cellphone	0xF9A6	Cellphone / Phone , 
+tablet-ipad	0xF4F8	Device / Tech , 
+taco	0xF761	Food / Drink , 
+tag	0xF4F9	(No Tag 10)
+tag-faces	0xF4FA	(No Tag 10)
+tag-heart	0xF68A	(No Tag 11)
+tag-minus	0xF90F	(No Tag 11)
+tag-multiple	0xF4FB	(No Tag 11)
+tag-outline	0xF4FC	(No Tag 11)
+tag-plus	0xF721	(No Tag 11)
+tag-remove	0xF722	(No Tag 11)
+tag-text-outline	0xF4FD	(No Tag 11)
+target	0xF4FE	(No Tag 11)
+taxi	0xF4FF	Transportation + Road , 
+teach	0xF88F	(No Tag 11)
+teamviewer	0xF500	Brand / Logo , 
+telegram	0xF501	Brand / Logo , 
+television	0xF502	Home Automation , Device / Tech , 
+television-box	0xF838	(No Tag 11)
+television-classic	0xF7F3	Home Automation , Device / Tech , 
+television-classic-off	0xF839	Home Automation , Device / Tech , 
+television-guide	0xF503	Home Automation , Device / Tech , 
+television-off	0xF83A	Home Automation , Device / Tech , 
+temperature-celsius	0xF504	Weather , 
+temperature-fahrenheit	0xF505	Weather , 
+temperature-kelvin	0xF506	Weather , 
+tennis	0xF507	Sport , 
+tent	0xF508	(No Tag 11)
+terrain	0xF509	Nature , 
+test-tube	0xF668	Science , 
+test-tube-empty	0xF910	Science , 
+test-tube-off	0xF911	Science , 
+text	0xF9A7	(No Tag 11)
+text-shadow	0xF669	(No Tag 11)
+text-short	0xF9A8	(No Tag 11)
+text-subject	0xF9A9	(No Tag 11)
+text-to-speech	0xF50A	(No Tag 11)
+text-to-speech-off	0xF50B	(No Tag 11)
+textbox	0xF60E	Form , 
+textbox-password	0xF7F4	Form , 
+texture	0xF50C	(No Tag 11)
+theater	0xF50D	Places , 
+theme-light-dark	0xF50E	(No Tag 11)
+thermometer	0xF50F	Home Automation , Weather , 
+thermometer-lines	0xF510	Weather , 
+thermostat	0xF393	Home Automation , Device / Tech , 
+thermostat-box	0xF890	Home Automation , 
+thought-bubble	0xF7F5	(No Tag 11)
+thought-bubble-outline	0xF7F6	(No Tag 11)
+thumb-down	0xF511	(No Tag 11)
+thumb-down-outline	0xF512	(No Tag 11)
+thumb-up	0xF513	(No Tag 11)
+thumb-up-outline	0xF514	(No Tag 11)
+thumbs-up-down	0xF515	(No Tag 11)
+ticket	0xF516	(No Tag 11)
+ticket-account	0xF517	Account / User , 
+ticket-confirmation	0xF518	(No Tag 11)
+ticket-outline	0xF912	(No Tag 11)
+ticket-percent	0xF723	(No Tag 11)
+tie	0xF519	Clothing , 
+tilde	0xF724	(No Tag 11)
+timelapse	0xF51A	Date / Time , 
+timer	0xF51B	Date / Time , 
+timer-10	0xF51C	Date / Time , 
+timer-3	0xF51D	Date / Time , 
+timer-off	0xF51E	Date / Time , 
+timer-sand	0xF51F	Date / Time , 
+timer-sand-empty	0xF6AC	Date / Time , 
+timer-sand-full	0xF78B	Date / Time , 
+timetable	0xF520	Date / Time , 
+toggle-switch	0xF521	(No Tag 11)
+toggle-switch-off	0xF522	(No Tag 11)
+toggle-switch-off-outline	0xFA18	(No Tag 11)
+toggle-switch-outline	0xFA19	(No Tag 11)
+toilet	0xF9AA	Home Automation , 
+toolbox	0xF9AB	(No Tag 11)
+toolbox-outline	0xF9AC	(No Tag 11)
+tooltip	0xF523	Tooltip , 
+tooltip-edit	0xF524	Tooltip , 
+tooltip-image	0xF525	Tooltip , 
+tooltip-outline	0xF526	Tooltip , 
+tooltip-outline-plus	0xF527	Tooltip , 
+tooltip-text	0xF528	Tooltip , 
+tooth	0xF8C2	(No Tag 11)
+tooth-outline	0xF529	(No Tag 11)
+tor	0xF52A	Brand / Logo , 
+tournament	0xF9AD	(No Tag 11)
+tower-beach	0xF680	(No Tag 11)
+tower-fire	0xF681	(No Tag 11)
+towing	0xF83B	Transportation + Road , 
+track-light	0xF913	Home Automation , 
+trackpad	0xF7F7	(No Tag 11)
+trackpad-lock	0xF932	(No Tag 11)
+tractor	0xF891	Transportation + Road , Agriculture , 
+traffic-light	0xF52B	(No Tag 11)
+train	0xF52C	Transportation + Other , Navigation , 
+train-variant	0xF8C3	Transportation + Other , 
+tram	0xF52D	Transportation + Other , Navigation , 
+transcribe	0xF52E	(No Tag 11)
+transcribe-close	0xF52F	(No Tag 11)
+transfer	0xF530	(No Tag 11)
+transit-transfer	0xF6AD	(No Tag 11)
+transition	0xF914	(No Tag 11)
+transition-masked	0xF915	(No Tag 11)
+translate	0xF5CA	(No Tag 11)
+treasure-chest	0xF725	(No Tag 11)
+tree	0xF531	Nature , 
+trello	0xF532	Brand / Logo , 
+trending-down	0xF533	(No Tag 11)
+trending-neutral	0xF534	(No Tag 11)
+trending-up	0xF535	(No Tag 11)
+triangle	0xF536	Shape , 
+triangle-outline	0xF537	Shape , 
+trophy	0xF538	(No Tag 11)
+trophy-award	0xF539	(No Tag 11)
+trophy-outline	0xF53A	(No Tag 11)
+trophy-variant	0xF53B	(No Tag 11)
+trophy-variant-outline	0xF53C	(No Tag 11)
+truck	0xF53D	Transportation + Road , 
+truck-delivery	0xF53E	Transportation + Road , 
+truck-fast	0xF787	Transportation + Road , 
+truck-trailer	0xF726	Transportation + Road , 
+tshirt-crew	0xF53F	Clothing , 
+tshirt-v	0xF540	Clothing , 
+tumble-dryer	0xF916	Home Automation , 
+tumblr	0xF541	Brand / Logo , 
+tumblr-box	0xF917	Brand / Logo , 
+tumblr-reblog	0xF542	(No Tag 11)
+tune	0xF62E	Settings , 
+tune-vertical	0xF66A	Settings , 
+twitch	0xF543	Brand / Logo , Social Media , 
+twitter	0xF544	Social Media , Brand / Logo , 
+twitter-box	0xF545	Brand / Logo , Social Media , 
+twitter-circle	0xF546	Brand / Logo , Social Media , 
+twitter-retweet	0xF547	(No Tag 11)
+two-factor-authentication	0xF9AE	(No Tag 11)
+uber	0xF748	Brand / Logo , 
+ubuntu	0xF548	Brand / Logo , 
+ultra-high-definition	0xF7F8	Video / Movie , 
+umbraco	0xF549	Brand / Logo , 
+umbrella	0xF54A	Weather , 
+umbrella-closed	0xF9AF	Weather , 
+umbrella-outline	0xF54B	Weather , 
+undo	0xF54C	(No Tag 11)
+undo-variant	0xF54D	(No Tag 11)
+unfold-less-horizontal	0xF54E	(No Tag 11)
+unfold-less-vertical	0xF75F	(No Tag 11)
+unfold-more-horizontal	0xF54F	(No Tag 11)
+unfold-more-vertical	0xF760	(No Tag 11)
+ungroup	0xF550	(No Tag 11)
+unity	0xF6AE	Brand / Logo , 
+unreal	0xF9B0	Brand / Logo , 
+untappd	0xF551	Brand / Logo , 
+update	0xF6AF	(No Tag 11)
+upload	0xF552	(No Tag 11)
+upload-multiple	0xF83C	(No Tag 11)
+upload-network	0xF6F5	(No Tag 11)
+usb	0xF553	(No Tag 11)
+van-passenger	0xF7F9	Transportation + Road , 
+van-utility	0xF7FA	Transportation + Road , 
+vanish	0xF7FB	(No Tag 11)
+vector-arrange-above	0xF554	Arrange , Vector , 
+vector-arrange-below	0xF555	Arrange , Vector , 
+vector-circle	0xF556	Vector , 
+vector-circle-variant	0xF557	Vector , 
+vector-combine	0xF558	Vector , 
+vector-curve	0xF559	Vector , 
+vector-difference	0xF55A	Vector , 
+vector-difference-ab	0xF55B	Vector , 
+vector-difference-ba	0xF55C	Vector , 
+vector-ellipse	0xF892	Vector , 
+vector-intersection	0xF55D	Vector , 
+vector-line	0xF55E	Vector , 
+vector-point	0xF55F	Vector , 
+vector-polygon	0xF560	Vector , 
+vector-polyline	0xF561	Vector , 
+vector-radius	0xF749	Vector , 
+vector-rectangle	0xF5C6	Vector , 
+vector-selection	0xF562	Vector , 
+vector-square	0xF001	Vector , 
+vector-triangle	0xF563	Vector , 
+vector-union	0xF564	Vector , 
+venmo	0xF578	Brand / Logo , 
+verified	0xF565	Account / User , 
+vhs	0xFA1A	(No Tag 11)
+vibrate	0xF566	(No Tag 11)
+video	0xF567	Home Automation , Video / Movie , 
+video-3d	0xF7FC	Video / Movie , Video / Movie , 
+video-4k-box	0xF83D	(No Tag 11)
+video-account	0xF918	Video / Movie , Account / User , 
+video-image	0xF919	Video / Movie , 
+video-input-antenna	0xF83E	(No Tag 11)
+video-input-component	0xF83F	(No Tag 11)
+video-input-hdmi	0xF840	(No Tag 11)
+video-input-svideo	0xF841	(No Tag 11)
+video-minus	0xF9B1	Video / Movie , 
+video-off	0xF568	Home Automation , Video / Movie , 
+video-plus	0xF9B2	Video / Movie , 
+video-stabilization	0xF91A	(No Tag 11)
+video-switch	0xF569	Video / Movie , 
+video-vintage	0xFA1B	(No Tag 11)
+view-agenda	0xF56A	View , 
+view-array	0xF56B	View , 
+view-carousel	0xF56C	View , 
+view-column	0xF56D	View , 
+view-dashboard	0xF56E	View , 
+view-dashboard-outline	0xFA1C	(No Tag 11)
+view-dashboard-variant	0xF842	View , 
+view-day	0xF56F	View , 
+view-grid	0xF570	View , 
+view-headline	0xF571	View , 
+view-list	0xF572	View , 
+view-module	0xF573	View , 
+view-parallel	0xF727	View , 
+view-quilt	0xF574	View , 
+view-sequential	0xF728	View , 
+view-stream	0xF575	View , 
+view-week	0xF576	View , 
+vimeo	0xF577	Brand / Logo , 
+violin	0xF60F	(No Tag 11)
+virtual-reality	0xF893	(No Tag 11)
+visual-studio	0xF610	Brand / Logo , 
+visual-studio-code	0xFA1D	(No Tag 11)
+vk	0xF579	Brand / Logo , 
+vk-box	0xF57A	Brand / Logo , 
+vk-circle	0xF57B	Brand / Logo , 
+vlc	0xF57C	Brand / Logo , 
+voice	0xF5CB	(No Tag 11)
+voicemail	0xF57D	(No Tag 11)
+volleyball	0xF9B3	Sport , 
+volume-high	0xF57E	Home Automation , Audio , 
+volume-low	0xF57F	Home Automation , Audio , 
+volume-medium	0xF580	Home Automation , Audio , 
+volume-minus	0xF75D	Home Automation , Audio , 
+volume-mute	0xF75E	Audio , 
+volume-off	0xF581	Home Automation , Audio , 
+volume-plus	0xF75C	Home Automation , Audio , 
+vote	0xFA1E	(No Tag 11)
+vote-outline	0xFA1F	(No Tag 11)
+vpn	0xF582	(No Tag 11)
+vuejs	0xF843	Brand / Logo , 
+walk	0xF583	Sport , 
+wall	0xF7FD	(No Tag 11)
+wall-sconce	0xF91B	Home Automation , 
+wall-sconce-flat	0xF91C	Home Automation , 
+wall-sconce-variant	0xF91D	Home Automation , 
+wallet	0xF584	(No Tag 11)
+wallet-giftcard	0xF585	Shopping , 
+wallet-membership	0xF586	(No Tag 11)
+wallet-travel	0xF587	(No Tag 11)
+wan	0xF588	(No Tag 11)
+washing-machine	0xF729	Home Automation , 
+watch	0xF589	Device / Tech , 
+watch-export	0xF58A	(No Tag 12)
+watch-export-variant	0xF894	(No Tag 12)
+watch-import	0xF58B	(No Tag 12)
+watch-import-variant	0xF895	(No Tag 12)
+watch-variant	0xF896	Device / Tech , 
+watch-vibrate	0xF6B0	(No Tag 12)
+water	0xF58C	(No Tag 12)
+water-off	0xF58D	(No Tag 12)
+water-percent	0xF58E	Home Automation , Weather , 
+water-pump	0xF58F	(No Tag 12)
+watermark	0xF612	(No Tag 12)
+waves	0xF78C	(No Tag 12)
+weather-cloudy	0xF590	Weather , 
+weather-fog	0xF591	Weather , 
+weather-hail	0xF592	Weather , 
+weather-hurricane	0xF897	Weather , 
+weather-lightning	0xF593	Weather , 
+weather-lightning-rainy	0xF67D	Weather , 
+weather-night	0xF594	Weather , 
+weather-partlycloudy	0xF595	Weather , 
+weather-pouring	0xF596	Weather , 
+weather-rainy	0xF597	Weather , 
+weather-snowy	0xF598	Weather , 
+weather-snowy-rainy	0xF67E	Weather , 
+weather-sunny	0xF599	Weather , 
+weather-sunset	0xF59A	Weather , 
+weather-sunset-down	0xF59B	Weather , 
+weather-sunset-up	0xF59C	Weather , 
+weather-windy	0xF59D	Weather , 
+weather-windy-variant	0xF59E	Weather , 
+web	0xF59F	(No Tag 12)
+webcam	0xF5A0	Home Automation , Video / Movie , 
+webhook	0xF62F	(No Tag 12)
+webpack	0xF72A	Brand / Logo , 
+wechat	0xF611	Brand / Logo , 
+weight	0xF5A1	(No Tag 12)
+weight-kilogram	0xF5A2	(No Tag 12)
+weight-pound	0xF9B4	(No Tag 12)
+whatsapp	0xF5A3	Brand / Logo , 
+wheelchair-accessibility	0xF5A4	(No Tag 12)
+whistle	0xF9B5	(No Tag 12)
+white-balance-auto	0xF5A5	(No Tag 12)
+white-balance-incandescent	0xF5A6	(No Tag 12)
+white-balance-iridescent	0xF5A7	(No Tag 12)
+white-balance-sunny	0xF5A8	(No Tag 12)
+widgets	0xF72B	(No Tag 12)
+wifi	0xF5A9	(No Tag 12)
+wifi-off	0xF5AA	(No Tag 12)
+wifi-strength-1	0xF91E	(No Tag 12)
+wifi-strength-1-alert	0xF91F	(No Tag 12)
+wifi-strength-1-lock	0xF920	(No Tag 12)
+wifi-strength-2	0xF921	(No Tag 12)
+wifi-strength-2-alert	0xF922	(No Tag 12)
+wifi-strength-2-lock	0xF923	(No Tag 12)
+wifi-strength-3	0xF924	(No Tag 12)
+wifi-strength-3-alert	0xF925	(No Tag 12)
+wifi-strength-3-lock	0xF926	(No Tag 12)
+wifi-strength-4	0xF927	(No Tag 12)
+wifi-strength-4-alert	0xF928	(No Tag 12)
+wifi-strength-4-lock	0xF929	(No Tag 12)
+wifi-strength-alert-outline	0xF92A	(No Tag 12)
+wifi-strength-lock-outline	0xF92B	(No Tag 12)
+wifi-strength-off	0xF92C	(No Tag 12)
+wifi-strength-off-outline	0xF92D	(No Tag 12)
+wifi-strength-outline	0xF92E	(No Tag 12)
+wii	0xF5AB	Brand / Logo , 
+wiiu	0xF72C	Brand / Logo , 
+wikipedia	0xF5AC	Brand / Logo , 
+window-close	0xF5AD	(No Tag 12)
+window-closed	0xF5AE	Home Automation , 
+window-maximize	0xF5AF	(No Tag 12)
+window-minimize	0xF5B0	(No Tag 12)
+window-open	0xF5B1	Home Automation , 
+window-restore	0xF5B2	(No Tag 12)
+windows	0xF5B3	Brand / Logo , 
+windows-classic	0xFA20	(No Tag 12)
+wordpress	0xF5B4	Brand / Logo , 
+worker	0xF5B5	(No Tag 12)
+wrap	0xF5B6	(No Tag 12)
+wrench	0xF5B7	Hardware / Tools , 
+wunderlist	0xF5B8	Brand / Logo , 
+xamarin	0xF844	Brand / Logo , 
+xamarin-outline	0xF845	Brand / Logo , 
+xaml	0xF673	(No Tag 12)
+xbox	0xF5B9	Brand / Logo , Social Media , 
+xbox-controller	0xF5BA	(No Tag 12)
+xbox-controller-battery-alert	0xF74A	Battery , 
+xbox-controller-battery-charging	0xFA21	(No Tag 12)
+xbox-controller-battery-empty	0xF74B	Battery , 
+xbox-controller-battery-full	0xF74C	Battery , 
+xbox-controller-battery-low	0xF74D	Battery , 
+xbox-controller-battery-medium	0xF74E	Battery , 
+xbox-controller-battery-unknown	0xF74F	Battery , 
+xbox-controller-off	0xF5BB	(No Tag 12)
+xda	0xF5BC	Brand / Logo , 
+xing	0xF5BD	Brand / Logo , 
+xing-box	0xF5BE	Brand / Logo , 
+xing-circle	0xF5BF	Brand / Logo , 
+xml	0xF5C0	(No Tag 12)
+xmpp	0xF7FE	Brand / Logo , 
+yammer	0xF788	Brand / Logo , 
+yeast	0xF5C1	(No Tag 12)
+yelp	0xF5C2	Brand / Logo , 
+yin-yang	0xF67F	(No Tag 12)
+youtube	0xF5C3	Social Media , Brand / Logo , 
+youtube-creator-studio	0xF846	Brand / Logo , 
+youtube-gaming	0xF847	Brand / Logo , 
+youtube-tv	0xF448	Brand / Logo , 
+zip-box	0xF5C4	(No Tag 12)
+zip-disk	0xFA22	(No Tag 12)
