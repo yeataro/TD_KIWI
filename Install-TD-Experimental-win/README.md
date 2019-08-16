@@ -21,6 +21,8 @@ and that TD version will then be extracted to the folder named `TouchDesigner099
 ### Option
 - Using [`TD-Install-Experimental-option.bat`](https://github.com/yeataro/TD_KIWI/raw/master/Install-TD-Experimental-win/TD-Install-Experimental-option.bat) will automatically delete the useless files, saving more time.
 
+- Using [`TD-Install-Experimental-option-CreateShortcut.bat`](https://github.com/yeataro/TD_KIWI/raw/master/Install-TD-Experimental-win/TD-Install-Experimental-option-CreateShortcut.bat) will automatically delete the useless files, and automatically create shortcuts in the `SendTo` folder, allowing you to easily open the `.toe` file with different versions of the TD.
+
 ----------
 Author : Yea Chen <yeataro@gmail.com>
 
