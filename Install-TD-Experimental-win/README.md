@@ -23,6 +23,6 @@ and that TD version will then be extracted to the folder named `TouchDesigner099
 
 - Using [`TD-Install-Experimental-option-CreateShortcut.bat`](https://github.com/yeataro/TD_KIWI/raw/master/Install-TD-Experimental-win/TD-Install-Experimental-option-CreateShortcut.bat) will automatically delete the useless files, and automatically create shortcuts in the `SendTo` folder, allowing you to easily open the `.toe` file with different versions of the TD.
 
-<center>![](img/sendto.png)</center>
+![](img/sendto.png)
 ----------
 Author : Yea Chen <yeataro@gmail.com>
